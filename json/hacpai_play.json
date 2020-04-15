@@ -1,10 +1,14 @@
 {
   "title":"黑客派-好玩",
-  "time":"2020-04-15 16:50:08",
+  "time":"2020-04-15 17:00:03",
   "data":[
     {
       "name":"Golang 爬虫快速入门 | 获取 B 站全站的视频数据",
       "url":"https://www.maiyewang.com/index-get.php?url=0tpN10mbPxtYSgvoP3AQ5envrvt2v1rIPgBhrwEgjdt0LJmzv3AxL1DoDvwVLtEmzttingmsHuy&group=hacpai_play&title=90ZzY5uypnNvHv2AP1wDO5wApHwyLvwBYv2tXz0vL1MCL9usdjuASb1vTq3tP9us4i0qXHvBLbNrx1IBb1wlX91vTeNwP9KCjv2tj5wnxL1C5iJu"
+    },
+    {
+      "name":"GitHub 值得收藏的前端项目",
+      "url":"https://www.maiyewang.com/index-get.php?url=0tpb1Kmfr1t3ffvoP3AQ5envrvt2v1rIPgBhrwEgjdt0LJmzv3AxL1DoDvwVLtEmzttingmsHuy&group=hacpai_play&title=90ZzYjwzLvhAT1ICYvwzQP0vpHwyL1IAyLwD0vvyTWwlx9KDbD1tjLMvinfmSjJu"
     },
     {
       "name":"一个能自动从视频中提取出阶段的库，能被广泛用于 app 启动速度自动评测",
