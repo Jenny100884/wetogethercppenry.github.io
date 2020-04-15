@@ -1201,7 +1201,7 @@ def multi_run():
     ts6 = Thread(target=parse_nytimes)
     ts7 = Thread(target=parse_thepaper)
     ts8 = Thread(target=parse_weixin)
-    ts9 = Thread(target=parse_zaobao)
+    #ts9 = Thread(target=parse_zaobao)
     ts10 = Thread(target=parse_cnbeta)
     ts11 = Thread(target=parse_cctv)
     ts12 = Thread(target=parse_ithome)
@@ -1243,7 +1243,7 @@ def multi_run():
     threads.append(ts33)
     threads.append(ts7)
     threads.append(ts8)
-    threads.append(ts9)
+    #threads.append(ts9)
     threads.append(ts10)
     threads.append(ts11)
     threads.append(ts34)
@@ -1309,16 +1309,6 @@ def multi_toutiao():
     print("耗时:", time.time() - t1)
 
 if __name__ == "__main__":
-    if thread == 'single':
-        while True:
-            single_run()
-            single_toutiao()
-            single_run()
-            single_toutiao_b()
     if thread == 'multi':
-        multi_toutiao()
-        while True:
-            multi_run()
-            single_toutiao()
-            multi_run()
-            single_toutiao_b()
+       multi_run()
+
