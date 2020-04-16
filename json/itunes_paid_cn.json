@@ -1,6 +1,6 @@
 {
   "title":"AppStore付费排行榜(国区)",
-  "time":"2020-04-17 05:10:01",
+  "time":"2020-04-17 05:20:03",
   "data":[
     {
       "name":"最终纹章M",
@@ -78,7 +78,7 @@
       "name":"古今江湖-追击刺客暗器流",
       "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFvfroP3z65KEfrKtWuerAbxot1envnLtdzvAozKvd9Kqwn1t1u1uozKv55unvnvu1uvAozKvP1KqwnLucz1uozKvtf1qwn0t0u1uozKvPf1qwLNt0u1uozKvdj1qwLMudz1qpzKvtXKmRrLs1KuvkjtvvP0rSrLs4LuvkjtvvPKqOrLsdPuvkbtvvPemfvLshHgvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90tuNftypfNwx1cBHfwDVv3v1vxsx1sDiDvz29vALX0vTjxnMDKC1SuDmvZATKvn",
       "num":"游戏",
-      "description":"最新版本:  18.7\n更新时间:  2020-03-12 10:19:19 (北京时间)\n\n1、修复部分玩家幻境中卡顿、闪退等BUG问题\n2、优化部分美术素材内容\n3、修复部分玩家数据显示异常的问题"
+      "description":"最新版本:  19.1\n更新时间:  2020-04-16 09:20:14 (北京时间)\n\n新增：\n1、新增传奇武侠：剑魔（游侠）、龙渊居士（豪侠）\n2、新增高级限时副本：漠北草原（掉落橙色武侠碎片）\n3、新增限定神兵木剑：使用可获得卡牌木剑无俦\n4、新增三张阴阳武学：寒霜劲、落尘重剑、熊猫（草原挑战令获得）\n5、扩展累计充值礼包上限，奖励武侠自选福袋。\n6、新增攻略中心（预计4月17-18日开放）\n调整：\n1.中毒也能触发反伤\n2.战斗开始时，触发所有敌人的相关技能后再触发少年的相关技能\n3.npc东方姑娘的技能改为给少年的所有手牌增加“移除此牌”效果\n3.削弱职业历练中的丐世英雄组合\n4.职业历练中的侠侣组合，复活友方的时机改为回合结束时\n5.坞主的红化形技能改为：被动：战斗开始时，获得10层反伤\n6.铁掌帮主的红化形技能改为：被动：战斗开始时，获得10层反伤；反伤效果的层数在触发后不会减少\n7.成吉思汗的红化形技能改为：被动：战斗开始时，给予敌方全体4层冰冻\n修复：\n1.绣花针饮血套装永远只回复1气血的bug\n2.蛤蟆仙法在顽童红化生效时记录伤害错误的bug\n3.追击的相关bug\n4.乱舞+灼烧导致伤害倍数计算错误的bug\n5.玩家战斗开始时的技能偶尔触发两次的bug\n6.职业历练时，进幻境时的阵容被删导致幻境错误的bug\n7.职业历练入口界面显示的属性不对，没有计算历练相关天赋的bug\n8.曲洋中毒伤害翻倍的效果可能也影响了敌人的bug\n9.抽牌并免费打出和循环的问题"
     },
     {
       "name":"商店英雄(Shop Heroes): 贸易大战",
@@ -150,7 +150,7 @@
       "name":"烟雨江湖",
       "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKJAnDxvu5umzrKtYefvnTgBYWKmRrLs1KuvkjtvvP0rSrLs4LuvkjtvvPenfvLsdXgvkvtvvP0rSrLs6DgvkntvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=WvTjxnMDKC18wDAzJzprtn",
       "num":"游戏",
-      "description":"最新版本:  0.124.21992\n更新时间:  2020-04-13 08:57:19 (北京时间)\n\n1、增加野外镇派棍法的支线 \n2、幽州武馆增加售卖进阶枪法-霸王枪法的秘籍 \n3、调整平衡主角出生天赋， 所有已创建角色获得一枚先天丹，可无条件置换一次主角的出生天赋 \n4、优化创建界面，任何选择的影响都将直接体现在界面上 \n5、在每日任务中加入查看势力任务完成度 \n6、补充狂风剑法疲劳buff，苍狼内功不死buff描述不全的问题 \n7、江湖车行在大雪山展开业务，增设了新的马厩 \n8、武道排行榜增加个性口号编辑\n9、修正部分道具描述不正确的问题 \n10、修正镇岳符III叠加的韧性在面板显示错误的问题"
+      "description":"最新版本:  0.124.21994\n更新时间:  2020-04-16 20:55:15 (北京时间)\n\n1.修复新创建角色嘴巴消失的BUG \n2.修复太乙地图树长在水上的BUG"
     },
     {
       "name":"一言-记录字句，发现共鸣",
@@ -300,7 +300,7 @@
       "name":"GoodNotes 5",
       "url":"https://www.maiyewang.com/index-get.php?url=0tuubLDwndu5fKAoP3z61emrrKt4f1vHzxvuXKEwDez2vZrAzxoYOLDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qpvrus6z1rKzxnfPLD5iJu",
       "num":"效率",
-      "description":"最新版本:  5.4.17\n更新时间:  2020-04-10 00:20:07 (北京时间)\n\nStability improvements."
+      "description":"最新版本:  5.4.18\n更新时间:  2020-04-16 13:17:23 (北京时间)\n\n- fixed a bug where the pen strokes would move when erasing them sometimes\n- improved the shapes tool to fix some minor issues when drawing rectangles\n- fixed a bug where renaming a document when importing it would not be saved\n- remaining a document now starts with a capital letter\n- further improved the ink algorithm and fixed a problem that was causing strokes to be shorter than intended\n- added some visual improvements when switching between lightmode and darkmode"
     },
     {
       "name":"Kingdom Rush Frontiers",
@@ -432,7 +432,7 @@
       "name":"动森助手 - 森友必备图鉴指南",
       "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFfKEnHxvQ5KmJrutXuerAbxo55unvnKu0u1uozKv55envLxu0uvAozKvd50qwn1t0u1upzKvtj1qwLwu1u1uozKv55envnKtcz1uozKvt5envLMudz1uozKvPffnvLMu0u1uozKvtjLqwLxtczvAozKvtX0qOrLs1CgvkjtvvPunfvLscHgvkftvvPKrgvLs6vuvkjtvvPenfvLscHgvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=awYKvniL3B1atBzztl1Pvninvy1yulIvdtTKvn19uC1CgmdLetT9wnWfxw1u3tXvZBXLvn",
       "num":"工具",
-      "description":"最新版本:  1.0\n更新时间:  2020-04-14 08:06:42 (北京时间)\n\n"
+      "description":"最新版本:  1.1.0\n更新时间:  2020-04-16 08:31:33 (北京时间)\n\n1. 工具模块新增服饰图鉴\n2. 修复翻看图鉴时没有刷新到底影响的问题\n3. 部分功能完善"
     },
     {
       "name":"孙美琪疑案:刘青春",
@@ -450,7 +450,7 @@
       "name":"何氏汤泉",
       "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKdvoP3ye5emnPwt3vfvnTgBYWunNrLs6LuvkjtvvPemfvLs4LuvkjtvvP0rOrLs3LuvkjtvvPumRrLsfPuvkbtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=GspjxnRDKC1a1qYvJvYWun",
       "num":"游戏",
-      "description":"最新版本:  1.0.1\n更新时间:  2020-04-16 04:11:27 (北京时间)\n\n- 修复纸团无法获得的Bug\n- 修复详情物品无法点击的Bug\n- 感谢各位玩家/UP"
+      "description":"最新版本:  1.0.2\n更新时间:  2020-04-17 02:39:12 (北京时间)\n\n- 修复木盒子交互问题\n- 感谢各位玩家/UP"
     },
     {
       "name":"扫描全能王付费版 - 文字识别翻译传真",
@@ -516,7 +516,7 @@
       "name":"论如何建立一个修仙门派",
       "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKJEoHxvu9umNr0t1efvnTgBYWKrkvLsWKuvkjtvvPenfvLsZSgvkvtvvPunRrLsdPuvkbtvvPKrgvLshPuvkbtvvPKqgvLs0KuvkbtvvP0DNrLs0KuvkbtvvP0qOrLsdzuvkntvvPKqkvLsdPuvkftvvPumRrLsfPuvkbtvvPuENrLsYuuvkftvvPKqkvLsgzuvkrtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0YuYvZBLPLnAvht1uxlmvtCPXunbLgt1WuD2uJn1jwnwjdt1muyHvJn2SKn",
       "num":"游戏",
-      "description":"最新版本:  1.17\n更新时间:  2020-04-14 02:04:18 (北京时间)\n\n1.17\n优化存档效率（初次更新后载入游戏会需要一点时间，请耐心等待）\n优化游戏运行时的内存占用，避免闪退和存档破损"
+      "description":"最新版本:  1.18\n更新时间:  2020-04-17 00:00:11 (北京时间)\n\n1.18\n修复部分个人履历文字显示错误的问题"
     },
     {
       "name":"新概念英语全四册",
