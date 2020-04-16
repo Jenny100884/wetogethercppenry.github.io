@@ -1,6 +1,6 @@
 {
   "title":"AppStore付费排行榜(美区)",
-  "time":"2020-04-16 14:50:03",
+  "time":"2020-04-16 15:00:03",
   "data":[
     {
       "name":"Minecraft",
@@ -450,7 +450,7 @@
       "name":"GoodNotes 5",
       "url":"https://www.maiyewang.com/index-get.php?url=0tuubLDwndu5fKAoP3z61emrrKt4f1vHzxvuXKEwDez2vZrAzxoYOLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qpvrus6z1rKzxnfPLD5iJu",
       "num":"Productivity",
-      "description":"最新版本:  5.4.17\n更新时间:  2020-04-10 00:20:07 (北京时间)\n\nStability improvements."
+      "description":"最新版本:  5.4.18\n更新时间:  2020-04-16 13:17:23 (北京时间)\n\n- fixed a bug where the pen strokes would move when erasing them sometimes\n- improved the shapes tool to fix some minor issues when drawing rectangles\n- fixed a bug where renaming a document when importing it would not be saved\n- remaining a document now starts with a capital letter\n- further improved the ink algorithm and fixed a problem that was causing strokes to be shorter than intended\n- added some visual improvements when switching between lightmode and darkmode"
     },
     {
       "name":"R.B.I. Baseball 20",
