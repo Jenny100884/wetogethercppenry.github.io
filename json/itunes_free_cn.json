@@ -1,6 +1,6 @@
 {
   "title":"AppStore免费排行榜(国区)",
-  "time":"2020-04-18 05:30:02",
+  "time":"2020-04-18 05:40:02",
   "data":[
     {
       "name":"个人所得税",
@@ -45,6 +45,12 @@
       "description":"最新版本:  2.4.6\n更新时间:  2020-04-14 07:37:20 (北京时间)\n\n交管12123最新版来啦！\n本次更新：\n1、解决了已知问题。\n交管12123提醒您，我们会在App Store中定期更新，建议打开iPhone手机「设置」-「iTunes Store 与App Store」-「自动下载的项目」，确保第一时间体验到最好的交管12123。"
     },
     {
+      "name":"云闪付-银行业统一移动支付App",
+      "url":"https://www.maiyewang.com/index-get.php?url=adm6jwm5q0t5TMEnntse10DzrKwWLZqJDNrh9unvLwudz1qozKvPjLqwnKt1uvAozKvd9Kqwnvu0u1uozKvPf1qwLNtczvEozKvd1envn0tdz1qozKvPjvnvLwudzvEozKvtfvnvn0tdz1qozKv5ffnvnvtcz1qpzKvP50qwLxt1u1upzKvtXenRrLsdPuvkbtvvPKqgvLsZSgvkvtvvPeERrLscPuvkbtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tpbn2DgvuB3mvlYvvypf3sx1sDUv2tNrZuT42nLvxB0m1tQHwA1rhvTvgtzvht1exzAzJuXXun",
+      "num":"财务",
+      "description":"最新版本:  7.0.7\n更新时间:  2020-03-31 14:15:43 (北京时间)\n\n1.注册、登录、绑卡等页面支持英文展示；\n2.线上支付时支持粘贴短信验证码；\n3.支付密码键盘乱序修改为顺序；\n4.“我是收银员”全新升级，提供更多优质服务；\n5.修复了已知的问题。"
+    },
+    {
       "name":"微视——短视频创作与分享",
       "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKdrpDxue9uENrvt1KfrAbxoPfLqwnvudz1qozKvP5envn0t0u1uozKvtjfnvn0tdz1qozKv5fvnvnKudz1qozKvPfvnvn0t0u1uozKvt1unvLwtcz1upzKvP5envLNtcz1qpzKvdjLqwLMu1uvEozKvtXKmNrLsZuuvkrtvvPKrgvLsgPuvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=Yfht1CuAzvZtPXunJjdt1iwAzvJulfMnhv2s2qxl1utvd9gnvn0B0CuzlztD2iwn",
       "num":"摄影与录像",
@@ -69,34 +75,16 @@
       "description":"最新版本:  10.7.0\n更新时间:  2020-04-16 15:56:44 (北京时间)\n\n性能改善让你的体验更流畅"
     },
     {
-      "name":"快手极速版",
-      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKdvpH3zQ10DvPwtZefvnTgBYWenNrLs1CgvkntvvP0rSrLs3DgvkvtvvPeENrLsgXgvkjtvvP0qOrLs1CgvkjtvvP0qgvLshPuvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=KuB0uJzdLLnczdC1WuBVvJCTiwn",
-      "num":"摄影与录像",
-      "description":"最新版本:  2.3.2\n更新时间:  2020-04-15 11:59:07 (北京时间)\n\n1、修复了一些问题"
-    },
-    {
-      "name":"云闪付-银行业统一移动支付App",
-      "url":"https://www.maiyewang.com/index-get.php?url=adm6jwm5q0t5TMEnntse10DzrKwWLZqJDNrh9unvLwudz1qozKvPjLqwnKt1uvAozKvd9Kqwnvu0u1uozKvPf1qwLNtczvEozKvd1envn0tdz1qozKvPjvnvLwudzvEozKvtfvnvn0tdz1qozKv5ffnvnvtcz1qpzKvP50qwLxt1u1upzKvtXenRrLsdPuvkbtvvPKqgvLsZSgvkvtvvPeERrLscPuvkbtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tpbn2DgvuB3mvlYvvypf3sx1sDUv2tNrZuT42nLvxB0m1tQHwA1rhvTvgtzvht1exzAzJuXXun",
-      "num":"财务",
-      "description":"最新版本:  7.0.7\n更新时间:  2020-03-31 14:15:43 (北京时间)\n\n1.注册、登录、绑卡等页面支持英文展示；\n2.线上支付时支持粘贴短信验证码；\n3.支付密码键盘乱序修改为顺序；\n4.“我是收银员”全新升级，提供更多优质服务；\n5.修复了已知的问题。"
-    },
-    {
       "name":"QQ",
       "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFLLAojtu61unrrKtWe1vHzxrynMDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qpfzvv",
       "num":"社交",
       "description":"最新版本:  8.3.3\n更新时间:  2020-04-14 10:27:27 (北京时间)\n\n本次更新：\n- 新增QQ学习模式，减少打扰，专注学习更高效；\n- 手机支持分享屏幕，随时随地快捷演示，开会、教学更简单；\n- 在线状态新增“听歌中”，show状态，你的歌单不一young；\n- 群聊时可左滑进入应用面板，丰富的群应用，助你便捷使用群；\n- 聊天中全屏视频支持长按识别二维码，跳转无需暂停。\n\n最近更新：\n- QQ群课堂新增回放功能，老师上课时可开启录制，学生课后回顾更有效；\n- 家校群新增习题库功能，支持自动批改，助力老师高效教学；\n- 新增面对面加好友功能，输入相同数字即可成为Q友；\n- 群公告可支持确认，重要信息及时提醒，高效通知便捷管理。"
     },
     {
-      "name":"夸克-更好的搜索,智能免广告",
-      "url":"https://www.maiyewang.com/index-get.php?url=0tuubLDwndu0KKAoL3yu10Dzrvt4f1vHzxrf9eBfr1tSvfvsXwwRffBRPwuSvfvsXwuf9eBvr0tSvfvsXwuRffBnr0tSDgvsXwrRffBRr1tSLfvsXgmP1KqwnKtdzvEozKv5fvnvnut1uvAozKvd5envnvu1uvEozKvdj1qwnLtcz1uozKvd50qwLwu1uvAozKvtX0qOrLsXCgvkftvvPenjvLsWuuvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qpVL1AS9Ly1X2mzHgBZCZzVjNyT1MEP9gmL9KBrf2tOfwzLzhBx9eDIfwzmX0vzvdntfwn",
-      "num":"工具",
-      "description":"最新版本:  3.8.3.1014\n更新时间:  2020-03-07 15:07:19 (北京时间)\n\n夸克AI相机又一次升级啦！\n拍照转文档，1秒完成图文转换，生成Office文档。\n抛弃手动打字，一键拍摄将书籍、文件、截图转为Word或Excel。"
-    },
-    {
-      "name":"luckin coffee 瑞幸咖啡",
-      "url":"https://www.maiyewang.com/index-get.php?url=9efvqzNvZavmbrLt1eLEojZAQ1eErDvy2vevrXwvu9eBvrLuSLfvpXwsu9eBvrLuSDMArX2AQffBvrLuSvvvpXwru9eBJrLuSbZuAXMwTPLDoDft1XMmHPMvijMDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=9uuySXMyWTgBQjwDSDJwR5grtPfBA1Mw250rjvhBYeMAwHKy",
-      "num":"美食佳饮",
-      "description":"最新版本:  3.5.4\n更新时间:  2020-04-05 16:27:30 (北京时间)\n\n1、瑞划算支持「一元购」\n2、扫商品条形码可加购物车"
+      "name":"快手极速版",
+      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKdvpH3zQ10DvPwtZefvnTgBYWenNrLs1CgvkntvvP0rSrLs3DgvkvtvvPeENrLsgXgvkjtvvP0qOrLs1CgvkjtvvP0qgvLshPuvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=KuB0uJzdLLnczdC1WuBVvJCTiwn",
+      "num":"摄影与录像",
+      "description":"最新版本:  2.3.2\n更新时间:  2020-04-15 11:59:07 (北京时间)\n\n1、修复了一些问题"
     },
     {
       "name":"微信",
@@ -105,10 +93,10 @@
       "description":"最新版本:  7.0.12\n更新时间:  2020-03-22 10:07:59 (北京时间)\n\n本次更新：\n- 可跟随系统的设置，切换为深色模式。\n- 优化了语音消息的发送体验，上滑转文字更方便了。\n\n最近更新：\n- 发消息时，可以引用之前的内容。\n- 可以把收藏笔记、文件预览等页面设为浮窗。"
     },
     {
-      "name":"淘宝特价版",
-      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKJEnLxtQ50mnrutW0evnTgBYWenNrLs1CgvkntvvP0mjvLsdPuvkbtvvPunjvLs1CgvkntvvPurSrLsgzuvkftvvPenRrLsZKuvkjtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=KuB0uZm1Xun10gn1qMnHvtwLjxn",
-      "num":"购物",
-      "description":"最新版本:  3.17.0\n更新时间:  2020-04-16 10:14:55 (北京时间)\n\n基础性能优化，让体验更友好"
+      "name":"luckin coffee 瑞幸咖啡",
+      "url":"https://www.maiyewang.com/index-get.php?url=9efvqzNvZavmbrLt1eLEojZAQ1eErDvy2vevrXwvu9eBvrLuSLfvpXwsu9eBvrLuSDMArX2AQffBvrLuSvvvpXwru9eBJrLuSbZuAXMwTPLDoDft1XMmHPMvijMDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=9uuySXMyWTgBQjwDSDJwR5grtPfBA1Mw250rjvhBYeMAwHKy",
+      "num":"美食佳饮",
+      "description":"最新版本:  3.5.4\n更新时间:  2020-04-05 16:27:30 (北京时间)\n\n1、瑞划算支持「一元购」\n2、扫商品条形码可加购物车"
     },
     {
       "name":"BOSS直聘-招聘求职找工作神器",
@@ -123,22 +111,28 @@
       "description":"最新版本:  6.6.70\n更新时间:  2020-04-09 10:04:48 (北京时间)\n\n·我发布的宝贝，可以连续擦亮咯，曝光连连涨~\n·可以邀请好友一起捞鱼啦，快来闲鱼币看看~\n·回收和寄卖升级为“帮你省心卖”了，高价又省心~\n·旧物清空季，快来旧物换礼换水果、零食、纸巾等超值礼品~"
     },
     {
-      "name":"快手",
-      "url":"https://www.maiyewang.com/index-get.php?url=qprrfu2z1mqDxru1enrr1t3ffroTgBYW0qOrLs1CgvkjtvvP0qgvLshPuvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=WuBVvJCTiwn",
-      "num":"摄影与录像",
-      "description":"最新版本:  7.3.10\n更新时间:  2020-04-11 23:35:00 (北京时间)\n\n- 问题修复以及性能提升\n- 优化用户体验"
+      "name":"淘宝特价版",
+      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKJEnLxtQ50mnrutW0evnTgBYWenNrLs1CgvkntvvP0mjvLsdPuvkbtvvPunjvLs1CgvkntvvPurSrLsgzuvkftvvPenRrLsZKuvkjtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=KuB0uZm1Xun10gn1qMnHvtwLjxn",
+      "num":"购物",
+      "description":"最新版本:  3.17.0\n更新时间:  2020-04-16 10:14:55 (北京时间)\n\n基础性能优化，让体验更友好"
     },
     {
-      "name":"宝剑大师",
-      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKdvnfttu1KmRPwt3vfvnTgBYWenNrLs0KuvkftvvP0mfvLsWuuvkftvvPeERrLs1CgvkftvvPurSrLsgzuvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qsPjwnUnvy1ivBzvdz2ewn",
-      "num":"游戏",
-      "description":"最新版本:  1.1.2\n更新时间:  2020-04-15 13:26:21 (北京时间)\n\n【全新模式】各位大师，现在可以创作你自己的专属神兵了，想怎么磨就怎么磨，寻找真正的天下第一武器大师！\n【加入群聊】：进群秀出你的制作模版，还会有掉落奖励哦。群号码：920712103\n【分享功能】：现在就成为宝剑大师，秀出你的创作并分享给你的朋友。"
+      "name":"夸克-更好的搜索,智能免广告",
+      "url":"https://www.maiyewang.com/index-get.php?url=0tuubLDwndu0KKAoL3yu10Dzrvt4f1vHzxrf9eBfr1tSvfvsXwwRffBRPwuSvfvsXwuf9eBvr0tSvfvsXwuRffBnr0tSDgvsXwrRffBRr1tSLfvsXgmP1KqwnKtdzvEozKv5fvnvnut1uvAozKvd5envnvu1uvEozKvdj1qwnLtcz1uozKvd50qwLwu1uvAozKvtX0qOrLsXCgvkftvvPenjvLsWuuvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qpVL1AS9Ly1X2mzHgBZCZzVjNyT1MEP9gmL9KBrf2tOfwzLzhBx9eDIfwzmX0vzvdntfwn",
+      "num":"工具",
+      "description":"最新版本:  3.8.3.1014\n更新时间:  2020-03-07 15:07:19 (北京时间)\n\n夸克AI相机又一次升级啦！\n拍照转文档，1秒完成图文转换，生成Office文档。\n抛弃手动打字，一键拍摄将书籍、文件、截图转为Word或Excel。"
     },
     {
       "name":"百度",
       "url":"https://www.maiyewang.com/index-get.php?url=qprrfu2z1mqfZzu9eEbPwt5DMEnTgBYWKmfvLscPuvkftvvPKrkvLs1SgvkntvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0wCIvtlTvtn",
       "num":"工具",
       "description":"最新版本:  11.22.0\n更新时间:  2020-04-16 21:46:10 (北京时间)\n\n-个人主页服务升级，崭新样式丰富功能"
+    },
+    {
+      "name":"快手",
+      "url":"https://www.maiyewang.com/index-get.php?url=qprrfu2z1mqDxru1enrr1t3ffroTgBYW0qOrLs1CgvkjtvvP0qgvLshPuvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=WuBVvJCTiwn",
+      "num":"摄影与录像",
+      "description":"最新版本:  7.3.10\n更新时间:  2020-04-11 23:35:00 (北京时间)\n\n- 问题修复以及性能提升\n- 优化用户体验"
     },
     {
       "name":"支付宝 - 让生活更简单",
@@ -165,16 +159,10 @@
       "description":"最新版本:  6.42\n更新时间:  2020-04-17 10:37:55 (北京时间)\n\n- 优化产品体验，修复若干问题\n使用中有任何问题或建议，请前往【个人设置】- 【意见反馈】中告诉我们哦！"
     },
     {
-      "name":"网易云音乐-音乐的力量",
-      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKJAnjtte9KEnrut1ufrAbxoPjfnvLNt0u1upzKvPfvnvnvu0u1uozKvd5envnvu1uvEozKvd1unvn1tdz1qozKv510qwLMu1u1upzKvtX0DRrLs1KuvkbtvvPKEjvLshXgvkvtvvPeERrLscPuvkbtvvPKERrLs0SgvkjtvvPeERrLsfPuvkntvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tp3PgsT1sBlD1tOfwzpTwnt1YCM1wzmfvBmvJETOLnsfht1qvAWvJuYCtn",
-      "num":"音乐",
-      "description":"最新版本:  7.1.31\n更新时间:  2020-04-14 06:44:24 (北京时间)\n\n修复已知bug，优化体验\n\n【最近更新】\n「Mlog模版」功能上线，一键生成好看的Mlog视频\n\n使用中遇到任何问题，请通过\"帐号\"-\"关于\"-\"帮助与反馈\"告诉我们，我们会尽快与你联系！"
-    },
-    {
-      "name":"中国建设银行",
-      "url":"https://www.maiyewang.com/index-get.php?url=qprrfu2z1mqftre1umzr1t4TMEnTgBYWerOrLs4vuvkrtvvPKmjvLs6TgvkvtvvPKrkvLsgzuvkrtvvPKqkvLsdPuvkftvvPurkvLsdXgvkftvvPurgvLs0KuvkbtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=nD0s2iZtAztl2SKn2uNy1KtDAvdDPXun",
-      "num":"财务",
-      "description":"最新版本:  4.3.3.001\n更新时间:  2020-04-14 11:49:47 (北京时间)\n\n1、账户模块新增“活期账户交易明细申请”功能，支持申请交易明细电子版发送至指定电子邮箱并查询申请记录； \n2、证券新增“证券公司特色服务”功能，提供热门资讯、投资工具、投资课堂、有问必答等证券公司特色服务； \n3、小微快贷新增“还款记录”功能，提供贷款还款记录及回单信息查询服务； \n4、私人银行专版资讯服务新增视频播放功能。"
+      "name":"宝剑大师",
+      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKdvnfttu1KmRPwt3vfvnTgBYWenNrLs0KuvkftvvP0mfvLsWuuvkftvvPeERrLs1CgvkftvvPurSrLsgzuvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qsPjwnUnvy1ivBzvdz2ewn",
+      "num":"游戏",
+      "description":"最新版本:  1.1.2\n更新时间:  2020-04-15 13:26:21 (北京时间)\n\n【全新模式】各位大师，现在可以创作你自己的专属神兵了，想怎么磨就怎么磨，寻找真正的天下第一武器大师！\n【加入群聊】：进群秀出你的制作模版，还会有掉落奖励哦。群号码：920712103\n【分享功能】：现在就成为宝剑大师，秀出你的创作并分享给你的朋友。"
     },
     {
       "name":"Keep - 跑步健身计步瑜伽",
@@ -183,28 +171,16 @@
       "description":"最新版本:  6.38.0\n更新时间:  2020-04-04 11:02:38 (北京时间)\n\n疫情期间，Keep 陪你战疫到底。宅家不屯肉，Keep 你的免疫力！\n\n更新内容：\n- 现在，你可以使用 Apple ID 登录 Keep 了\n- 优化了课程详情页体验\n- 修复了一些已知问题"
     },
     {
+      "name":"网易云音乐-音乐的力量",
+      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKJAnjtte9KEnrut1ufrAbxoPjfnvLNt0u1upzKvPfvnvnvu0u1uozKvd5envnvu1uvEozKvd1unvn1tdz1qozKv510qwLMu1u1upzKvtX0DRrLs1KuvkbtvvPKEjvLshXgvkvtvvPeERrLscPuvkbtvvPKERrLs0SgvkjtvvPeERrLsfPuvkntvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tp3PgsT1sBlD1tOfwzpTwnt1YCM1wzmfvBmvJETOLnsfht1qvAWvJuYCtn",
+      "num":"音乐",
+      "description":"最新版本:  7.1.31\n更新时间:  2020-04-14 06:44:24 (北京时间)\n\n修复已知bug，优化体验\n\n【最近更新】\n「Mlog模版」功能上线，一键生成好看的Mlog视频\n\n使用中遇到任何问题，请通过\"帐号\"-\"关于\"-\"帮助与反馈\"告诉我们，我们会尽快与你联系！"
+    },
+    {
       "name":"58同城-招聘找工作兼职网",
       "url":"https://www.maiyewang.com/index-get.php?url=0tuubLDwndu3fKEnvZye10DNrKtRXMmmH3AuPurkvLsZuvvkreAuPeENrLs0uvvkrKsvPumNrLsXuvvkreBuPurkvLsWuvvkftrvP0mjvLsXuvvkzKsvPunNrLsYuvvkrZAuPeENrLs0uvvkneBuP0qOrLsYuvvkrxvf9eBzv1tSvfvsXwtf9eBbr1tSvfvsX2zu5KDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=iLm3utthLKn4Cvw1mMmmvdBLjwnT02B1K1rjzJy19wn0rdnUXMEjTgBQrLt",
       "num":"生活",
       "description":"最新版本:  9.8.1\n更新时间:  2020-04-02 11:17:54 (北京时间)\n\n搜索页面优化改版，不一样的搜索体验\n网络招聘、在线看房、线上购车，人人信赖的生活服务平台"
-    },
-    {
-      "name":"QQ音乐 - 让生活充满音乐",
-      "url":"https://www.maiyewang.com/index-get.php?url=0tuubLDwndu41eroPxqQ5emfrKtRXMmmD3AuPunjvLsWuvvkPxsvP0rSrLs1uvvkHxrvP0qkvLsYuvvkfZzuPumNrLsXuvvknKsvPemjvLsYuvvkDeBuPemRrLsZuvvkvtrvPKrgvLs0uvvkrxqu9eBRPwuSffvsXwtQffBzv1tSTgvsXwrynMDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tqAv3AqDJBWHKn11gwzHgB2XeDT9LsS5MBXj3BenftNfKw1Tgu34gCizvv",
-      "num":"音乐",
-      "description":"最新版本:  9.10.0\n更新时间:  2020-04-10 11:15:00 (北京时间)\n\n「音效」新增「5.1环绕」音效，给你私人音乐厅的环绕体验\n「播放页」支持倍速播放\n\n==往期更新==\n「音效」新增「助眠节拍」音效，用黑科技助你更快入眠\n「有声电台」优化电台页，支持快速选集收听节目\n『如果您在使用过程中遇到问题，请加入官方QQ群55209235，或在App Store评论下留下QQ号』"
-    },
-    {
-      "name":"WPS Office",
-      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKdrnH3yQ1umNr1t1ufrAbxotPLAS1MwTLZvmPNqZqMDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9eLwQXwBA1wofLevcfJv",
-      "num":"效率",
-      "description":"最新版本:  10.9.0\n更新时间:  2020-04-13 12:47:13 (北京时间)\n\n【创意裁剪】【个人中心优化】\n--点击查看详情--\n\n【创意裁剪】\n演示组件，单个图片支持创意裁剪，让图片展示更具特色\n\n【个人中心优化】\n更新个人中心卡片样式，根据身份显示不同尊贵标识\n\n【更多优化】\n· iPhone表格全屏阅读支持切换Sheet，数据对比更快捷\n· PDF组件，调整护眼模式入口位置，开启更方便\n· 支持图片、视频链接分享，快速高效完成大文件传输\n\n感谢所有用户的使用及支持，WPS for iOS 祝大家工作顺利、生活愉快！"
-    },
-    {
-      "name":"京东-挑好物，上京东",
-      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzF1evnbtve5uErrvtWe1vHzxtv9eBNPwuSffvsXwtvffBfTwuSffvsXwrf9eBNPwuSffvsXgmt9Kqwn1t0uvEozKvdj1qwnLtcz1uozKvt1unvLxu0uvAozKvtXerSrLs0KuvkbtvvPergvLscPuvkbtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9eKB0m1tYzZu1Lgnt9KA40szXPuzLzhBxv2AnfwzmnwAmvZCXXun",
-      "num":"购物",
-      "description":"最新版本:  8.5.8\n更新时间:  2020-04-12 11:02:07 (北京时间)\n\n【7fresh订单融合】闭环下单新体验\n【发现好货】放心挑好物，我们更懂你\n【晒单挑战升级】下个达人就是你\n春暖花开之际，快来京东一下，立刻温暖到家"
     },
     {
       "name":"腾讯视频-清平乐独播",
@@ -213,28 +189,28 @@
       "description":"最新版本:  8.1.5\n更新时间:  2020-04-15 19:23:36 (北京时间)\n\n1.开发小哥哥努力加班，为你火速修复了一些问题。\n2.热门剧集持续放送，《清平乐》、《龙岭迷窟》等你来追~"
     },
     {
-      "name":"得物(毒)-运动x潮流x装备",
-      "url":"https://www.maiyewang.com/index-get.php?url=90tqoLdoxr2xNPwt6vKEortsu10DfrKwWLtEortvd5KqwnLtgz1uortv51Kqwn0tgz1qLH3zuPumjvLsYuvvkzKrvPurkvLsYuvvkrdAuffBfv0tSvfvsXwqu9eBzTwuSDgvsXgmP1unvLMuczvAozKvtXunfvLs1CgvkntvvP0mRrLsgPuvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0ZyjbhByrZBVPgwNfty1jxoH9uzVfxw1evlmzdDRL2A2f2tlbxB0udw2iwn",
-      "num":"体育",
-      "description":"最新版本:  4.36.1\n更新时间:  2020-04-10 15:38:16 (北京时间)\n\n1、个人主页支持直播内容回顾，错过时间也不怕错过直播\n2、圈子内被圈主PICK的热门内容会有标识哦\n3、更多细节优化"
+      "name":"京东-挑好物，上京东",
+      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzF1evnbtve5uErrvtWe1vHzxtv9eBNPwuSffvsXwtvffBfTwuSffvsXwrf9eBNPwuSffvsXgmt9Kqwn1t0uvEozKvdj1qwnLtcz1uozKvt1unvLxu0uvAozKvtXerSrLs0KuvkbtvvPergvLscPuvkbtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9eKB0m1tYzZu1Lgnt9KA40szXPuzLzhBxv2AnfwzmnwAmvZCXXun",
+      "num":"购物",
+      "description":"最新版本:  8.5.8\n更新时间:  2020-04-12 11:02:07 (北京时间)\n\n【7fresh订单融合】闭环下单新体验\n【发现好货】放心挑好物，我们更懂你\n【晒单挑战升级】下个达人就是你\n春暖花开之际，快来京东一下，立刻温暖到家"
     },
     {
-      "name":"美团-吃喝玩乐 尽在美团",
-      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFTMAnDxue90DnPwtWe1vHzxsuffBjv1tSvfvsXwvf9eBvTwuSngvsX2zuffBnv1tSvfvsXwuRffBbPwuSvfvsXgmd1unvn1tdz1qozKvt9KqwnLu0uvEozKvdjvnvLMt1u1uozKv51envnut1u1uozKvtXuEfvLsdXgvkftvvPKrOrLsgPuvkntvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0ts20gB38MDUP2sUX2mmnhBen0A1mvzX9uzL52vx1YzrDvzmLwDAvZt2Ctn",
+      "name":"QQ音乐 - 让生活充满音乐",
+      "url":"https://www.maiyewang.com/index-get.php?url=0tuubLDwndu41eroPxqQ5emfrKtRXMmmD3AuPunjvLsWuvvkPxsvP0rSrLs1uvvkHxrvP0qkvLsYuvvkfZzuPumNrLsXuvvknKsvPemjvLsYuvvkDeBuPemRrLsZuvvkvtrvPKrgvLs0uvvkrxqu9eBRPwuSffvsXwtQffBzv1tSTgvsXwrynMDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tqAv3AqDJBWHKn11gwzHgB2XeDT9LsS5MBXj3BenftNfKw1Tgu34gCizvv",
+      "num":"音乐",
+      "description":"最新版本:  9.10.0\n更新时间:  2020-04-10 11:15:00 (北京时间)\n\n「音效」新增「5.1环绕」音效，给你私人音乐厅的环绕体验\n「播放页」支持倍速播放\n\n==往期更新==\n「音效」新增「助眠节拍」音效，用黑科技助你更快入眠\n「有声电台」优化电台页，支持快速选集收听节目\n『如果您在使用过程中遇到问题，请加入官方QQ群55209235，或在App Store评论下留下QQ号』"
+    },
+    {
+      "name":"中国建设银行",
+      "url":"https://www.maiyewang.com/index-get.php?url=qprrfu2z1mqftre1umzr1t4TMEnTgBYWerOrLs4vuvkrtvvPKmjvLs6TgvkvtvvPKrkvLsgzuvkrtvvPKqkvLsdPuvkftvvPurkvLsdXgvkftvvPurgvLs0KuvkbtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=nD0s2iZtAztl2SKn2uNy1KtDAvdDPXun",
+      "num":"财务",
+      "description":"最新版本:  4.3.3.001\n更新时间:  2020-04-14 11:49:47 (北京时间)\n\n1、账户模块新增“活期账户交易明细申请”功能，支持申请交易明细电子版发送至指定电子邮箱并查询申请记录； \n2、证券新增“证券公司特色服务”功能，提供热门资讯、投资工具、投资课堂、有问必答等证券公司特色服务； \n3、小微快贷新增“还款记录”功能，提供贷款还款记录及回单信息查询服务； \n4、私人银行专版资讯服务新增视频播放功能。"
+    },
+    {
+      "name":"安居客-买卖二手房新房,租房的专业平台",
+      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFTgrpLxwe1KmvrvtWe1vHzxqQffBzv0tSvfvsXwtQffBRPwuSvfvsXwrv9eBNPwuSffvsXwtu9eBNPwuSffvsXwue9eBfv1tSngvsXwwRffBNr0tSLfvsXwwv9eBJrvuSngvsXgmPj1qwn0t0uvAozKvd10qwLMt1uvAozKvPj1qwn0t0uvAozKvPffnvn1t0uvAozKv5ffnvnvudz1qozKvP5unvnKu0u1uozKvd10qwn1tdz1qozKvtXuEfvLsgzuvkftvvPumNrLs4LuvkftvvPunNrLsgzuvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=9e0nQXguIvhBYPuDRbLs1TgvV1MBFXuAT9vnW5ME5zxsH90Cxfwl2LuyTKMsH9KA2mvDS50vpnxntvgtPzty1y0rIvJs2ewn",
       "num":"生活",
-      "description":"最新版本:  10.8.201\n更新时间:  2020-03-25 14:26:21 (北京时间)\n\n【安心消费月】五亿补贴叠加多项安心服务，让消费更放心\n【酒店安心住】全面防疫，守护您的健康，放心订，安心住"
-    },
-    {
-      "name":"高德地图-精准地图,导航出行必备",
-      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFDgrnLxte10mfPMtWe1vHz3ye9eBrrvuSvfvsXwve9eBzTwuSvfvsXwtf9eBfrvuSDgvsXwrRffBJr0tSvfvsXwrvffBNr0tSDgvsXwtRffBzvvuSvfvsXgmtj1qwLwu1u1uozKvd10qwLxu1u1uozKvP5envLNt0u1uozKvtj1qwLwtdzvEozKvtXKrkvLsdXgvkftvvP0DjvLseXgvkftvvP0mjvLsgPuvkftvvPenRrLsdzuvkvtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=9mwsWXgw0yhB6L1BVj3nOXMClL2B6DJCSPxA2j2vpn3yxvhAiDvD2LxzLXul1Pvn3LNw1mJnIvtw1fMn",
-      "num":"导航",
-      "description":"最新版本:  10.30.5\n更新时间:  2020-04-04 01:35:34 (北京时间)\n\n首页搜索框位置随心选：根据喜好自定义搜索框"
-    },
-    {
-      "name":"QQ浏览器-查看文件更便捷",
-      "url":"https://www.maiyewang.com/index-get.php?url=0tuubLDwndu5fKEnvttu10DJPxtRXMmmntsvPurOrLsYuvvkDKsvPKrkvLsWuvvkbtsvP0qSrLsYuvvkjtsvP0qkvLsWuvvknZzuPKmRrLsYuvvkneAuPerSrLsZuvvkftrvP0rSrLsYuvvkr3zuffBRr1tSvfvsX2ze9eBJrvuSDgvsXwwf9eBvPwuSLfvsXwrynMDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=mJmVvZx2WunWuhC1itDmvdsHbxnmLxn1WwlWvdDNfwBSPgnW92xzrxBizvv",
-      "num":"工具",
-      "description":"最新版本:  10.2.2\n更新时间:  2020-04-04 11:51:43 (北京时间)\n\n1.海量新皮肤袭来，手机桌面美美哒                 \n2.投屏工具优化，畅享大屏体验"
+      "description":"最新版本:  12.28.1\n更新时间:  2020-04-02 09:06:00 (北京时间)\n\n1、新房楼盘直播开播啦。置业顾问现场直播，全面深度讲解楼盘，速来围观~\n2、业主直卖：业主免费在线售卖房源，直接对接意向买家，信息更透明\n3、业主好房速卖计划全新上线，房源优先展示，卖房加速成交"
     },
     {
       "name":"爱奇艺-青春有你2热播",
@@ -243,16 +219,52 @@
       "description":"最新版本:  11.4.1\n更新时间:  2020-04-15 11:42:17 (北京时间)\n\n【精彩看不停】《民国奇探》、《鬓边不是海棠红》全网独播。\n【功能新升级】《青春有你2》点击播放纯享舞台，训练生直拍舞台同屏呈现。\n【活动赢周边】评论区话题升级，在话题下发送评论可赢取IP周边。"
     },
     {
+      "name":"高德地图-精准地图,导航出行必备",
+      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFDgrnLxte10mfPMtWe1vHz3ye9eBrrvuSvfvsXwve9eBzTwuSvfvsXwtf9eBfrvuSDgvsXwrRffBJr0tSvfvsXwrvffBNr0tSDgvsXwtRffBzvvuSvfvsXgmtj1qwLwu1u1uozKvd10qwLxu1u1uozKvP5envLNt0u1uozKvtj1qwLwtdzvEozKvtXKrkvLsdXgvkftvvP0DjvLseXgvkftvvP0mjvLsgPuvkftvvPenRrLsdzuvkvtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=9mwsWXgw0yhB6L1BVj3nOXMClL2B6DJCSPxA2j2vpn3yxvhAiDvD2LxzLXul1Pvn3LNw1mJnIvtw1fMn",
+      "num":"导航",
+      "description":"最新版本:  10.30.5\n更新时间:  2020-04-04 01:35:34 (北京时间)\n\n首页搜索框位置随心选：根据喜好自定义搜索框"
+    },
+    {
+      "name":"美团-吃喝玩乐 尽在美团",
+      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFTMAnDxue90DnPwtWe1vHzxsuffBjv1tSvfvsXwvf9eBvTwuSngvsX2zuffBnv1tSvfvsXwuRffBbPwuSvfvsXgmd1unvn1tdz1qozKvt9KqwnLu0uvEozKvdjvnvLMt1u1uozKv51envnut1u1uozKvtXuEfvLsdXgvkftvvPKrOrLsgPuvkntvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0ts20gB38MDUP2sUX2mmnhBen0A1mvzX9uzL52vx1YzrDvzmLwDAvZt2Ctn",
+      "num":"生活",
+      "description":"最新版本:  10.8.201\n更新时间:  2020-03-25 14:26:21 (北京时间)\n\n【安心消费月】五亿补贴叠加多项安心服务，让消费更放心\n【酒店安心住】全面防疫，守护您的健康，放心订，安心住"
+    },
+    {
       "name":"酷狗音乐-就是歌多",
       "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKJAoHxqe90DjPwtZefrAbxotfvnvnKtcz1uozKv5ffnvnKuczvAozKvPjLqwn0t1uvAozKvt10qwnutdz1uozKvtX0DRrLs1KuvkbtvvPKEjvLshXgvkvtvvP0mRrLsdHgvkntvvP0mjvLsXCgvkvtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90ZzTT2vpPgDH1ICzfwzZD3vLXuuTXun61Iw2GvD0uZmxLLn",
       "num":"音乐",
       "description":"最新版本:  10.1.1\n更新时间:  2020-03-24 14:09:51 (北京时间)\n\n酷狗音乐，就是歌多！\n\n修复已知问题，提升稳定性\n\n近期更新：\n【音乐】\n1、电台新增免费专区\n2、蝰蛇音效新增一键派对\n3、“我的”音乐新增已购、K歌、视频、电台等\n4、分享评论增加可播放歌曲的方式\n\n【直播】\n1、同城分类增加短视频\n2、新增盲盒活动\n\n【K歌】\n1、K房新增排行榜及周榜奖励\n2、K房付费置顶可自由出价，出价越高排越前\n3、参与定段赛可领取鲜花\n4、斗歌定段赛再来一局可结算段位\n5、单曲榜新增上榜分享，秀出你的名次\n\n【如果您在使用过程中遇到问题，请您添加官方QQ号：2943662891，或在App Store评论下留下QQ号，方便我们与您取得联系】"
     },
     {
-      "name":"安居客-买卖二手房新房,租房的专业平台",
-      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFTgrpLxwe1KmvrvtWe1vHzxqQffBzv0tSvfvsXwtQffBRPwuSvfvsXwrv9eBNPwuSffvsXwtu9eBNPwuSffvsXwue9eBfv1tSngvsXwwRffBNr0tSLfvsXwwv9eBJrvuSngvsXgmPj1qwn0t0uvAozKvd10qwLMt1uvAozKvPj1qwn0t0uvAozKvPffnvn1t0uvAozKv5ffnvnvudz1qozKvP5unvnKu0u1uozKvd10qwn1tdz1qozKvtXuEfvLsgzuvkftvvPumNrLs4LuvkftvvPunNrLsgzuvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=9e0nQXguIvhBYPuDRbLs1TgvV1MBFXuAT9vnW5ME5zxsH90Cxfwl2LuyTKMsH9KA2mvDS50vpnxntvgtPzty1y0rIvJs2ewn",
+      "name":"QQ浏览器-查看文件更便捷",
+      "url":"https://www.maiyewang.com/index-get.php?url=0tuubLDwndu5fKEnvttu10DJPxtRXMmmntsvPurOrLsYuvvkDKsvPKrkvLsWuvvkbtsvP0qSrLsYuvvkjtsvP0qkvLsWuvvknZzuPKmRrLsYuvvkneAuPerSrLsZuvvkftrvP0rSrLsYuvvkr3zuffBRr1tSvfvsX2ze9eBJrvuSDgvsXwwf9eBvPwuSLfvsXwrynMDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=mJmVvZx2WunWuhC1itDmvdsHbxnmLxn1WwlWvdDNfwBSPgnW92xzrxBizvv",
+      "num":"工具",
+      "description":"最新版本:  10.2.2\n更新时间:  2020-04-04 11:51:43 (北京时间)\n\n1.海量新皮肤袭来，手机桌面美美哒                 \n2.投屏工具优化，畅享大屏体验"
+    },
+    {
+      "name":"得物(毒)-运动x潮流x装备",
+      "url":"https://www.maiyewang.com/index-get.php?url=90tqoLdoxr2xNPwt6vKEortsu10DfrKwWLtEortvd5KqwnLtgz1uortv51Kqwn0tgz1qLH3zuPumjvLsYuvvkzKrvPurkvLsYuvvkrdAuffBfv0tSvfvsXwqu9eBzTwuSDgvsXgmP1unvLMuczvAozKvtXunfvLs1CgvkntvvP0mRrLsgPuvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0ZyjbhByrZBVPgwNfty1jxoH9uzVfxw1evlmzdDRL2A2f2tlbxB0udw2iwn",
+      "num":"体育",
+      "description":"最新版本:  4.36.1\n更新时间:  2020-04-10 15:38:16 (北京时间)\n\n1、个人主页支持直播内容回顾，错过时间也不怕错过直播\n2、圈子内被圈主PICK的热门内容会有标识哦\n3、更多细节优化"
+    },
+    {
+      "name":"WPS Office",
+      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKdrnH3yQ1umNr1t1ufrAbxotPLAS1MwTLZvmPNqZqMDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9eLwQXwBA1wofLevcfJv",
+      "num":"效率",
+      "description":"最新版本:  10.9.0\n更新时间:  2020-04-13 12:47:13 (北京时间)\n\n【创意裁剪】【个人中心优化】\n--点击查看详情--\n\n【创意裁剪】\n演示组件，单个图片支持创意裁剪，让图片展示更具特色\n\n【个人中心优化】\n更新个人中心卡片样式，根据身份显示不同尊贵标识\n\n【更多优化】\n· iPhone表格全屏阅读支持切换Sheet，数据对比更快捷\n· PDF组件，调整护眼模式入口位置，开启更方便\n· 支持图片、视频链接分享，快速高效完成大文件传输\n\n感谢所有用户的使用及支持，WPS for iOS 祝大家工作顺利、生活愉快！"
+    },
+    {
+      "name":"贝壳找房-买二手房新房租房必备软件",
+      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzF1evoPxtQ5KmJrKt6verAbxoP50qwLwudz1qozKvPjLqwnKudz1qpzKv55envnKtcz1uozKvt5envLMudz1uozKvPj1qwn0t0uvAozKvPjvnvLNtczvEozKvPj1qwn0t0uvAozKvd10qwLMt1uvAozKvPj1qwn0t0uvAozKvPffnvn1t0uvAozKv5ffnvnvudz1qozKvd10qwn1tdz1qozKvtX0rkvLs0CgvkjtvvPKrkvLs1CgvkjtvvPKEjvLs6vuvkftvvPurSrLsWKuvkrtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tpNr3nt1IC5KwlOT2vLH2xx1IDjfwlU5wzTyxsH90Cxfwl2LuyTKMsH9KA2m1tZvZuLX0xP9wnT02B1O3tHvdztXKn",
       "num":"生活",
-      "description":"最新版本:  12.28.1\n更新时间:  2020-04-02 09:06:00 (北京时间)\n\n1、新房楼盘直播开播啦。置业顾问现场直播，全面深度讲解楼盘，速来围观~\n2、业主直卖：业主免费在线售卖房源，直接对接意向买家，信息更透明\n3、业主好房速卖计划全新上线，房源优先展示，卖房加速成交"
+      "description":"最新版本:  2.30.1\n更新时间:  2020-04-05 00:06:38 (北京时间)\n\n本次更新：\n1.地铁找房全面升级，为你精准定位每套近地铁好房！\n2.新房租房上线画圈找房功能啦，找房从此不用愁，等你来体验！\n要找真房源，还是贝壳全！让我们为您做得更好~~"
+    },
+    {
+      "name":"番茄小说 - 热门全本小说电子书阅读器",
+      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFfernLxuu5emNPMtWuerAbxod9Kqwn1t1u1uozKvPf1qwLMucz1qpzKvt5envn0t1u1upzKvP5Kqwn1tdz1qozKvd1unvnKucz1uozKvt50qwnKt1uvEozKvd50qwLMucz1qpzKvPjfnvnutdz1uozKv5fLqwLxu1uvAozKvd9KqwnLt0u1uozKvd9KqwLNt1u1upzKvdjLqwLxt0uvEozKvtXemjvLshzuvkrtvvP0rOrLs3LuvkftvvPemNrLseHgvkrtvvPKqgvLsXSgvkntvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=8wBAvZnTSKngLMw20wBmvtuYewnXmvn1atllzdudjwnZLhC182vzvZBLPLn09en1CgmdLemTSKnqnKy1uuEjztCxvtn",
+      "num":"图书",
+      "description":"最新版本:  2.8.6\n更新时间:  2020-04-09 12:45:12 (北京时间)\n\n修复已知bug，提升使用体验"
     },
     {
       "name":"中国工商银行",
@@ -273,16 +285,28 @@
       "description":"最新版本:  4.2.0\n更新时间:  2020-01-03 20:42:22 (北京时间)\n\n1、全新推出跨行手机号转账功能；\n2、提升响应速度，适配最新机型。"
     },
     {
-      "name":"贝壳找房-买二手房新房租房必备软件",
-      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzF1evoPxtQ5KmJrKt6verAbxoP50qwLwudz1qozKvPjLqwnKudz1qpzKv55envnKtcz1uozKvt5envLMudz1uozKvPj1qwn0t0uvAozKvPjvnvLNtczvEozKvPj1qwn0t0uvAozKvd10qwLMt1uvAozKvPj1qwn0t0uvAozKvPffnvn1t0uvAozKv5ffnvnvudz1qozKvd10qwn1tdz1qozKvtX0rkvLs0CgvkjtvvPKrkvLs1CgvkjtvvPKEjvLs6vuvkftvvPurSrLsWKuvkrtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tpNr3nt1IC5KwlOT2vLH2xx1IDjfwlU5wzTyxsH90Cxfwl2LuyTKMsH9KA2m1tZvZuLX0xP9wnT02B1O3tHvdztXKn",
-      "num":"生活",
-      "description":"最新版本:  2.30.1\n更新时间:  2020-04-05 00:06:38 (北京时间)\n\n本次更新：\n1.地铁找房全面升级，为你精准定位每套近地铁好房！\n2.新房租房上线画圈找房功能啦，找房从此不用愁，等你来体验！\n要找真房源，还是贝壳全！让我们为您做得更好~~"
+      "name":"百度网盘",
+      "url":"https://www.maiyewang.com/index-get.php?url=qprrfu2z1mqHxq65KmzrvtZefvoTgBYWenRrLsdXgvkntvvPeERrLsfPuvkntvvPKmfvLscPuvkftvvPKrkvLs1SgvkntvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qw1vtnsjZn10wCIvtlTvtn",
+      "num":"效率",
+      "description":"最新版本:  10.0.190\n更新时间:  2020-04-13 14:42:28 (北京时间)\n\n修复了一些体验问题"
     },
     {
-      "name":"番茄小说 - 热门全本小说电子书阅读器",
-      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFfernLxuu5emNPMtWuerAbxod9Kqwn1t1u1uozKvPf1qwLMucz1qpzKvt5envn0t1u1upzKvP5Kqwn1tdz1qozKvd1unvnKucz1uozKvt50qwnKt1uvEozKvd50qwLMucz1qpzKvPjfnvnutdz1uozKv5fLqwLxu1uvAozKvd9KqwnLt0u1uozKvd9KqwLNt1u1upzKvdjLqwLxt0uvEozKvtXemjvLshzuvkrtvvP0rOrLs3LuvkftvvPemNrLseHgvkrtvvPKqgvLsXSgvkntvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=8wBAvZnTSKngLMw20wBmvtuYewnXmvn1atllzdudjwnZLhC182vzvZBLPLn09en1CgmdLemTSKnqnKy1uuEjztCxvtn",
-      "num":"图书",
-      "description":"最新版本:  2.8.6\n更新时间:  2020-04-09 12:45:12 (北京时间)\n\n修复已知bug，提升使用体验"
+      "name":"美图秀秀",
+      "url":"https://www.maiyewang.com/index-get.php?url=qprrfu2z1mqftq61enrrutYueroTgBYW0DNrLsZuuvkntvvP0DNrLsZuuvkntvvPKrkvLsdXgvkftvvPKrOrLsgPuvkntvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qqLztnbvMn10sDAvZt2Ctn",
+      "num":"摄影与录像",
+      "description":"最新版本:  8.8.21\n更新时间:  2020-04-17 02:13:28 (北京时间)\n\n1.【视频一键同款】上线啦！超多模板等你Pick\n你和视频大神只差美图秀秀一键同款！\n导入照片or视频，0门槛打造潮流风格小视频~\n2.【抠图功能】照片智能抠图，超多玩法超有趣！\n3.【美图秀秀社区】看身边潮人分享的变美百科。\n4.【动态相机】你比春光更明媚，你比春色更撩人。\n用美图秀秀把春天留在你的手机里吧！"
+    },
+    {
+      "name":"阿里巴巴(1688)-货源批发采购进货市场",
+      "url":"https://www.maiyewang.com/index-get.php?url=9efvqzNvZa1mfPNtZSgrnntqu50ASjdtcPuvkreBuPumvvLs5DgvkrtsvPumvvLsZuuvkbtsvPenvvLsdXgvkDKsvPenvvLsfzuvkbtsvPenvvLsZCgvknZzuPunvvLs4TgvkDeAuPumvvLs1KuvkvZzuPKmvvLs3TgvkjKsvPKmvvLsZuuvkbtsvPenvvLs0DgrpjtruXemjvLsZKuvkftvvPemjvLsZKuvkftvvPerOrLsZCgvkvtvvP0rkvLs0SgvkvtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tpNv3yxv3z0CvlWbtAT02xPvMCWKwlOHuBLTguxvwDkf2tRztyTahmPvgtWDgrpjtreTemLjwnWuMy10uzzzZxPPLn",
+      "num":"购物",
+      "description":"最新版本:  8.23.0\n更新时间:  2020-04-14 13:10:29 (北京时间)\n\n1.进一步适配iOS13系统\n2.修复已知问题。"
+    },
+    {
+      "name":"哈啰出行-顺风车及共享单车助力车平台",
+      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFLfroP3yQ1uEvPMt4verAbxod10qwLMu0u1uozKv510qwn1tdz1uozKvP5KqwnKudz1qpzKvPfvnvnvu0u1uozKvt9Kqwnvu0u1uozKvP5KqwnKudz1qpzKvt5unvnKu0u1uozKvPfLqwnvudz1qozKvt10qwnLt0u1uozKvtffnvLMu0u1uozKvP5KqwnKudz1qpzKvtjfnvLxtcz1upzKvtf1qwnvtcz1upzKvtXerOrLs4vuvkrtvvPKqkvLsZCgvkftvvP0DjvLsXSgvkftvvPenNrLs6TgvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90tqZb1vTmxnxvhC5KwlTT0vLf3sxvhC5KwzS50vTeNntv2CgDvDPb1v1bxoPvNAQ1wD1HwBLXuthTKn2uww1C3vAvtspPvn",
+      "num":"旅游",
+      "description":"最新版本:  5.37.2\n更新时间:  2020-04-14 09:45:41 (北京时间)\n\n优化了一些体验细节，使用更流畅！"
     },
     {
       "name":"爱上消消消",
@@ -297,34 +321,10 @@
       "description":"最新版本:  2.0.4\n更新时间:  2020-04-12 15:30:13 (北京时间)\n\n1.英文版本上线（北京、上海、重庆）\n2.优化调整第三方登录功能\n3.国网招聘栏目上线\n4.修复已知缺陷\n享受更多服务，快来更新吧！"
     },
     {
-      "name":"百度网盘",
-      "url":"https://www.maiyewang.com/index-get.php?url=qprrfu2z1mqHxq65KmzrvtZefvoTgBYWenRrLsdXgvkntvvPeERrLsfPuvkntvvPKmfvLscPuvkftvvPKrkvLs1SgvkntvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qw1vtnsjZn10wCIvtlTvtn",
-      "num":"效率",
-      "description":"最新版本:  10.0.190\n更新时间:  2020-04-13 14:42:28 (北京时间)\n\n修复了一些体验问题"
-    },
-    {
-      "name":"美图秀秀",
-      "url":"https://www.maiyewang.com/index-get.php?url=qprrfu2z1mqftq61enrrutYueroTgBYW0DNrLsZuuvkntvvP0DNrLsZuuvkntvvPKrkvLsdXgvkftvvPKrOrLsgPuvkntvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qqLztnbvMn10sDAvZt2Ctn",
-      "num":"摄影与录像",
-      "description":"最新版本:  8.8.21\n更新时间:  2020-04-17 02:13:28 (北京时间)\n\n1.【视频一键同款】上线啦！超多模板等你Pick\n你和视频大神只差美图秀秀一键同款！\n导入照片or视频，0门槛打造潮流风格小视频~\n2.【抠图功能】照片智能抠图，超多玩法超有趣！\n3.【美图秀秀社区】看身边潮人分享的变美百科。\n4.【动态相机】你比春光更明媚，你比春色更撩人。\n用美图秀秀把春天留在你的手机里吧！"
-    },
-    {
-      "name":"淘宝直播",
-      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKdvpnZzu1KENr0tWefvnTgBYWurgvLs5TgvkjtvvPemjvLsdXgvkntvvPurSrLsgzuvkftvvPenRrLsZKuvkjtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=aDlbxnWuxn1qMnHvtwLjxn",
-      "num":"购物",
-      "description":"最新版本:  1.6.4\n更新时间:  2020-04-12 02:11:44 (北京时间)\n\n每日签到新升级\n每天看直播的宝宝们，来试试你们的新福利！"
-    },
-    {
-      "name":"哈啰出行-顺风车及共享单车助力车平台",
-      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFLfroP3yQ1uEvPMt4verAbxod10qwLMu0u1uozKv510qwn1tdz1uozKvP5KqwnKudz1qpzKvPfvnvnvu0u1uozKvt9Kqwnvu0u1uozKvP5KqwnKudz1qpzKvt5unvnKu0u1uozKvPfLqwnvudz1qozKvt10qwnLt0u1uozKvtffnvLMu0u1uozKvP5KqwnKudz1qpzKvtjfnvLxtcz1upzKvtf1qwnvtcz1upzKvtXerOrLs4vuvkrtvvPKqkvLsZCgvkftvvP0DjvLsXSgvkftvvPenNrLs6TgvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90tqZb1vTmxnxvhC5KwlTT0vLf3sxvhC5KwzS50vTeNntv2CgDvDPb1v1bxoPvNAQ1wD1HwBLXuthTKn2uww1C3vAvtspPvn",
-      "num":"旅游",
-      "description":"最新版本:  5.37.2\n更新时间:  2020-04-14 09:45:41 (北京时间)\n\n优化了一些体验细节，使用更流畅！"
-    },
-    {
-      "name":"阿里巴巴(1688)-货源批发采购进货市场",
-      "url":"https://www.maiyewang.com/index-get.php?url=9efvqzNvZa1mfPNtZSgrnntqu50ASjdtcPuvkreBuPumvvLs5DgvkrtsvPumvvLsZuuvkbtsvPenvvLsdXgvkDKsvPenvvLsfzuvkbtsvPenvvLsZCgvknZzuPunvvLs4TgvkDeAuPumvvLs1KuvkvZzuPKmvvLs3TgvkjKsvPKmvvLsZuuvkbtsvPenvvLs0DgrpjtruXemjvLsZKuvkftvvPemjvLsZKuvkftvvPerOrLsZCgvkvtvvP0rkvLs0SgvkvtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tpNv3yxv3z0CvlWbtAT02xPvMCWKwlOHuBLTguxvwDkf2tRztyTahmPvgtWDgrpjtreTemLjwnWuMy10uzzzZxPPLn",
-      "num":"购物",
-      "description":"最新版本:  8.23.0\n更新时间:  2020-04-14 13:10:29 (北京时间)\n\n1.进一步适配iOS13系统\n2.修复已知问题。"
+      "name":"优酷视频-冰糖炖雪梨精彩呈现",
+      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKdvontuu1emfPMt61erAbxod10qwnLu0uvEozKvd9envnvt1u1uozKvt9KqwnKudz1uozKvtj1qwLwtdzvEozKvd9KqwLwtczvAozKvtfLqwLwu1u1upzKvP5unvLwt0uvEozKvP5unvLxtdzvEozKvd10qwLMt0u1uozKvtXeERrLs5vuvkvtvvPKmNrLsZuuvkrtvvP0mjvLsXCgvkvtvvPenRrLsePuvkbtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tpbn3tL9uAsDvzXLZv1zxEL9uCPfwDXjwB1X2qLvhB6v2tZD0vLXKulfMnhv2s2mZvzztw5Xun",
+      "num":"娱乐",
+      "description":"最新版本:  8.6.5\n更新时间:  2020-04-09 09:39:05 (北京时间)\n\n新增精彩好内容《亲爱的上线了》《机场特警》"
     },
     {
       "name":"轻颜相机-风格自拍新潮流",
@@ -333,16 +333,10 @@
       "description":"最新版本:  2.9.3\n更新时间:  2020-04-09 11:42:04 (北京时间)\n\n一键更新，精心优化使用体验，解锁自拍新玩法。\n更新记录美好时刻，产品小姐姐期待您的反馈呀～\n\n=====\n用户反馈QQ群：858190460，会员订阅vip反馈群：960415017，你的建议与反馈是我们前进的动力~\n新版本体验Q群：611496483，内测体验师火热招募中！抢先体验新功能，还有超多神秘福利等着你~"
     },
     {
-      "name":"扫描全能王-扫描仪PDF、拍文件转word和excel",
-      "url":"https://www.maiyewang.com/index-get.php?url=90tqoLdoxr2xnr0tZmMAnjZze9KErDvy2D3vAPgAyPfrOrLs5TgvkftvvP0AknJyZ4uvrXwuRffBNrLuSLLArXwsRffBrrLuSngrpXwwu9eBzrLuSfvrpXwsf9eBzrLuSbtAATMqyfLqwLwudz1qozKvPjfnvLMu0uvAozKvPfLqwn1t0uvAozKvtX0qOrLsgHgvkntvvPurkvLs6DgvkrtvvPenfvLsXCgvkftvvP0rOrLshHgvkjtvvP0qgvLs1CgvkjtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9eKyS50rLXgEVTgBu12y2rgsYLtA1r3nt1cAxfwzQXuyLDwqpvNufjeBXDZuTOguH1sCkfwzmXKn0utopLKnVDvw1avlVvJCT9wn",
-      "num":"效率",
-      "description":"最新版本:  5.18.2\n更新时间:  2020-04-03 16:48:05 (北京时间)\n\n修复小问题，使用更流畅"
-    },
-    {
-      "name":"中国银行手机银行",
-      "url":"https://www.maiyewang.com/index-get.php?url=qprrfu2z1mqvZAu1enbPMt1SMEnTgBYWerOrLs4vuvkrtvvPKmjvLs6TgvkvtvvPKqkvLseXgvkjtvvP0qOrLs1CgvkjtvvPerOrLs4vuvkrtvvPKmjvLs6TgvkvtvvPurkvLsdXgvkftvvPurgvLs0KuvkbtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=00rlzJmpPLn2KhC1WuBVvtthTKnY8Kw2KtDAvdDPXun",
+      "name":"京东金融-三亿人都在用",
+      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKJEobZyQ1enzrLt1CgrAbxod9KqwnKt1uvEozKvd9KqwLxu1u1uozKvdj1qwLxt0u1upzKvtf1qwnvudz1qozKvPj1qwnvudz1qozKvt9envn0tdz1qozKvtXurOrLsgXgvkrtvvPeERrLsZCgvkvtvvPerSrLs0KuvkbtvvPergvLscPuvkbtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tpbfxvL9uCJDvz2ruB1vNnt1ID2mvzPrZuLXKt2OKnsvww2mwAmvZCXXun",
       "num":"财务",
-      "description":"最新版本:  6.5.4\n更新时间:  2020-04-05 14:53:18 (北京时间)\n\n（1）时尚的四大频道：首页、理财、生活、我的，设计上更扁平、更简约；\n（2）多彩的综合服务：资产管理、跨境金融、综合金融服务，实现您与服务、场景的融合；\n（3）最贴心的外币现钞零钱包：外币现钞预约零钱包，在您需要的时候，实现您的小愿望。\n  (4）丰富的贷款场景：新增贷款LPR利率转换功能，新增E抵贷。\n（5）全新的线上线下服务：20余支交易不带卡即可用手机银行在柜台办理。"
+      "description":"最新版本:  5.4.0\n更新时间:  2020-04-14 14:42:41 (北京时间)\n\n【首页新升级】金融服务更专业，选择更简单\n【财富更懂你】机器人MAX竭诚为您服务\n【保险有惊喜】更多产品助您全面抵御家庭风险"
     },
     {
       "name":"王者荣耀",
@@ -351,52 +345,10 @@
       "description":"最新版本:  1.53.1.10\n更新时间:  2020-04-17 11:20:42 (北京时间)\n\n【问题优化】\n1.修复个人主页英雄模型消失问题。\n2.修复后羿、成吉思汗、女娲、鲁班等英雄，使用自定义按键后，小地图丢失原有瞄准器的问题。\n3.修复模拟战游戏对局内偶现的异常蓝屏问题。\n4.修复模拟战结算页面偶现的显示异常问题。\n5.修复云端梦境活动相关BUG。\n6.优化战队分享二维码过小的问题。\n\n【版本更新内容】\n1.新刺客英雄-镜：镜是英雄曜的姐姐，作为玄雍刺客登场，是一个自律、冷峻，具有坚定品格的英雄。在世界观设定上，她在万镜之厅觉醒了镜之力量；在美术设计上，以镜子为主要元素；在技能上，同样选取镜子作为主要设计亮点，能够召唤自己的镜像协同作战，强化自身能力。\n2.S19新赛季开启：凤仪之诏新章再启，排位赛探索内容全面更新，达成里程碑将解锁对应物件，了解背后的故事。\n3.英雄白起升级：结合“玄雍”世界观，对白起进行优化升级，塑造一个受血族侵蚀的不屈玄雍战士的形象。\n4.战场升级计划：作为全年的持续更新内容，通过调整UI界面，特效，角色和场景，提升战场信息清晰度；优化局内操作和战术交流；强化英雄高光时刻。\n5.社交新优化：loading界面新增打气功能；战队荣耀历程回顾与继承；亲密度上限调整，新增亲密度等级奖励，亲密关系称号修改功能。\n6.王者峡谷调整：\n1）远古生物调整：调整暴君/黑暗暴君技能效果与范围，先知主宰基础血量调整，暴君/先知主宰生命值成长调整；\n2）中路兵线调整：降低前期中路兵线血量，提升中路英雄前期清线速度。\n7.对局环境：禁言功能升级，可一键屏蔽语音、文字、快捷消息； 也可在设置中选择精确禁言，分类屏蔽。\n8.新皮肤上线：\n1）明世隐-疑决卦：勇者品质，S19赛季专属皮肤；\n2）阿轲-迷踪丽影：史诗品质，S19荣耀战令进阶版80级限定产出；\n3）刘邦-夺宝奇兵：勇者品质，S19荣耀战令进阶版1级限定产出；\n4）典韦-蓝屏警告星元部件“时尚职员”：S19荣耀战令进阶版25/35/50级限定产出。\n\n【更多优化调整】\n1.英雄调整：马超、鲁班大师、蒙犽、甄姬、伽罗、武则天、雅典娜、刘备、女娲、刘邦、韩信。\n2.英雄体验优化：扁鹊、花木兰、盘古、猪八戒、上官婉儿、元歌、张飞、达摩、苏烈、盾山、典韦、曹操、大乔、项羽。\n3.装备调整：急速战靴、贪婪之噬。\n4.坦克属性调整：调整苏烈、白起、程咬金、廉颇、刘邦、项羽、夏侯惇、猪八戒的基础攻击、攻击成长、基础生命及生命成长，使其前期对抗博弈更有意义，提升前期清线能力。\n5.英雄信息界面调整：调整刘邦、孙策、梦奇、程咬金、张飞、牛魔、盾山、太乙真人、项羽、刘禅的英雄信息界面特长描述，使其更符合英雄定位。"
     },
     {
-      "name":"Zoom Cloud Meetings",
-      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKJEoDxtu50DvPMtWufrAbxo5nMB1CvyWy1vArxmdPvm5CKyQfZuIzxoTvMDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9C3yUvZvHbJvxPLtcnKwXKZrIrKqtjMD502v",
-      "num":"商务",
-      "description":"最新版本:  4.6.11\n更新时间:  2020-04-15 10:21:44 (北京时间)\n\n- 支持增强会议密码复杂度\n- 遵循系统通知设置以显示或隐藏消息预览的消息详情\n- 问题修复"
-    },
-    {
-      "name":"Draw joust - 画车对决",
-      "url":"https://www.maiyewang.com/index-get.php?url=0tuubLDwnduXKLEnLxtu50mRrKt4f1vHzxtQffBzr0tSvfvsX2AQffBzvvuSvfvsXwwuffBrTwuSDgvsXwsRffBrr1tSngvsXgmdrMEwnJyXftEKHMsiPLDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90ZDZD0vLvNDxvhC5Kwl1vvzpLeDbnez6z1mIfNq5rgAkHKu",
-      "num":"游戏",
-      "description":"最新版本:  1.7.1\n更新时间:  2020-04-15 22:28:18 (北京时间)\n\n- New feature: emojis, player and enemies reacting\n- You can now purchase an extra cannon for any cart\n- Bugs fixed and improved performance"
-    },
-    {
-      "name":"招商银行",
-      "url":"https://www.maiyewang.com/index-get.php?url=qprrfu2z1mqftse5unRr0t5TMEnTgBYWerOrLs4vuvkrtvvPKmjvLs6TgvkvtvvPKmNrLsXSgvkftvvP0qSrLsdHgvkjtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qthTKnY8Kw2C0vAvJy19wn",
-      "num":"财务",
-      "description":"最新版本:  8.1.5\n更新时间:  2020-03-02 10:41:58 (北京时间)\n\n1.信用卡还款新增支持向他行/他人信用卡还款，实时到账，免手续费。\n2.生活频道美食推荐升级，为您挑选更优质实惠的餐厅，快来体验吧！\n3.账本增加提醒功能，现金流管理更智能。\n4.养老规划全新上线，综合考量多重因素，为您提供贴心规划方案。"
-    },
-    {
-      "name":"京东金融-三亿人都在用",
-      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKJEobZyQ1enzrLt1CgrAbxod9KqwnKt1uvEozKvd9KqwLxu1u1uozKvdj1qwLxt0u1upzKvtf1qwnvudz1qozKvPj1qwnvudz1qozKvt9envn0tdz1qozKvtXurOrLsgXgvkrtvvPeERrLsZCgvkvtvvPerSrLs0KuvkbtvvPergvLscPuvkbtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tpbfxvL9uCJDvz2ruB1vNnt1ID2mvzPrZuLXKt2OKnsvww2mwAmvZCXXun",
-      "num":"财务",
-      "description":"最新版本:  5.4.0\n更新时间:  2020-04-14 14:42:41 (北京时间)\n\n【首页新升级】金融服务更专业，选择更简单\n【财富更懂你】机器人MAX竭诚为您服务\n【保险有惊喜】更多产品助您全面抵御家庭风险"
-    },
-    {
       "name":"西瓜视频-《大赢家》全网独播",
       "url":"https://www.maiyewang.com/index-get.php?url=0tuubLDwnduXuKAnjZAe5emnrvt4f1vHzxuvffBjr1tSLfvsXwtvffBjv0tSngvsXwru9eBrTwuSngvsX2zuffBvr0tSvfvsXgmP50qwnLucz1uozKvP1KqwnLtdz1qpzKv55KqwnKtcz1uozKvtXeERrLs5vuvkvtvvPKmNrLsZuuvkrtvvPerSrLs6TgvkntvvP0rkvLsXuuvkrtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tprj3uH9KCmvwzRLtzpfNrx1sAb9uD0v3v19wmP1cCRDvDPf0tLXKulfMnhv2s2m2t1uZxxTKn",
       "num":"娱乐",
       "description":"最新版本:  4.4.2\n更新时间:  2020-04-17 13:32:35 (北京时间)\n\n- 修复问题，优化用户体验"
-    },
-    {
-      "name":"优酷视频-冰糖炖雪梨精彩呈现",
-      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKdvontuu1emfPMt61erAbxod10qwnLu0uvEozKvd9envnvt1u1uozKvt9KqwnKudz1uozKvtj1qwLwtdzvEozKvd9KqwLwtczvAozKvtfLqwLwu1u1upzKvP5unvLwt0uvEozKvP5unvLxtdzvEozKvd10qwLMt0u1uozKvtXeERrLs5vuvkvtvvPKmNrLsZuuvkrtvvP0mjvLsXCgvkvtvvPenRrLsePuvkbtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tpbn3tL9uAsDvzXLZv1zxEL9uCPfwDXjwB1X2qLvhB6v2tZD0vLXKulfMnhv2s2mZvzztw5Xun",
-      "num":"娱乐",
-      "description":"最新版本:  8.6.5\n更新时间:  2020-04-09 09:39:05 (北京时间)\n\n新增精彩好内容《亲爱的上线了》《机场特警》"
-    },
-    {
-      "name":"好省-官方唯一正版",
-      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFTMAnvtu65unjrLt3verAbxod9envn1t0uvEozKv51KqwnKuczvAozKvd1envn0tdz1qozKvPjLqwnKt1u1uozKvt90qwLMt1uvAozKvd9unvnLucz1uozKvtXeENrLseXgvkntvvPurkvLsXuuvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90tqPPuzT8gDH90z0mvlYv1vLv3vH9uB1DvzmjuE1utoxfwn",
-      "num":"生活",
-      "description":"最新版本:  2.6.0\n更新时间:  2020-04-04 21:26:47 (北京时间)\n\n性能优化\nBUG修复"
-    },
-    {
-      "name":"七猫小说-看小说电子书的阅读神器",
-      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFfevnH3yu10mJr0t6verAbxod9Kqwn1t1u1uozKvtjvnvnLtczvEozKvPf1qwLMucz1qpzKvt5envn0t1u1upzKvd5envnvu1uvEozKvP5Kqwn1tdz1qozKvd1unvnKucz1uozKvt50qwnKt1uvEozKvd50qwLMucz1qpzKvPjfnvnutdz1uozKvPffnvLxu1uvEozKvtXemjvLshzuvkrtvvP0rOrLs3LuvkftvvP0qgvLseHgvkntvvPKENrLs0KuvkbtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9euCADvDUXwzTuNDPvgAz12tOfwz1bxnt90A0Dvz0vvzprNDP1IA3DvlPnwzLXemTSKnqnKy1ixE0udrPXun",
-      "num":"图书",
-      "description":"最新版本:  3.2\n更新时间:  2020-04-14 10:00:35 (北京时间)\n\n【新版本介绍】\n1. 听书功能优化，1小时内无需重复观看小视频。\n2. 阅读器功能栏UI优化。\n3. 修复了一些已知问题。\n\n【热门好书、影视名著免费看】\n\n《今夜星辰似你》：当初对我爱答不理，如今你高攀不起，总裁老公我来了！（免费平台首发）\n《抬头有星光》：毒舌淘金女薛绮罗因一场大火失去一切，历经三年地狱式康复后化身千金秦姝逆袭归来（同名电视剧正在热播）\n《虎婿》：世界第一神秘组织之主，衣锦还乡，竟被人笑成是穷要饭的！\n《元尊》：大神天蚕土豆千盟力作，究竟是蟒雀为尊，还是圣龙崛起，凌驾众生？\n《十宗罪》：《十宗罪》电视剧原著。根据真实案例改编而成，发生在我们身边十个恐怖凶杀案。\n《龙王殿》：年度爆款畅销书。他年少父母被杀，消失数年归来，看他如何改变天下大势，成为王者至尊。\n《剑来》：第四届橙瓜网络文学奖十大作品，烽火戏诸侯最新力作。\n《九星霸体诀》：手掌天地乾坤，脚踏日月星辰，勾搭各色美女，镇压恶鬼邪神。\n《双世宠妃》：刚出生就定下娃娃亲，邪王独宠童养媳！\n《陆少的暖婚新妻》：玛丽苏的霸道总裁文，影视剧《约定期间爱上你》原著。"
     },
     {
       "name":"喜马拉雅「听书社区」电台有声小说相声评书",
@@ -405,10 +357,16 @@
       "description":"最新版本:  6.6.66\n更新时间:  2020-04-17 10:03:16 (北京时间)\n\n【评价】专辑评价全新升级，快来支持你喜欢的专辑吧~\n【私人FM】支持把频道添加到桌面啦，收听更便捷～\n【咔嚓】可截选喜欢的声音制作成短视频分享给朋友们了~\n【会员】会员折扣升级为折上折，可以和其它优惠叠加使用啦~\n【会员】频道页新增个性化内容分类和VIP近期热点，快来找喜欢的内容吧~\n【趣配音】支持成立或加入社团啦，快来加入吧~\n \n使用中如果有任何问题或建议，请前往【账号】-【帮助与反馈】中告诉我们噢~"
     },
     {
-      "name":"微博",
-      "url":"https://www.maiyewang.com/index-get.php?url=qprrfu2z1mqntru1uEzr1t3vLEnTgBYWKqSrLsfHgvkftvvPKrgvLsgPuvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=eMmzvtD2iwn",
-      "num":"社交",
-      "description":"最新版本:  10.3.2\n更新时间:  2020-03-19 10:46:03 (北京时间)\n\n问题修复及性能优化，改进用户体验"
+      "name":"中国银行手机银行",
+      "url":"https://www.maiyewang.com/index-get.php?url=qprrfu2z1mqvZAu1enbPMt1SMEnTgBYWerOrLs4vuvkrtvvPKmjvLs6TgvkvtvvPKqkvLseXgvkjtvvP0qOrLs1CgvkjtvvPerOrLs4vuvkrtvvPKmjvLs6TgvkvtvvPurkvLsdXgvkftvvPurgvLs0KuvkbtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=00rlzJmpPLn2KhC1WuBVvtthTKnY8Kw2KtDAvdDPXun",
+      "num":"财务",
+      "description":"最新版本:  6.5.4\n更新时间:  2020-04-05 14:53:18 (北京时间)\n\n（1）时尚的四大频道：首页、理财、生活、我的，设计上更扁平、更简约；\n（2）多彩的综合服务：资产管理、跨境金融、综合金融服务，实现您与服务、场景的融合；\n（3）最贴心的外币现钞零钱包：外币现钞预约零钱包，在您需要的时候，实现您的小愿望。\n  (4）丰富的贷款场景：新增贷款LPR利率转换功能，新增E抵贷。\n（5）全新的线上线下服务：20余支交易不带卡即可用手机银行在柜台办理。"
+    },
+    {
+      "name":"扫描全能王-扫描仪PDF、拍文件转word和excel",
+      "url":"https://www.maiyewang.com/index-get.php?url=90tqoLdoxr2xnr0tZmMAnjZze9KErDvy2D3vAPgAyPfrOrLs5TgvkftvvP0AknJyZ4uvrXwuRffBNrLuSLLArXwsRffBrrLuSngrpXwwu9eBzrLuSfvrpXwsf9eBzrLuSbtAATMqyfLqwLwudz1qozKvPjfnvLMu0uvAozKvPfLqwn1t0uvAozKvtX0qOrLsgHgvkntvvPurkvLs6DgvkrtvvPenfvLsXCgvkftvvP0rOrLshHgvkjtvvP0qgvLs1CgvkjtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9eKyS50rLXgEVTgBu12y2rgsYLtA1r3nt1cAxfwzQXuyLDwqpvNufjeBXDZuTOguH1sCkfwzmXKn0utopLKnVDvw1avlVvJCT9wn",
+      "num":"效率",
+      "description":"最新版本:  5.18.2\n更新时间:  2020-04-03 16:48:05 (北京时间)\n\n修复小问题，使用更流畅"
     },
     {
       "name":"UC浏览器-新闻头条短视频抢先看",
@@ -417,34 +375,10 @@
       "description":"最新版本:  12.9.6.1303\n更新时间:  2020-04-14 10:35:01 (北京时间)\n\n- 独家内容：原创栏目《数读疫情》、《疫情日报》，为用户提供观点独特、见解独到内容 \n- 五级疫情地图：实现“小区-区县-地级市-国省-全球”五级疫情覆盖，用户通过指尖即可了解身边、全国、全世界疫情信息 \n- 特色工具贴心服务用户：景区管控、出入境查询等功能，方便用户解决疫情相关生活需求"
     },
     {
-      "name":"驾考宝典-驾考学车驾校考驾照宝典",
-      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKdrnbZye5uEbrvt1efrAbxod90qwnLt0u1uozKvdjvnvnLucz1uozKv55KqwnLt0uvEozKvtj1qwn1tcz1upzKv51envnut0u1qpzKvt1KqwnutczvAozKvtj1qwn1tcz1upzKvP5KqwnKudz1qpzKvP5KqwnKucz1uozKv51envnut0u1qpzKvtj1qwn1tcz1upzKvtXenjvLsXCgvkftvvPurSrLsgzuvkftvvPKENrLs3DgvkrtvvPKrkvLs1uuvkvtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9euDgDvzUv3vTaNrLvNDW1wlNfuAL92zHvNDW1wDWLtA1bhDx1YzbLwD2bxBLXenxLvnKzty1q0qjztlTfMn",
-      "num":"教育",
-      "description":"最新版本:  7.9.4\n更新时间:  2020-04-17 09:31:42 (北京时间)\n\n1、4月新题库同步更新，实时练习考试放心\n2、修复部分问题，优化使用体验\n\n找驾校、考驾照，就用驾考宝典！\n欢迎加入我们的QQ群141270831，和伙伴们一起聊聊学车那些事~"
-    },
-    {
-      "name":"天眼查—全国企业查询工商征信查询平台",
-      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFvevonZzu1unNrKt3verAbxod10qwLMu0u1uozKv510qwn1tdz1uozKvP1KqwLMucz1qpzKvt5KqwLMu1uvAozKvt1KqwLMudz1qozKvt1envnLudz1uozKvP5envnLt1u1uozKvt5KqwLNtdz1uozKvP1KqwLMucz1qpzKvt5KqwLMu1uvAozKvtfvnvn0tdz1qozKvt1envLxudz1qozKvdj1qwLwu1u1uozKvd9KqwnLt0u1uozKvtXumfvLshXgvkjtvvPerkvLseXgvkntvvPunfvLsWuuvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=31sw1OxBIvtATSKnS1cC1GwlmvJq2iwnhDLw1WwzIvtATSKnS1cC1ewAmvJq5Xun5uNw182vzvtvd9gnS1cC1GtE1udCtfwn",
-      "num":"商务",
-      "description":"最新版本:  12.5.0\n更新时间:  2020-04-15 09:07:21 (北京时间)\n\n1. 新增天眼地图，随时随地发现当前位置有哪些公司\n  2. 查风险功能上线，定位风险更快捷\n  3. 天眼服务新增合同模板，一键生成省事方便\n  4. 风险监控优化，支持升级监控500家公司/老板/机构\n  5. 新增人员动态，老板情报一目了然\n\n  天眼查助你驰骋商海，精准信息帮你运筹帷幄，决胜千里！"
-    },
-    {
-      "name":"QQ邮箱",
-      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFvfroHxvQ1uEnPNtWe1vHzxrQffBvvvuSngvsXwvvffBjr0tSTgvsXwrynMDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=9uKCY52nXDgCizvv",
-      "num":"工具",
-      "description":"最新版本:  5.7.6\n更新时间:  2020-04-08 10:42:47 (北京时间)\n\n1.读信支持已读回执\n2.解决了一些已知问题"
-    },
-    {
-      "name":"菜鸟裹裹-快递轻松查寄取",
-      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKJAnrZAe1eEzrvtXSgrAbxoP5unvLMu0u1uozKvd5envLMucz1uozKvt5KqwLMu1uvAozKvtj1qwnKu1uvAozKvPf1qwnKudz1qpzKvP1unvnut0u1upzKvPfLqwLMudz1uozKvtXunjvLs6vuvkrtvvPunjvLs6vuvkrtvvP0rSrLs0KuvkvtvvPerSrLshHgvkrtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90ZzSb1vpHMDxvgCMfwD2rwyTuxoPv3Ab1wlX91vLXunpTKn180s2ywAIzZyTKKn",
-      "num":"工具",
-      "description":"最新版本:  5.10.0\n更新时间:  2020-04-13 15:28:46 (北京时间)\n\n1.包裹信息加密，你的包裹权限你说了算\n2.VIP会员尊享隐私保护，包裹面单为你定制手机安全码，防信息泄漏\n3.为你预测包裹将被派送到哪，早知道早准备\n4.物流异常监测及其他体验优化"
-    },
-    {
-      "name":"九州天空纪-国风仙侠梦幻修仙手游",
-      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzF1evpDxw65uEvrutXuerAbxod90qwn0tdzvAozKvPffnvn1t0uvAozKvt9unvLwudz1qozKvtjLqwLMudz1qozKvPf1qwn1tdz1uozKvP5KqwLwtczvAozKvd1KqwnLudz1qozKvt9unvLwudz1qozKvtjfnvLxtcz1upzKvdj1qwLwu1u1uozKvtXKqgvLscPuvkntvvPKqkvLs1uuvkntvvPunfvLsWuuvkftvvPKrSrLsZKuvkftvvPurSrLs1KuvkbtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9euD0ewlPPuyL12ntvNCFnvl1vZv1bxAH90BTmvzTDZu1PMATvMDIDvzmfxC3uJnTztnWnvy1uwzIvdzTXun",
-      "num":"游戏",
-      "description":"最新版本:  1.0\n更新时间:  2020-04-07 18:08:21 (北京时间)\n\n"
+      "name":"微博",
+      "url":"https://www.maiyewang.com/index-get.php?url=qprrfu2z1mqntru1uEzr1t3vLEnTgBYWKqSrLsfHgvkftvvPKrgvLsgPuvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=eMmzvtD2iwn",
+      "num":"社交",
+      "description":"最新版本:  10.3.2\n更新时间:  2020-03-19 10:46:03 (北京时间)\n\n问题修复及性能优化，改进用户体验"
     },
     {
       "name":"肯德基KFC(官方版)-宅急送外卖无接触配送",
@@ -453,10 +387,34 @@
       "description":"最新版本:  4.760\n更新时间:  2020-04-13 09:35:41 (北京时间)\n\n优化用户体验   支持无接触配送"
     },
     {
-      "name":"郑好办",
-      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKJEnPxse9KmjPwt3vfvnTgBYWKrSrLscHgvkftvvPurkvLsXuuvkftvvPeERrLs6DgvkvtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=Lfxw1KZvHvJupLLn",
-      "num":"生活",
-      "description":"最新版本:  1.0\n更新时间:  2020-03-28 04:03:32 (北京时间)\n\n"
+      "name":"招商银行",
+      "url":"https://www.maiyewang.com/index-get.php?url=qprrfu2z1mqftse5unRr0t5TMEnTgBYWerOrLs4vuvkrtvvPKmjvLs6TgvkvtvvPKmNrLsXSgvkftvvP0qSrLsdHgvkjtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qthTKnY8Kw2C0vAvJy19wn",
+      "num":"财务",
+      "description":"最新版本:  8.1.5\n更新时间:  2020-03-02 10:41:58 (北京时间)\n\n1.信用卡还款新增支持向他行/他人信用卡还款，实时到账，免手续费。\n2.生活频道美食推荐升级，为您挑选更优质实惠的餐厅，快来体验吧！\n3.账本增加提醒功能，现金流管理更智能。\n4.养老规划全新上线，综合考量多重因素，为您提供贴心规划方案。"
+    },
+    {
+      "name":"七猫小说-看小说电子书的阅读神器",
+      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFfevnH3yu10mJr0t6verAbxod9Kqwn1t1u1uozKvtjvnvnLtczvEozKvPf1qwLMucz1qpzKvt5envn0t1u1upzKvd5envnvu1uvEozKvP5Kqwn1tdz1qozKvd1unvnKucz1uozKvt50qwnKt1uvEozKvd50qwLMucz1qpzKvPjfnvnutdz1uozKvPffnvLxu1uvEozKvtXemjvLshzuvkrtvvP0rOrLs3LuvkftvvP0qgvLseHgvkntvvPKENrLs0KuvkbtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9euCADvDUXwzTuNDPvgAz12tOfwz1bxnt90A0Dvz0vvzprNDP1IA3DvlPnwzLXemTSKnqnKy1ixE0udrPXun",
+      "num":"图书",
+      "description":"最新版本:  3.2\n更新时间:  2020-04-14 10:00:35 (北京时间)\n\n【新版本介绍】\n1. 听书功能优化，1小时内无需重复观看小视频。\n2. 阅读器功能栏UI优化。\n3. 修复了一些已知问题。\n\n【热门好书、影视名著免费看】\n\n《今夜星辰似你》：当初对我爱答不理，如今你高攀不起，总裁老公我来了！（免费平台首发）\n《抬头有星光》：毒舌淘金女薛绮罗因一场大火失去一切，历经三年地狱式康复后化身千金秦姝逆袭归来（同名电视剧正在热播）\n《虎婿》：世界第一神秘组织之主，衣锦还乡，竟被人笑成是穷要饭的！\n《元尊》：大神天蚕土豆千盟力作，究竟是蟒雀为尊，还是圣龙崛起，凌驾众生？\n《十宗罪》：《十宗罪》电视剧原著。根据真实案例改编而成，发生在我们身边十个恐怖凶杀案。\n《龙王殿》：年度爆款畅销书。他年少父母被杀，消失数年归来，看他如何改变天下大势，成为王者至尊。\n《剑来》：第四届橙瓜网络文学奖十大作品，烽火戏诸侯最新力作。\n《九星霸体诀》：手掌天地乾坤，脚踏日月星辰，勾搭各色美女，镇压恶鬼邪神。\n《双世宠妃》：刚出生就定下娃娃亲，邪王独宠童养媳！\n《陆少的暖婚新妻》：玛丽苏的霸道总裁文，影视剧《约定期间爱上你》原著。"
+    },
+    {
+      "name":"Zoom Cloud Meetings",
+      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKJEoDxtu50DvPMtWufrAbxo5nMB1CvyWy1vArxmdPvm5CKyQfZuIzxoTvMDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9C3yUvZvHbJvxPLtcnKwXKZrIrKqtjMD502v",
+      "num":"商务",
+      "description":"最新版本:  4.6.11\n更新时间:  2020-04-15 10:21:44 (北京时间)\n\n- 支持增强会议密码复杂度\n- 遵循系统通知设置以显示或隐藏消息预览的消息详情\n- 问题修复"
+    },
+    {
+      "name":"QQ邮箱",
+      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFvfroHxvQ1uEnPNtWe1vHzxrQffBvvvuSngvsXwvvffBjr0tSTgvsXwrynMDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=9uKCY52nXDgCizvv",
+      "num":"工具",
+      "description":"最新版本:  5.7.6\n更新时间:  2020-04-08 10:42:47 (北京时间)\n\n1.读信支持已读回执\n2.解决了一些已知问题"
+    },
+    {
+      "name":"淘宝直播",
+      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKdvpnZzu1KENr0tWefvnTgBYWurgvLs5TgvkjtvvPemjvLsdXgvkntvvPurSrLsgzuvkftvvPenRrLsZKuvkjtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=aDlbxnWuxn1qMnHvtwLjxn",
+      "num":"购物",
+      "description":"最新版本:  1.6.4\n更新时间:  2020-04-12 02:11:44 (北京时间)\n\n每日签到新升级\n每天看直播的宝宝们，来试试你们的新福利！"
     },
     {
       "name":"WiFi万能钥匙-Wi-Fi安全一键连",
@@ -471,28 +429,28 @@
       "description":"最新版本:  10.24.0\n更新时间:  2020-04-16 23:34:35 (北京时间)\n\n百度地图保障公众复工安全出行\n- 实时公交：实时查看车厢情况与到站信息，轻松乘车\n- 出行助手：出行助手通勤方案升级，打车方案提前知晓，上下班出行更便捷\n- 地点检索信息更丰富：出发前充分了解目的地，检索目的地，呈现更丰富的图文信息\n- 语音定制：语音广场心动升级，智能推荐语音包，录制流程更简化\n即刻下载，体验新版本"
     },
     {
-      "name":"饿了么-外卖买菜买药，30分钟安心送达",
-      "url":"https://www.maiyewang.com/index-get.php?url=adm6jwm5qKt51evnjtr650DvrKwWLZusnKvtj1qwn0tgz1unrtvd1envn1tgzvEnrtvPj1qwnLtgz1uprtvtjLqwnLtgzvAsvtvP1unvn1tgzvAortvd9envnLtgz1qnPhmPjLqwnKu0u1qpzKvd10qwn1tdz1qozKv5fvnvLMu0u1qpzKvd10qwn1tdz1qozKvP5unvnKu0u1uozKvP5unvnKtcz1uozKvtXenNrLs1KuvkbtvvPKmNrLscPuvkbtvvP0rkvLsXuuvkvtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0InmzJqdLLne1Iy1OKnHvJzlPLnhLww1CxtePgoT0ICoL2tZvZup5guP90C1mvDS50v1X2Axvgtj1gt1CuCmvZxxfMn",
-      "num":"美食佳饮",
-      "description":"最新版本:  8.31.4\n更新时间:  2020-04-08 14:28:39 (北京时间)\n\n本期更新：\n1.星选好店全新升级，北上杭好店由你说了算，还有更多全城必点美食在等你呦！\n2.搜索后长按店铺信息有可能触发惊喜哦，更多的相似好店等你来发现！（逐步开放中）\n3.店内搜索能力优化，可以更好的帮你找到心仪美味！\n4.商户列表新增商超主题模块，坐家里逛超市一起逛起来！（逐步开放中）\n\n近期更新：\n1.饿了么买菜无忧，新鲜平价果蔬肉禽蛋水产最快29分钟送到家！\n2.首页新增「发现好菜」模块，助你更快发现附近美食！（逐步开放中）\n3.跑腿代购服务支持在线联系，助力骑手和用户无障碍沟通！"
+      "name":"好省-官方唯一正版",
+      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFTMAnvtu65unjrLt3verAbxod9envn1t0uvEozKv51KqwnKuczvAozKvd1envn0tdz1qozKvPjLqwnKt1u1uozKvt90qwLMt1uvAozKvd9unvnLucz1uozKvtXeENrLseXgvkntvvPurkvLsXuuvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90tqPPuzT8gDH90z0mvlYv1vLv3vH9uB1DvzmjuE1utoxfwn",
+      "num":"生活",
+      "description":"最新版本:  2.6.0\n更新时间:  2020-04-04 21:26:47 (北京时间)\n\n性能优化\nBUG修复"
     },
     {
-      "name":"学习强国",
-      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKdvobtwu5umnPMt5ffvnTgBYWurkvLsdXgvkftvvPKqkvLsePuvkftvvP0DfvLs1KuvkbtvvPKmfvLsfzuvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qo1Pvn2KNy1CwBmvtBYewn",
-      "num":"教育",
-      "description":"最新版本:  2.12.0\n更新时间:  2020-04-16 11:01:27 (北京时间)\n\n1、杭州办事通上线，便民服务等您体验。\n2、修复了一些问题，优化体验。"
-    },
-    {
-      "name":"切割加速版:超变归来",
-      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFfevpP3yu9emvrutXuerAbxot5KqwnKu1uvAozKvP1unvnKudz1uozKvd9unvLMu0u1uozKvt5envLMtdz1qpzKvtXenNrLs1CgvkntvvP0rSrLs3DgvkvtvvP0DfvLscHgvkftvvPuEjvLs1CgvkftvvP0mNrLs0CgvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9efCKfwDRLZvp1guxvgAYKwDpLuB0uJzdLLnNfxw1KxBzvdsPLvn",
+      "name":"未来风暴(Ever Storm)",
+      "url":"https://www.maiyewang.com/index-get.php?url=0tuubLDwndu3ngrpPxuQ1umNrKt4f1vHzhmTnMDsnZy0LewAjJvxXemjvLscXgvkjtvvPKrOrLs6vuvkvtvvPumfvLsfXgvkjtvvPKqgvLseXgvkjtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=ahmTnMDsntvNLewAjJvfTemXbxnp9uy2WMmWvtC5bxn",
       "num":"游戏",
-      "description":"最新版本:  10013.10\n更新时间:  2020-04-10 18:54:49 (北京时间)\n\n"
+      "description":"最新版本:  1.6.0.3\n更新时间:  2020-04-18 01:44:20 (北京时间)\n\n【问题修复】\n修复个别机型启动黑屏问题\n修复世界聊天频道卡顿问题"
     },
     {
-      "name":"腾讯新闻-打开眼界",
-      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKJAoftr61Kmnr1t10erAbxo5ffnvnLt1uvEozKv5f1qwLxu1uvEozKvd1envLxudz1uozKv51unvn1t0uvAozKvtX0qkvLsZSgvkvtvvP0DjvLsYSgvkjtvvP0rgvLsgzuvkrtvvPKrkvLsXCgvkrtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90tqQzvzpz3yL90z4CvlRPuyLX0nLPLn3fgC1yNnlztlxLKn",
-      "num":"新闻",
-      "description":"最新版本:  6.0.90\n更新时间:  2020-04-15 18:04:09 (北京时间)\n\n1. 免费小说排行榜上新啦！【新闻频道】-【点击右上角】- 添加【免费小说】，最火热的大神小说尽在这里\n2. 4月16日18时，钟南山院士直播解读全球疫情焦点问题\n3. 修复了一些问题，优化了性能体验"
+      "name":"驾考宝典-驾考学车驾校考驾照宝典",
+      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKdrnbZye5uEbrvt1efrAbxod90qwnLt0u1uozKvdjvnvnLucz1uozKv55KqwnLt0uvEozKvtj1qwn1tcz1upzKv51envnut0u1qpzKvt1KqwnutczvAozKvtj1qwn1tcz1upzKvP5KqwnKudz1qpzKvP5KqwnKucz1uozKv51envnut0u1qpzKvtj1qwn1tcz1upzKvtXenjvLsXCgvkftvvPurSrLsgzuvkftvvPKENrLs3DgvkrtvvPKrkvLs1uuvkvtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9euDgDvzUv3vTaNrLvNDW1wlNfuAL92zHvNDW1wDWLtA1bhDx1YzbLwD2bxBLXenxLvnKzty1q0qjztlTfMn",
+      "num":"教育",
+      "description":"最新版本:  7.9.4\n更新时间:  2020-04-17 09:31:42 (北京时间)\n\n1、4月新题库同步更新，实时练习考试放心\n2、修复部分问题，优化使用体验\n\n找驾校、考驾照，就用驾考宝典！\n欢迎加入我们的QQ群141270831，和伙伴们一起聊聊学车那些事~"
+    },
+    {
+      "name":"菜鸟裹裹-快递轻松查寄取",
+      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKJAnrZAe1eEzrvtXSgrAbxoP5unvLMu0u1uozKvd5envLMucz1uozKvt5KqwLMu1uvAozKvtj1qwnKu1uvAozKvPf1qwnKudz1qpzKvP1unvnut0u1upzKvPfLqwLMudz1uozKvtXunjvLs6vuvkrtvvPunjvLs6vuvkrtvvP0rSrLs0KuvkvtvvPerSrLshHgvkrtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90ZzSb1vpHMDxvgCMfwD2rwyTuxoPv3Ab1wlX91vLXunpTKn180s2ywAIzZyTKKn",
+      "num":"工具",
+      "description":"最新版本:  5.10.0\n更新时间:  2020-04-13 15:28:46 (北京时间)\n\n1.包裹信息加密，你的包裹权限你说了算\n2.VIP会员尊享隐私保护，包裹面单为你定制手机安全码，防信息泄漏\n3.为你预测包裹将被派送到哪，早知道早准备\n4.物流异常监测及其他体验优化"
     },
     {
       "name":"知乎 - 有问题，上知乎",
@@ -501,70 +459,10 @@
       "description":"最新版本:  6.37.0\n更新时间:  2020-04-15 12:02:27 (北京时间)\n\n- 搜索功能中添加视频垂类搜索。"
     },
     {
-      "name":"今日头条",
-      "url":"https://www.maiyewang.com/index-get.php?url=qprrfu2z1mqDxwu1uERrut1KevoTgBYWeEfvLsfXgvkjtvvPemjvLsWuuvkftvvPumfvLsZSgvkjtvvPKqOrLsdPuvkbtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=aAYaxnWmvy1WwzWvZs1Xun",
-      "num":"新闻",
-      "description":"最新版本:  7.6.8\n更新时间:  2020-04-12 11:41:16 (北京时间)\n\n- 音频频道大改版：相声故事、新闻书籍、热门音乐都能听~ \n- 音频支持悬浮窗播放，边听边刷头条，两不误！"
-    },
-    {
-      "name":"腾讯课堂",
-      "url":"https://www.maiyewang.com/index-get.php?url=qprrfu2z1mqjttu90DjPNt41evpTgBYWuENrLs3vuvkftvvPKrkvLshzuvkrtvvP0rgvLsgzuvkrtvvPKrkvLsXCgvkrtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=WqdfwnT0Ys2yNnlztlxLKn",
-      "num":"教育",
-      "description":"最新版本:  4.9.2\n更新时间:  2020-04-10 09:40:32 (北京时间)\n\n更新内容：\n1. 修复了课程详情页部分体验问题。\n2. 修复了部分机型下直播间聊天区展示异常问题。\n3. 优化了暗黑模式下客户端表现。\n4. 修复了iPad上部分场景的崩溃问题。"
-    },
-    {
-      "name":"平安好车主—车服务、买保险、办理赔",
-      "url":"https://www.maiyewang.com/index-get.php?url=0tuubLDwnduY0erpvtt61KmRPNtRXMmmbZAuPumjvLs0uvvkjZzuP0DRrLsZuvvkzeBuPKqOrLsXuvvkr3AuffBRr1tSTgvsXwuv9eBzTwuSffvsXwqQffBRPwuSffvsXgmt1Kqwnvu0u1uozKvdjfnvLxu1uvAozKvP5KqwnKudz1qpzKvtX0qkvLs0KuvkbtvvPKmfvLsfPuvkrtvvPurkvLsXuuvkftvvPunNrLsgzuvkftvvPKEjvLs1KuvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=u1vmzZrdvtnLfxw1i0q0qdCTPLnK1ct1CxBmvJqdrdnOfxw14uEWvtBYWKnvn0B0CtAmvtBYWKn5Cvy1OKnHvJETjwn",
-      "num":"生活",
-      "description":"最新版本:  3.71.1\n更新时间:  2020-04-14 09:29:56 (北京时间)\n\n1、粉丝俱乐部：新增商品/服务折扣券、免费保险等多种粉丝礼品，可任意挑选。\n2、分享赚钱：热门视频新增分类标签。\n3、好车主首页资讯流改版，更多资讯推荐，等你来。"
-    },
-    {
-      "name":"新氧SoYoung-美容微整形专业医美APP",
-      "url":"https://www.maiyewang.com/index-get.php?url=0tuubLDwnduWCgrnHxt61uEjPxt4f1vHzxqingAwv0tSv1ArX2yujfBjTwuS1urpXwvujfBfv1tSDMArXwuujfBnr1tSDMArXwuujfBjrvuSf1ArXwvujfBrPwuSvfvpXwwujfBvvvuSv1ArXwvujfBRPwuSvvvrXwvujfBvv0tSv1ArX2yujfBWKNw1z1mIvtoYm2mfvLs3LuvkjtvvP0DjvLsYSgvkjtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=9eKrvjunVzNB2XKASjNs1Tgukv3AmfMDSrLyS12nXzhBUjNCSDZB252m5PvDwnJyALJmv52qYvZDHbxn",
-      "num":"健康健美",
-      "description":"最新版本:  7.51.0\n更新时间:  2020-04-06 16:17:54 (北京时间)\n\n新氧视频面诊，医生好不好，当面聊才知道！\n1、日记新增投诉通道，小法庭判决内容纠纷\n2、用户风险提示升级，全平台提示风险来源"
-    },
-    {
-      "name":"邮储手机银行",
-      "url":"https://www.maiyewang.com/index-get.php?url=qprrfu2z1mqftru5unNrKt6TgroTgBYWerOrLs4vuvkrtvvPKmjvLs6TgvkvtvvPKqkvLseXgvkjtvvP0qOrLs1CgvkjtvvPenfvLs5DgvkftvvPKrgvLs5DgvkvtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=nD0s2iZtAzJn5bxnm12B182szvtDlLLn",
-      "num":"财务",
-      "description":"最新版本:  5.0.6\n更新时间:  2020-04-03 08:32:22 (北京时间)\n\n1. 搜索栏新增热门菜单。\n2. 修复已知问题。"
-    },
-    {
-      "name":"美团外卖-外卖订餐,送啥都快",
-      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFvfvpvtqu1KEJPxtZe1vHzxsvffBzTwuSvfvsXwuRffBnr0tSTgvsXwvuffBvr1tSvfvsXwre9eBbr0tSTgvsXgmd1unvnKtcz1upzKvP1KqwnLucz1qpzKvP5unvnKu0u1uozKvP5unvnKtcz1uozKvtXKmRrLsfHgvkftvvPKmRrLsWuuvkftvvPuEfvLsdXgvkftvvPKrOrLsgPuvkntvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qpZzJDSnZnNbhwHXgBiL0zWP3qRTwB19wDPvhBoDvDST2vLX0vYKvnxnvy1KwDAvZt2Ctn",
-      "num":"美食佳饮",
-      "description":"最新版本:  7.34.0\n更新时间:  2020-04-17 10:00:40 (北京时间)\n\n1.功能细节优化\n2.提升整体使用体验"
-    },
-    {
-      "name":"虎牙直播-游戏互动直播平台",
-      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKJEnbZyu5unbrvtZCgrAbxod10qwLMu0u1uozKv510qwn1tdz1uozKvdjLqwLwt1uvAozKvd50qwLwu1uvEozKvd9Kqwnvu0u1uozKvP1unvnvudz1qozKvPjfnvn0t0uvAozKvd90qwn0tdzvAozKvtXurgvLs5TgvkjtvvPemjvLsdXgvkntvvPunRrLs1CgvkntvvPKrOrLs1SgvkrtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9e0CqDvlZvZvLj3uH9eDIv2tXT0v1TMnt1IAjf2t1rtyLXeDlbxnWuxn1OvB0uZtTPKn",
-      "num":"娱乐",
-      "description":"最新版本:  7.11.5\n更新时间:  2020-04-07 10:23:18 (北京时间)\n\n【赛事】LCK春季赛再度开启，独家直播激烈来袭！\n【新增】暗黑模式邀您体验，抢先享受双色幻变！\n【优化】颜值直播上下切换，流畅体验助您观看！"
-    },
-    {
-      "name":"九品官人-极品小县令",
-      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFLKEorts65KEnr1tWuerAbxod5KqwLwudz1qozKvPj1qwnLu0u1uozKvPjfnvnutdz1uozKvt1envLxt1u1uozKvt1envnLu1uvAozKvtXKqkvLscPuvkbtvvPenRrLsgzuvkftvvPeENrLs6TgvkftvvPurSrLs1KuvkbtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9eeC3mvl290vTO2Dxv2zuDvzNvwyLXKnXXunzzty1i0tAvdzTXun",
-      "num":"游戏",
-      "description":"最新版本:  1.0.413\n更新时间:  2020-04-15 13:18:02 (北京时间)\n\n1.新增许愿币活动\n2.新增李白皮肤-酒仙\n3.新增限时活动-产出黄月英限定皮肤\n4.新增门客-曹丕"
-    },
-    {
-      "name":"搜狗输入法-语音变声斗图表情",
-      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKdroL3Ae10mzPNt4TgrAbxot5envLxt0uvAozKvd9Kqwnvtcz1qpzKvtj1qwLwu1u1uozKv55unvLMt1uvAozKvd10qwLxtcz1uozKvd9unvLMu0u1uozKv510qwLMu1u1upzKvdjLqwLMucz1qpzKvtXumRrLs6LuvkjtvvPumfvLsXCgvkftvvPKERrLsgPuvkrtvvP0mRrLsdHgvkntvvPerSrLs3TgvkjtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tprHgrH9uCOLwD2j2vTW2vH90CQD1tTb1vTmNzTvMC2Lwzmz1tYvdBxLvnuzdt2GvD0uZydbxn",
-      "num":"工具",
-      "description":"最新版本:  10.7.0\n更新时间:  2020-04-09 16:31:25 (北京时间)\n\n本次更新\n【语音翻译】用中文与外国人聊天！\n【语音输入】19种方言外语任你说！\n\n近期更新：\n【纠错升级】错字不用愁，搜狗帮你纠\n【地震预警】智能汪仔，守护安全！\n【小语种键盘】日语韩语上线啦，双语合璧，追星追剧，一键到位！\n【输入日报】你的专属打字报告，更有每日热词等你来撩！\n【汪豆福利】打字赚汪豆，汪豆换实体好书，还有影音玩乐等福利免费领！\n【智能汪仔2.0 】摸摸头 就会聊\n【叨叨社区】会说话的人都在这儿，明星独家语音问答，大咖免费教你说\n【智能预测】只要1-2个字母，立即给出准确预测候选，省时省力\n【智能纠错】模型升级，快速输入，打字一气呵成\n【离线语音】离线语音，全新上线！没有网络，依然精准\n【有声表情】这里的表情会说话\n【滑行输入】9键滑行再升级，指尖滑行输入，输入更准确快速\n【AI校对】AI逐字校对，让错别字无处容身\n【中英混说】get中英混说，效率upup\n【聊天气泡】我的消息自带亮点\n【字体商城】键盘字体随意换"
-    },
-    {
-      "name":"多闪",
-      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKJAoPxvQ10DzrLt6ffvnTgBYWKqgvLsZSgvkvtvvPKqSrLsWuuvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=exzAztytfwn",
-      "num":"社交",
-      "description":"最新版本:  1.9.4\n更新时间:  2020-04-16 12:34:39 (北京时间)\n\n贴纸新功能来啦！\n-【贴纸模板拍同款】，超多风格的贴纸模板一键使用，让随手一拍也能立刻有质感～\n-问题修复及性能提升\n-优化用户体验"
-    },
-    {
-      "name":"全民K歌-你其实很会唱歌",
-      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFTgroHxtu1umbrvt1e1vHzxtf9eBrvvuSLfvsXwrQffBrr1tSvfvsXwrv9eBnTwuSffvsX2ze9eBvTwuSvfvsXwvv9eBvvvuSvfvsXwwQffBvr0tSvfvsXwquffBrTwuSffvsXgm5ffnvnKuczvAozKv5fgERrLs3LuvkjtvvPenfvLsXCgvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0ZDzjxBiXeBSjNs2TMAVzhB3aNCSjMyOXgrHz3AZmKA0fwltj1qYvZBxLvn",
-      "num":"娱乐",
-      "description":"最新版本:  6.21.8\n更新时间:  2020-04-01 13:07:44 (北京时间)\n\nMV和合唱支持添加智能音效，随心畅享专业AI音效"
+      "name":"天眼查—全国企业查询工商征信查询平台",
+      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFvevonZzu1unNrKt3verAbxod10qwLMu0u1uozKv510qwn1tdz1uozKvP1KqwLMucz1qpzKvt5KqwLMu1uvAozKvt1KqwLMudz1qozKvt1envnLudz1uozKvP5envnLt1u1uozKvt5KqwLNtdz1uozKvP1KqwLMucz1qpzKvt5KqwLMu1uvAozKvtfvnvn0tdz1qozKvt1envLxudz1qozKvdj1qwLwu1u1uozKvd9KqwnLt0u1uozKvtXumfvLshXgvkjtvvPerkvLseXgvkntvvPunfvLsWuuvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=31sw1OxBIvtATSKnS1cC1GwlmvJq2iwnhDLw1WwzIvtATSKnS1cC1ewAmvJq5Xun5uNw182vzvtvd9gnS1cC1GtE1udCtfwn",
+      "num":"商务",
+      "description":"最新版本:  12.5.0\n更新时间:  2020-04-15 09:07:21 (北京时间)\n\n1. 新增天眼地图，随时随地发现当前位置有哪些公司\n  2. 查风险功能上线，定位风险更快捷\n  3. 天眼服务新增合同模板，一键生成省事方便\n  4. 风险监控优化，支持升级监控500家公司/老板/机构\n  5. 新增人员动态，老板情报一目了然\n\n  天眼查助你驰骋商海，精准信息帮你运筹帷幄，决胜千里！"
     },
     {
       "name":"懂车帝 - 新车二手车汽车信息大全",
@@ -573,16 +471,82 @@
       "description":"最新版本:  4.9.4\n更新时间:  2020-04-09 14:08:38 (北京时间)\n\n1.车型对比增加大咖说车功能，观点PK更精彩\n2.主播可在直播间添加车系卡了，车系讲解更全面\n3.个人中心增加创作中心，作者管理效率更高\n4.个人主页全新改版，快来看看吧"
     },
     {
-      "name":"王富贵的垃圾站",
-      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKdvnHxuu90mnrut3vfvnTgBYWunRrLsdzuvkntvvPKrkvLseXgvkftvvPKENrLsgXgvkftvvPemNrLscXgvkntvvPumjvLsWKuvkrtvvPerOrLshzuvkftvvP0qOrLsgHgvkntvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=Gw1ztnTKNw1qKnAvtrXvtnXmft20ulHvdt2qtn",
-      "num":"游戏",
-      "description":"最新版本:  1.5\n更新时间:  2020-04-14 18:03:01 (北京时间)\n\n1.稳定版本\n2.优化新手流程,增强提示减少卡点\n3.优化场景信息"
+      "name":"学习强国",
+      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKdvobtwu5umnPMt5ffvnTgBYWurkvLsdXgvkftvvPKqkvLsePuvkftvvP0DfvLs1KuvkbtvvPKmfvLsfzuvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qo1Pvn2KNy1CwBmvtBYewn",
+      "num":"教育",
+      "description":"最新版本:  2.12.0\n更新时间:  2020-04-16 11:01:27 (北京时间)\n\n1、杭州办事通上线，便民服务等您体验。\n2、修复了一些问题，优化体验。"
     },
     {
-      "name":"识货-运动潮流的好物和好价",
-      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKdrnDxs650mfrLtZCgrAbxo550qwLwudz1qozKvdj1qwnLtcz1uozKv5ffnvLwt1u1uozKvt9Kqwn1t0uvEozKvdj1qwnLtcz1uozKvd5envnvu1uvEozKvt1envnLtdzvAozKvtjLqwnKudzvAozKvd9Kqwnvu0u1uozKvd1unvLMudz1qpzKvtX0mfvLsWKuvkrtvvPKmNrLshzuvkrtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9ChD3mvz2X2vpP2uxvwCkvwz2X2vpHwyLv2zXewDYLtypf3sx90AFLwzm52umzZrTSKn",
-      "num":"体育",
-      "description":"最新版本:  6.11.0\n更新时间:  2020-04-16 11:34:54 (北京时间)\n\n1.社区发布草稿箱功能上线！—发布笔记时可以将未编辑完成的图文保存草稿箱中继续编辑。\n2.修复已知问题。\n为了让您获得更好的用户体验，识货会在App Store中定期更新，建议打开手机「设置」-「iTunes Store与App Store 」-「自动下载的项目」打开「更新」, 确保第一时间体验更好的识货App"
+      "name":"饿了么-外卖买菜买药，30分钟安心送达",
+      "url":"https://www.maiyewang.com/index-get.php?url=adm6jwm5qKt51evnjtr650DvrKwWLZusnKvtj1qwn0tgz1unrtvd1envn1tgzvEnrtvPj1qwnLtgz1uprtvtjLqwnLtgzvAsvtvP1unvn1tgzvAortvd9envnLtgz1qnPhmPjLqwnKu0u1qpzKvd10qwn1tdz1qozKv5fvnvLMu0u1qpzKvd10qwn1tdz1qozKvP5unvnKu0u1uozKvP5unvnKtcz1uozKvtXenNrLs1KuvkbtvvPKmNrLscPuvkbtvvP0rkvLsXuuvkvtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0InmzJqdLLne1Iy1OKnHvJzlPLnhLww1CxtePgoT0ICoL2tZvZup5guP90C1mvDS50v1X2Axvgtj1gt1CuCmvZxxfMn",
+      "num":"美食佳饮",
+      "description":"最新版本:  8.31.4\n更新时间:  2020-04-08 14:28:39 (北京时间)\n\n本期更新：\n1.星选好店全新升级，北上杭好店由你说了算，还有更多全城必点美食在等你呦！\n2.搜索后长按店铺信息有可能触发惊喜哦，更多的相似好店等你来发现！（逐步开放中）\n3.店内搜索能力优化，可以更好的帮你找到心仪美味！\n4.商户列表新增商超主题模块，坐家里逛超市一起逛起来！（逐步开放中）\n\n近期更新：\n1.饿了么买菜无忧，新鲜平价果蔬肉禽蛋水产最快29分钟送到家！\n2.首页新增「发现好菜」模块，助你更快发现附近美食！（逐步开放中）\n3.跑腿代购服务支持在线联系，助力骑手和用户无障碍沟通！"
+    },
+    {
+      "name":"今日头条",
+      "url":"https://www.maiyewang.com/index-get.php?url=qprrfu2z1mqDxwu1uERrut1KevoTgBYWeEfvLsfXgvkjtvvPemjvLsWuuvkftvvPumfvLsZSgvkjtvvPKqOrLsdPuvkbtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=aAYaxnWmvy1WwzWvZs1Xun",
+      "num":"新闻",
+      "description":"最新版本:  7.6.8\n更新时间:  2020-04-12 11:41:16 (北京时间)\n\n- 音频频道大改版：相声故事、新闻书籍、热门音乐都能听~ \n- 音频支持悬浮窗播放，边听边刷头条，两不误！"
+    },
+    {
+      "name":"虎牙直播-游戏互动直播平台",
+      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKJEnbZyu5unbrvtZCgrAbxod10qwLMu0u1uozKv510qwn1tdz1uozKvdjLqwLwt1uvAozKvd50qwLwu1uvEozKvd9Kqwnvu0u1uozKvP1unvnvudz1qozKvPjfnvn0t0uvAozKvd90qwn0tdzvAozKvtXurgvLs5TgvkjtvvPemjvLsdXgvkntvvPunRrLs1CgvkntvvPKrOrLs1SgvkrtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9e0CqDvlZvZvLj3uH9eDIv2tXT0v1TMnt1IAjf2t1rtyLXeDlbxnWuxn1OvB0uZtTPKn",
+      "num":"娱乐",
+      "description":"最新版本:  7.11.5\n更新时间:  2020-04-07 10:23:18 (北京时间)\n\n【赛事】LCK春季赛再度开启，独家直播激烈来袭！\n【新增】暗黑模式邀您体验，抢先享受双色幻变！\n【优化】颜值直播上下切换，流畅体验助您观看！"
+    },
+    {
+      "name":"全民K歌-你其实很会唱歌",
+      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFTgroHxtu1umbrvt1e1vHzxtf9eBrvvuSLfvsXwrQffBrr1tSvfvsXwrv9eBnTwuSffvsX2ze9eBvTwuSvfvsXwvv9eBvvvuSvfvsXwwQffBvr0tSvfvsXwquffBrTwuSffvsXgm5ffnvnKuczvAozKv5fgERrLs3LuvkjtvvPenfvLsXCgvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0ZDzjxBiXeBSjNs2TMAVzhB3aNCSjMyOXgrHz3AZmKA0fwltj1qYvZBxLvn",
+      "num":"娱乐",
+      "description":"最新版本:  6.21.8\n更新时间:  2020-04-01 13:07:44 (北京时间)\n\nMV和合唱支持添加智能音效，随心畅享专业AI音效"
+    },
+    {
+      "name":"美团外卖-外卖订餐,送啥都快",
+      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFvfvpvtqu1KEJPxtZe1vHzxsvffBzTwuSvfvsXwuRffBnr0tSTgvsXwvuffBvr1tSvfvsXwre9eBbr0tSTgvsXgmd1unvnKtcz1upzKvP1KqwnLucz1qpzKvP5unvnKu0u1uozKvP5unvnKtcz1uozKvtXKmRrLsfHgvkftvvPKmRrLsWuuvkftvvPuEfvLsdXgvkftvvPKrOrLsgPuvkntvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qpZzJDSnZnNbhwHXgBiL0zWP3qRTwB19wDPvhBoDvDST2vLX0vYKvnxnvy1KwDAvZt2Ctn",
+      "num":"美食佳饮",
+      "description":"最新版本:  7.34.0\n更新时间:  2020-04-17 10:00:40 (北京时间)\n\n1.功能细节优化\n2.提升整体使用体验"
+    },
+    {
+      "name":"爆破三国-三国策略国战手游",
+      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFfernjZz65unjr1tWuerAbxod90qwn0tdzvAozKvPffnvn1t0uvAozKvd9unvn0t0uvAozKvdj1qwLwu1u1uozKvt5KqwnLt1uvEozKvP5unvnKuczvEozKvdj1qwLwu1u1uozKvt9envn0tdz1qozKvtXurkvLsdXgvkftvvPunNrLs0KuvkbtvvPemjvLs3vuvkntvvPKmNrLs0CgvkntvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9euD0ewlPPuyp1wsHvMDIDvzWzvz1XgDLvMDIDvzPrZuLXuo1PvnkLgt1aZq2uZrPrtn",
+      "num":"游戏",
+      "description":"最新版本:  1.7\n更新时间:  2020-04-13 15:00:00 (北京时间)\n\n优化图文显示"
+    },
+    {
+      "name":"多闪",
+      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKJAoPxvQ10DzrLt6ffvnTgBYWKqgvLsZSgvkvtvvPKqSrLsWuuvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=exzAztytfwn",
+      "num":"社交",
+      "description":"最新版本:  1.9.4\n更新时间:  2020-04-16 12:34:39 (北京时间)\n\n贴纸新功能来啦！\n-【贴纸模板拍同款】，超多风格的贴纸模板一键使用，让随手一拍也能立刻有质感～\n-问题修复及性能提升\n-优化用户体验"
+    },
+    {
+      "name":"新氧SoYoung-美容微整形专业医美APP",
+      "url":"https://www.maiyewang.com/index-get.php?url=0tuubLDwnduWCgrnHxt61uEjPxt4f1vHzxqingAwv0tSv1ArX2yujfBjTwuS1urpXwvujfBfv1tSDMArXwuujfBnr1tSDMArXwuujfBjrvuSf1ArXwvujfBrPwuSvfvpXwwujfBvvvuSv1ArXwvujfBRPwuSvvvrXwvujfBvv0tSv1ArX2yujfBWKNw1z1mIvtoYm2mfvLs3LuvkjtvvP0DjvLsYSgvkjtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=9eKrvjunVzNB2XKASjNs1Tgukv3AmfMDSrLyS12nXzhBUjNCSDZB252m5PvDwnJyALJmv52qYvZDHbxn",
+      "num":"健康健美",
+      "description":"最新版本:  7.51.0\n更新时间:  2020-04-06 16:17:54 (北京时间)\n\n新氧视频面诊，医生好不好，当面聊才知道！\n1、日记新增投诉通道，小法庭判决内容纠纷\n2、用户风险提示升级，全平台提示风险来源"
+    },
+    {
+      "name":"腾讯课堂",
+      "url":"https://www.maiyewang.com/index-get.php?url=qprrfu2z1mqjttu90DjPNt41evpTgBYWuENrLs3vuvkftvvPKrkvLshzuvkrtvvP0rgvLsgzuvkrtvvPKrkvLsXCgvkrtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=WqdfwnT0Ys2yNnlztlxLKn",
+      "num":"教育",
+      "description":"最新版本:  4.9.2\n更新时间:  2020-04-10 09:40:32 (北京时间)\n\n更新内容：\n1. 修复了课程详情页部分体验问题。\n2. 修复了部分机型下直播间聊天区展示异常问题。\n3. 优化了暗黑模式下客户端表现。\n4. 修复了iPad上部分场景的崩溃问题。"
+    },
+    {
+      "name":"智联招聘-找工作求职人才招聘软件",
+      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKdvoPxv61KEbr0t0efrAbxoP50qwLwudz1qozKvPjLqwnKudz1qpzKvd9unvnvt0u1qpzKvPfvnvLwu0uvAozKvdjfnvn1t0uvAozKvtf1qwnvudz1qozKv5ffnvnvt0u1qpzKvP1envnvtdzvAozKv5fvnvnKudz1qozKvt5KqwLNtdz1uozKvtj1qwn1t0uvAozKvtXenRrLs4DgvkrtvvP0qSrLsdHgvkjtvvPemRrLs4DgvkrtvvPKqkvLs1SgvkjtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9CgD3mvlYLtAp1MqP1sBmfwzQPuy1vNnt9KAcLwDNHxyp5wotvgCZCvD2PuyLXuwhLKnIv3B1u1rjzJnTbxn",
+      "num":"商务",
+      "description":"最新版本:  7.9.52\n更新时间:  2020-04-13 09:32:49 (北京时间)\n\n1.丰富了公司主页的展示内容\n2.优化了面试邀请的细节"
+    },
+    {
+      "name":"搜狗输入法-语音变声斗图表情",
+      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKdroL3Ae10mzPNt4TgrAbxot5envLxt0uvAozKvd9Kqwnvtcz1qpzKvtj1qwLwu1u1uozKv55unvLMt1uvAozKvd10qwLxtcz1uozKvd9unvLMu0u1uozKv510qwLMu1u1upzKvdjLqwLMucz1qpzKvtXumRrLs6LuvkjtvvPumfvLsXCgvkftvvPKERrLsgPuvkrtvvP0mRrLsdHgvkntvvPerSrLs3TgvkjtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tprHgrH9uCOLwD2j2vTW2vH90CQD1tTb1vTmNzTvMC2Lwzmz1tYvdBxLvnuzdt2GvD0uZydbxn",
+      "num":"工具",
+      "description":"最新版本:  10.7.0\n更新时间:  2020-04-09 16:31:25 (北京时间)\n\n本次更新\n【语音翻译】用中文与外国人聊天！\n【语音输入】19种方言外语任你说！\n\n近期更新：\n【纠错升级】错字不用愁，搜狗帮你纠\n【地震预警】智能汪仔，守护安全！\n【小语种键盘】日语韩语上线啦，双语合璧，追星追剧，一键到位！\n【输入日报】你的专属打字报告，更有每日热词等你来撩！\n【汪豆福利】打字赚汪豆，汪豆换实体好书，还有影音玩乐等福利免费领！\n【智能汪仔2.0 】摸摸头 就会聊\n【叨叨社区】会说话的人都在这儿，明星独家语音问答，大咖免费教你说\n【智能预测】只要1-2个字母，立即给出准确预测候选，省时省力\n【智能纠错】模型升级，快速输入，打字一气呵成\n【离线语音】离线语音，全新上线！没有网络，依然精准\n【有声表情】这里的表情会说话\n【滑行输入】9键滑行再升级，指尖滑行输入，输入更准确快速\n【AI校对】AI逐字校对，让错别字无处容身\n【中英混说】get中英混说，效率upup\n【聊天气泡】我的消息自带亮点\n【字体商城】键盘字体随意换"
+    },
+    {
+      "name":"邮储手机银行",
+      "url":"https://www.maiyewang.com/index-get.php?url=qprrfu2z1mqftru5unNrKt6TgroTgBYWerOrLs4vuvkrtvvPKmjvLs6TgvkvtvvPKqkvLseXgvkjtvvP0qOrLs1CgvkjtvvPenfvLs5DgvkftvvPKrgvLs5DgvkvtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=nD0s2iZtAzJn5bxnm12B182szvtDlLLn",
+      "num":"财务",
+      "description":"最新版本:  5.0.6\n更新时间:  2020-04-03 08:32:22 (北京时间)\n\n1. 搜索栏新增热门菜单。\n2. 修复已知问题。"
     },
     {
       "name":"酷狗铃声-手机铃声直接设置",
@@ -591,16 +555,52 @@
       "description":"最新版本:  2.4.3\n更新时间:  2020-04-08 09:58:22 (北京时间)\n\n1、“来电秀”全新上线，来电背景不再单调！\n2、新增本地铃声分类标签，筛选更方便；\n3、修复线上bug。"
     },
     {
+      "name":"Draw joust - 画车对决",
+      "url":"https://www.maiyewang.com/index-get.php?url=0tuubLDwnduXKLEnLxtu50mRrKt4f1vHzxtQffBzr0tSvfvsX2AQffBzvvuSvfvsXwwuffBrTwuSDgvsXwsRffBrr1tSngvsXgmdrMEwnJyXftEKHMsiPLDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90ZDZD0vLvNDxvhC5Kwl1vvzpLeDbnez6z1mIfNq5rgAkHKu",
+      "num":"游戏",
+      "description":"最新版本:  1.7.1\n更新时间:  2020-04-15 22:28:18 (北京时间)\n\n- New feature: emojis, player and enemies reacting\n- You can now purchase an extra cannon for any cart\n- Bugs fixed and improved performance"
+    },
+    {
       "name":"中国移动（手机营业厅）",
       "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKdrpP3ye10DJPxt0ufrAbxot5envnLu0u1uozKvtfvnvn0tdz1qozKvt5Kqwnut1u1qpzKvtf1qwLxu1uvAozKvPffnvn1t0uvAozKvtXenfvLscHgvkftvvP0qkvLsZuuvkntvvPurkvLsdXgvkftvvPurgvLs0KuvkbtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=OuE3CJr2KvnHLgt1W2qkzJn5bxnm12B1KuE3CZBXLvn3uMn1KtDAvdDPXun",
       "num":"工具",
       "description":"最新版本:  6.1.5\n更新时间:  2020-04-04 15:43:29 (北京时间)\n\n【V6.1.5更新提示】\n1.陕西、云南账单页面重构，消费信息更清晰；\n2.多项项性能优化，体验更流畅。"
     },
     {
-      "name":"智联招聘-找工作求职人才招聘软件",
-      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKdvoPxv61KEbr0t0efrAbxoP50qwLwudz1qozKvPjLqwnKudz1qpzKvd9unvnvt0u1qpzKvPfvnvLwu0uvAozKvdjfnvn1t0uvAozKvtf1qwnvudz1qozKv5ffnvnvt0u1qpzKvP1envnvtdzvAozKv5fvnvnKudz1qozKvt5KqwLNtdz1uozKvtj1qwn1t0uvAozKvtXenRrLs4DgvkrtvvP0qSrLsdHgvkjtvvPemRrLs4DgvkrtvvPKqkvLs1SgvkjtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9CgD3mvlYLtAp1MqP1sBmfwzQPuy1vNnt9KAcLwDNHxyp5wotvgCZCvD2PuyLXuwhLKnIv3B1u1rjzJnTbxn",
-      "num":"商务",
-      "description":"最新版本:  7.9.52\n更新时间:  2020-04-13 09:32:49 (北京时间)\n\n1.丰富了公司主页的展示内容\n2.优化了面试邀请的细节"
+      "name":"识货-运动潮流的好物和好价",
+      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKdrnDxs650mfrLtZCgrAbxo550qwLwudz1qozKvdj1qwnLtcz1uozKv5ffnvLwt1u1uozKvt9Kqwn1t0uvEozKvdj1qwnLtcz1uozKvd5envnvu1uvEozKvt1envnLtdzvAozKvtjLqwnKudzvAozKvd9Kqwnvu0u1uozKvd1unvLMudz1qpzKvtX0mfvLsWKuvkrtvvPKmNrLshzuvkrtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9ChD3mvz2X2vpP2uxvwCkvwz2X2vpHwyLv2zXewDYLtypf3sx90AFLwzm52umzZrTSKn",
+      "num":"体育",
+      "description":"最新版本:  6.11.0\n更新时间:  2020-04-16 11:34:54 (北京时间)\n\n1.社区发布草稿箱功能上线！—发布笔记时可以将未编辑完成的图文保存草稿箱中继续编辑。\n2.修复已知问题。\n为了让您获得更好的用户体验，识货会在App Store中定期更新，建议打开手机「设置」-「iTunes Store与App Store 」-「自动下载的项目」打开「更新」, 确保第一时间体验更好的识货App"
+    },
+    {
+      "name":"安全教育平台",
+      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKJEnLxqe1uEjPwt4LevnTgBYW0DjvLshHgvkftvvPKEjvLs1KuvkftvvPuEjvLs5DgvkrtvvPunRrLsXSgvkjtvvPenfvLsXCgvkftvvPunNrLsgzuvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=31sw1OxBIvtElLKnADfC182vzvJs2ewn",
+      "num":"教育",
+      "description":"最新版本:  1.6.0\n更新时间:  2020-03-05 10:06:08 (北京时间)\n\n- 修复了一个小bug；\n- 提升了一些稳定性；\n- 优化了一下用户体验；\n我们很棒吧！"
+    },
+    {
+      "name":"平安好车主—车服务、买保险、办理赔",
+      "url":"https://www.maiyewang.com/index-get.php?url=0tuubLDwnduY0erpvtt61KmRPNtRXMmmbZAuPumjvLs0uvvkjZzuP0DRrLsZuvvkzeBuPKqOrLsXuvvkr3AuffBRr1tSTgvsXwuv9eBzTwuSffvsXwqQffBRPwuSffvsXgmt1Kqwnvu0u1uozKvdjfnvLxu1uvAozKvP5KqwnKudz1qpzKvtX0qkvLs0KuvkbtvvPKmfvLsfPuvkrtvvPurkvLsXuuvkftvvPunNrLsgzuvkftvvPKEjvLs1KuvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=u1vmzZrdvtnLfxw1i0q0qdCTPLnK1ct1CxBmvJqdrdnOfxw14uEWvtBYWKnvn0B0CtAmvtBYWKn5Cvy1OKnHvJETjwn",
+      "num":"生活",
+      "description":"最新版本:  3.71.1\n更新时间:  2020-04-14 09:29:56 (北京时间)\n\n1、粉丝俱乐部：新增商品/服务折扣券、免费保险等多种粉丝礼品，可任意挑选。\n2、分享赚钱：热门视频新增分类标签。\n3、好车主首页资讯流改版，更多资讯推荐，等你来。"
+    },
+    {
+      "name":"作业帮-中小学搜题答疑辅导平台",
+      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKdvpfZzu1enJPxt3DgrAbxod10qwLMu0u1uozKv510qwn1tdz1uozKv5f1qwLMucz1uozKvt5envnLudz1qpzKvt1unvLMt1uvEozKvd5unvnKuczvEozKvd9unvLwtcz1upzKv5fvnvnut1uvAozKvP5KqwnKucz1uozKvPjfnvnutdz1uozKvdjLqwn0tdz1qozKvtXKrgvLs0KuvkftvvPKqSrLs0KuvkbtvvPerSrLsfPuvkbtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90tqZb1vTmxnx9KD2DvzO1sALT2vL9eB0v2tTLwBp5wuHvhC0DvlQD3vLjhntvgt1LMy1ewAmvZyYWun",
+      "num":"教育",
+      "description":"最新版本:  12.9.2\n更新时间:  2020-04-09 11:04:31 (北京时间)\n\n优化了批改的体验，提升批改检查准确率。"
+    },
+    {
+      "name":"百度贴吧-全球最大中文兴趣社区",
+      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKJAnH3z65uERPNtZefrAbxotf1qwLxu0u1uozKvtj1qwnKtczvEozKv51KqwLMtdz1qpzKvd50qwnLt0u1uozKv55envLMt1uvAozKvdjLqwn0tdz1qozKv55KqwnKtcz1uozKvd1envLxu1uvAozKv51envnut1uvEozKvd9KqwnLt0u1uozKvtX0mfvLs3TgvkftvvPemjvLsWKuvkrtvvPKmfvLscPuvkftvvPKrkvLs1SgvkntvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90Zz110v1z3AL1YBYK2t0z0vTG2vHvMC0mvlWT2vpD2yH1Yzrv2tXz0vLXKBdPvnWmft20wCIvtlTvtn",
+      "num":"社交",
+      "description":"最新版本:  11.3.2\n更新时间:  2020-03-26 14:37:18 (北京时间)\n\n修复已知问题，提升用户体验~"
+    },
+    {
+      "name":"别针大师",
+      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKJAnbZzQ10Dnrut3vfvnTgBYWenNrLs0KuvkftvvP0mfvLsWuuvkftvvPenNrLs5TgvkvtvvP0qgvLs0CgvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qsPjwnUnvy1K0sAzJCPLvn",
+      "num":"游戏",
+      "description":"最新版本:  1.1\n更新时间:  2020-03-17 06:56:42 (北京时间)\n\n问题修复 + 提升了游戏体验。\n感谢你的支持！"
     }
   ]
 }
