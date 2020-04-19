@@ -1,18 +1,18 @@
 {
   "title":"AppStore收入排行榜(美区)",
-  "time":"2020-04-19 21:20:03",
+  "time":"2020-04-19 21:30:03",
   "data":[
-    {
-      "name":"Roblox",
-      "url":"https://www.maiyewang.com/index-get.php?url=9efvqzNvZavEvrvtYefvpHxte50ASjdt0KZrILwoTnMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qtohjwA50wv",
-      "num":"Games",
-      "description":"最新版本:  2.428.401006\n更新时间:  2020-04-17 07:11:39 (北京时间)\n\nTo make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
-    },
     {
       "name":"YouTube: Watch, Listen, Stream",
       "url":"https://www.maiyewang.com/index-get.php?url=qprrfu2z1mqbtwQ50mbrutWefvoTgBYWeDgDLw5j1mJrhnxPfmoHvyZfZqHPMuyL1mXmLwPzfsKftoxvMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=aDgDLw5j1mvD2DPjgBsnZyWHxrjn3zYKfmgjJvN9gvALMvizvm5C1v",
       "num":"Photo & Video",
       "description":"最新版本:  15.15\n更新时间:  2020-04-13 07:01:11 (北京时间)\n\nFixed what needed fixing and squished some bugs."
+    },
+    {
+      "name":"Roblox",
+      "url":"https://www.maiyewang.com/index-get.php?url=9efvqzNvZavEvrvtYefvpHxte50ASjdt0KZrILwoTnMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qtohjwA50wv",
+      "num":"Games",
+      "description":"最新版本:  2.428.401006\n更新时间:  2020-04-17 07:11:39 (北京时间)\n\nTo make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
     },
     {
       "name":"Tinder",
@@ -45,16 +45,10 @@
       "description":"最新版本:  2004.1\n更新时间:  2020-04-15 07:45:29 (北京时间)\n\nBug fixes and feature improvements to reduce crashes and improve your overall listening experience."
     },
     {
-      "name":"Netflix",
-      "url":"https://www.maiyewang.com/index-get.php?url=WaJEIftou1umbrut1uLEnjttePfC5muzWHxBAbJvTjMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90tqLbhETPfmw1gv",
-      "num":"Entertainment",
-      "description":"最新版本:  12.27.0\n更新时间:  2020-04-14 00:00:46 (北京时间)\n\nKeep your app updated to get the latest Netflix experience on your iPhone and iPad.\n\nWe know you have choices. In this release, we made gallery improvements so it’s easier to find the perfect thing to watch."
-    },
-    {
-      "name":"Homescapes",
-      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFDgvpftrQ1Kmvr1t4verAbxo5ngBcHvwQ5ewArxohfMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9C3ySjewzPMtyPfD5C0u",
+      "name":"Clash of Clans",
+      "url":"https://www.maiyewang.com/index-get.php?url=90tqoLdoxr2xbr1t4TMEobZAQ1umrDvy21KBIHgEYKfDzjJy0DMmJHgEYKLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0ttUjgA4jtuNLLmID2zYmgA4jtu",
       "num":"Games",
-      "description":"最新版本:  3.5.7\n更新时间:  2020-04-15 19:20:49 (北京时间)\n\nWhat's new:\n- Bug fixes and improvements\n\nPlease update the game to the latest version.\n\nThe latest Homescapes update is here, and it's packed with surprises!\n\nOLIVIA'S BEDROOM\n• Make Olivia's room extra cozy! A new event, starting at the beginning of May!\n• Remodel the room by completing tasks and get a unique profile picture!\n\nEVEN MORE EVENTS\n• Decorate the yard for Easter together with Austin, Steven, Lucy, and Mrs. Broom. Starting on April 6!\n• Season of Wonders! Complete event stages by beating levels to get rewards. Use the Golden Ticket to get a cute corgi!\n• Three Chests! Beat levels to open chests with rewards!\n\nALSO FEATURING\n• A new chapter in the story with the Chamber of Wonders bringing even more mysteries.\n• New element: Refrigerator! Get soda cans out of the Refrigerator by making matches and activating power-ups!"
+      "description":"最新版本:  13.180.12\n更新时间:  2020-04-16 03:33:48 (北京时间)\n\nVarious minor bug fixes and improvements"
     },
     {
       "name":"Gardenscapes",
@@ -63,10 +57,10 @@
       "description":"最新版本:  4.3.0\n更新时间:  2020-04-06 20:24:52 (北京时间)\n\nMajor spring update!\n- Easter Excitement: decorate the garden for Easter and get a unique mansion redesign.\n- Collect Easter eggs in levels to win great prizes in the Easter Adventure event in mid-April.\n- Help Robbie Wood get the lake house ready for Melinda's arrival at the end of April.\n\nA new chapter in the storyline\n- Find Calvadori's old seaplane and create an open-air museum.\n- Meet a new pet — Roger the mischievous parrot.\n\nAlso featuring\n- A new match-3 element: make matches next to Trays to fill glasses with Lemonade and move them on the field.\n- You can now win stars in the Dog Training event.\n- Don't miss the Happy Coupon offer: get twice as many coins for purchasing any kit in the Garden Shop."
     },
     {
-      "name":"Clash of Clans",
-      "url":"https://www.maiyewang.com/index-get.php?url=90tqoLdoxr2xbr1t4TMEobZAQ1umrDvy21KBIHgEYKfDzjJy0DMmJHgEYKLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0ttUjgA4jtuNLLmID2zYmgA4jtu",
+      "name":"Homescapes",
+      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFDgvpftrQ1Kmvr1t4verAbxo5ngBcHvwQ5ewArxohfMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9C3ySjewzPMtyPfD5C0u",
       "num":"Games",
-      "description":"最新版本:  13.180.12\n更新时间:  2020-04-16 03:33:48 (北京时间)\n\nVarious minor bug fixes and improvements"
+      "description":"最新版本:  3.5.7\n更新时间:  2020-04-15 19:20:49 (北京时间)\n\nWhat's new:\n- Bug fixes and improvements\n\nPlease update the game to the latest version.\n\nThe latest Homescapes update is here, and it's packed with surprises!\n\nOLIVIA'S BEDROOM\n• Make Olivia's room extra cozy! A new event, starting at the beginning of May!\n• Remodel the room by completing tasks and get a unique profile picture!\n\nEVEN MORE EVENTS\n• Decorate the yard for Easter together with Austin, Steven, Lucy, and Mrs. Broom. Starting on April 6!\n• Season of Wonders! Complete event stages by beating levels to get rewards. Use the Golden Ticket to get a cute corgi!\n• Three Chests! Beat levels to open chests with rewards!\n\nALSO FEATURING\n• A new chapter in the story with the Chamber of Wonders bringing even more mysteries.\n• New element: Refrigerator! Get soda cans out of the Refrigerator by making matches and activating power-ups!"
     },
     {
       "name":"Toon Blast",
@@ -75,10 +69,10 @@
       "description":"最新版本:  5015\n更新时间:  2020-04-11 20:58:17 (北京时间)\n\nIt's time for a stylish new update!\n\n- PLAY 50 NEW LEVELS! Suit up, everybody! Our friends are asked to be present at a special premiere and they take the preparations seriously. Exclusively designed blazers are soon to be ready to make Toon gang top the bill tonight!\n\nBe sure to update to the current version of Toon Blast for the newest content. In every 2 weeks, we bring 50 NEW LEVELS! Come and join the fun!"
     },
     {
-      "name":"Hulu: Stream TV shows & movies",
-      "url":"https://www.maiyewang.com/index-get.php?url=qprrfu2z1mqrtte50DfrLtYmMEnTgBYWKEwDvyYKZvIrxtZqMDOjZy0LfsKrhmxLfBkHez6fZuKnNvifMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=GEwDvyYKZvIDwwdLKEKnJyV5esjDLugLeDgDLw5j1mvD2Bur2CwH0u",
+      "name":"Netflix",
+      "url":"https://www.maiyewang.com/index-get.php?url=WaJEIftou1umbrut1uLEnjttePfC5muzWHxBAbJvTjMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90tqLbhETPfmw1gv",
       "num":"Entertainment",
-      "description":"最新版本:  6.14\n更新时间:  2020-04-07 02:29:21 (北京时间)\n\nWe’re all about providing viewers with a seamless streaming experience, so we did some pest control to get rid of the bugs causing our app to crash. Be sure to download the latest Hulu app to start binging your favorite content!"
+      "description":"最新版本:  12.27.0\n更新时间:  2020-04-14 00:00:46 (北京时间)\n\nKeep your app updated to get the latest Netflix experience on your iPhone and iPad.\n\nWe know you have choices. In this release, we made gallery improvements so it’s easier to find the perfect thing to watch."
     },
     {
       "name":"Bumble - Meet New People",
@@ -87,16 +81,10 @@
       "description":"最新版本:  5.161.1\n更新时间:  2020-04-18 02:40:56 (北京时间)\n\nBugs and performance fixes. (Woohoo!)"
     },
     {
-      "name":"Disney+",
-      "url":"https://www.maiyewang.com/index-get.php?url=WaJEIfto61uERrLtZeKAobtuu10ASjdt1yvBIPhBhPLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90ZDlvJvTjMESDKu",
+      "name":"Hulu: Stream TV shows & movies",
+      "url":"https://www.maiyewang.com/index-get.php?url=qprrfu2z1mqrtte50DfrLtYmMEnTgBYWKEwDvyYKZvIrxtZqMDOjZy0LfsKrhmxLfBkHez6fZuKnNvifMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=GEwDvyYKZvIDwwdLKEKnJyV5esjDLugLeDgDLw5j1mvD2Bur2CwH0u",
       "num":"Entertainment",
-      "description":"最新版本:  1.4.4\n更新时间:  2020-04-07 23:11:49 (北京时间)\n\nCheck out this new and improved version of Disney+. We’ve found and fixed some of the top issues that may have prevented you from having a seamless streaming experience."
-    },
-    {
-      "name":"Pokémon GO",
-      "url":"https://www.maiyewang.com/index-get.php?url=WaJEIftou5emnrvt1ufrovtqu10ASjdt2r2vmvxoxjwnfvLs61uvkjxohnMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp4aJuNrJmIrhB2CNC5Cuv",
-      "num":"Games",
-      "description":"最新版本:  1.139.0\n更新时间:  2020-04-17 06:18:10 (北京时间)\n\nAs we continue prioritizing Pokémon GO experiences that can be enjoyed in individual settings, Trainers will soon enjoy the following.\n\n- Access to nearby Raid Battles with Remote Raid Passes.\n- A bonus daily Field Research task, received without spinning a PokéStop.\n- The ability to power up Pokémon to the desired CP by using all the required Candies and Stardust at once.\n- The ability to extend the duration of Star Pieces, Lucky Eggs, and Incense by using several of the items at once"
+      "description":"最新版本:  6.14\n更新时间:  2020-04-07 02:29:21 (北京时间)\n\nWe’re all about providing viewers with a seamless streaming experience, so we did some pest control to get rid of the bugs causing our app to crash. Be sure to download the latest Hulu app to start binging your favorite content!"
     },
     {
       "name":"Slotomania™ Vegas Casino Slots",
@@ -117,10 +105,28 @@
       "description":"最新版本:  4.33.2\n更新时间:  2020-04-15 10:55:21 (北京时间)\n\nTEAM PK is coming~which supports 3V3 PK mode in broadcasting room. Come and have fun with your friends from cooperation and confrontation."
     },
     {
+      "name":"Twitch: Live Game Streaming",
+      "url":"https://www.maiyewang.com/index-get.php?url=qp9eKt5GZvK9vwu9KEJPNt4fKAobtuxfMDJ1MyWfZvzXMsirMEXmLw0zKmArxvTrgC4DftV50rKbhzirMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=UvZvHrNrxPvEsntvNv1vIHgzfLeBAHvynjuAp9MthrgCKHKv",
+      "num":"Photo & Video",
+      "description":"最新版本:  8.8\n更新时间:  2020-03-25 01:53:35 (北京时间)\n\nBug fixes, stability fixes, and app optimizations"
+    },
+    {
+      "name":"Disney+",
+      "url":"https://www.maiyewang.com/index-get.php?url=WaJEIfto61uERrLtZeKAobtuu10ASjdt1yvBIPhBhPLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90ZDlvJvTjMESDKu",
+      "num":"Entertainment",
+      "description":"最新版本:  1.4.4\n更新时间:  2020-04-07 23:11:49 (北京时间)\n\nCheck out this new and improved version of Disney+. We’ve found and fixed some of the top issues that may have prevented you from having a seamless streaming experience."
+    },
+    {
       "name":"Call of Duty®: Mobile",
       "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFffvnLxse9uEJr0t5verAbxotP1CS1ww2fZvmvJuyr2AXKMw2fZqInNrYKLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tprP1CS1ww2ftrjzdnXDxnsHfzfjuAAzNqdj2Cgjtu",
       "num":"Games",
       "description":"最新版本:  1.0.11\n更新时间:  2020-03-26 15:20:07 (北京时间)\n\nUpdate Available!\n\n\"Steel Legion Update is Live!\n- New Industrial Revolution themed rewards for ranked leaderboards.\n- New Premium and Free Battle Pass rewards.\n- New Multiplayer map and limited time game modes.\n- Updated user interface.\n- Battle Royale improvements.\n- Various bug fixes and optimizations.\""
+    },
+    {
+      "name":"Pokémon GO",
+      "url":"https://www.maiyewang.com/index-get.php?url=WaJEIftou5emnrvt1ufrovtqu10ASjdt2r2vmvxoxjwnfvLs61uvkjxohnMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp4aJuNrJmIrhB2CNC5Cuv",
+      "num":"Games",
+      "description":"最新版本:  1.139.0\n更新时间:  2020-04-17 06:18:10 (北京时间)\n\nAs we continue prioritizing Pokémon GO experiences that can be enjoyed in individual settings, Trainers will soon enjoy the following.\n\n- Access to nearby Raid Battles with Remote Raid Passes.\n- A bonus daily Field Research task, received without spinning a PokéStop.\n- The ability to power up Pokémon to the desired CP by using all the required Candies and Stardust at once.\n- The ability to extend the duration of Star Pieces, Lucky Eggs, and Incense by using several of the items at once"
     },
     {
       "name":"Merge Dragons!",
@@ -129,10 +135,10 @@
       "description":"最新版本:  4.9.0\n更新时间:  2020-03-26 19:04:28 (北京时间)\n\n- We've got THREE events in this version! The Easter Event, the Flowering Felines Event! and the Healing Waves Event. Each of these comes jam-packed with unique items and dragons to merge and meet!\n- Lots of bug fixes and improvements."
     },
     {
-      "name":"Twitch: Live Game Streaming",
-      "url":"https://www.maiyewang.com/index-get.php?url=qp9eKt5GZvK9vwu9KEJPNt4fKAobtuxfMDJ1MyWfZvzXMsirMEXmLw0zKmArxvTrgC4DftV50rKbhzirMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=UvZvHrNrxPvEsntvNv1vIHgzfLeBAHvynjuAp9MthrgCKHKv",
-      "num":"Photo & Video",
-      "description":"最新版本:  8.8\n更新时间:  2020-03-25 01:53:35 (北京时间)\n\nBug fixes, stability fixes, and app optimizations"
+      "name":"Game of Thrones: Conquest™",
+      "url":"https://www.maiyewang.com/index-get.php?url=WaJEIftoe1eENPwt4ngvoPxqu10ASjdtW4ewAfJrUjMDoDft6zvBIzNsifgmXKMw2fZuArNrYOLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9C2BfT0tKPNvxrgE1iJyejuApPNvTjMDkHuyvjuAAzNqtPfDgjJu",
+      "num":"Games",
+      "description":"最新版本:  3.2.256488\n更新时间:  2020-02-14 01:14:01 (北京时间)\n\nRecent changes and improvements to our game:\n•Updated city VFX.\n•Bug fixes to the Hidden Market panel.\n•Fixed some issues with the Dragon Pit.\n•Bug fixes to troop training.\n•Fixed some issues with the Shrine.\n•Bug fixes to the House Information panel.\n•Fixed an issue with PVE combat.\n•Fixed a bug with Seats of Power.\n•Fixed an issue with Strategic Terrain events.\n•Fixed an issue which occurred when starting a Rally.\n•Improvements to the House Information panel.\n•Repaired some broken icons.\n•Fixed a bug with the combat radial.\n•Improved combat performance."
     },
     {
       "name":"Fishdom",
@@ -141,46 +147,16 @@
       "description":"最新版本:  4.7.5\n更新时间:  2020-03-30 18:59:29 (北京时间)\n\nWhat's new:\n- Bug fixes and improvements\n\nPlease update the game to the latest version.\n\nGet ready for a spring Fishdom update!\n\n HOLIDAY EVENTS\n- Get ready for Easter with the new Spring Meadow holiday aquarium.\n- Get the cute Spring Beauty fish in the Easter event!\n- Win the Leprechaun Fish in the Lucky Streak event on St. Patrick's Day!\n\n THE SECOND SEASON ADVENTURE\n- Complete tasks to get boosters, lives, and other prizes!\n- Use the Gold Pass to get special rewards, advantages, and unique pets—Celebrity Shark and her pups!\n\n ALSO FEATURING\n- The new Mexican Fiesta aquarium and 17 thematic decorations.\n- Two new fish: Primeval Chief and Gifted Mariachi.\n- New elements: Lava Jars and Frogs.\n\n We hope you enjoy the new update!\nHave fun playing!"
     },
     {
-      "name":"Game of Thrones: Conquest™",
-      "url":"https://www.maiyewang.com/index-get.php?url=WaJEIftoe1eENPwt4ngvoPxqu10ASjdtW4ewAfJrUjMDoDft6zvBIzNsifgmXKMw2fZuArNrYOLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9C2BfT0tKPNvxrgE1iJyejuApPNvTjMDkHuyvjuAAzNqtPfDgjJu",
-      "num":"Games",
-      "description":"最新版本:  3.2.256488\n更新时间:  2020-02-14 01:14:01 (北京时间)\n\nRecent changes and improvements to our game:\n•Updated city VFX.\n•Bug fixes to the Hidden Market panel.\n•Fixed some issues with the Dragon Pit.\n•Bug fixes to troop training.\n•Fixed some issues with the Shrine.\n•Bug fixes to the House Information panel.\n•Fixed an issue with PVE combat.\n•Fixed a bug with Seats of Power.\n•Fixed an issue with Strategic Terrain events.\n•Fixed an issue which occurred when starting a Rally.\n•Improvements to the House Information panel.\n•Repaired some broken icons.\n•Fixed a bug with the combat radial.\n•Improved combat performance."
-    },
-    {
       "name":"Golf Clash",
       "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFvevpHxvQ1uERr0t3verAbxodfMEgDKyQftAAnxoYOLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9euy6z0rIrKqPP1C5iJu",
       "num":"Games",
       "description":"最新版本:  2.37.3\n更新时间:  2020-02-26 17:04:51 (北京时间)\n\nWelcome to the latest version of Golf Clash. Here’s what’s new:\n\n- Google Play and Apple sign-in – secure your account using your Google or Apple Account..\n- Performance optimizations.\n- Various bug fixes and game improvements.\n\nBe sure to check out the in-game Social Hub to read the full update notes."
     },
     {
-      "name":"Candy Crush Soda Saga",
-      "url":"https://www.maiyewang.com/index-get.php?url=0tuubLDwnduXmgrontre50Dvr0tRXMmmHgzxLLEXmvwRLJmJr3zYmwmkntw0TgsAvNrYKLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=aAKDvwuj0uzTwoYu1zNjZyXO0mrD2AiPvDgjtu",
-      "num":"Games",
-      "description":"最新版本:  1.165.9\n更新时间:  2020-04-06 15:43:53 (北京时间)\n\nWe hope you’re enjoying Candy Crush Soda Saga! This week, we’ve got heaps of Soda and Candy for you, all wrapped up in 15 new levels! We’ve also squashed some pesky bugs and made sweet performance improvements.\n\nDownload the latest version to check it out!"
-    },
-    {
       "name":"Jackpot Party - Casino Slots",
       "url":"https://www.maiyewang.com/index-get.php?url=qp9eKt5GZvK91yu1unbr0t1uLEoftuxfMDnHez2HNmJrhoTjgCoHvwQfZuLbJsyL1DXmez2j0mHPMrTfMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9C3yWKZrIrLq5jwDSjZyO5urjrxqtvgmkHvwrj0qKzNqZeMAg12u",
       "num":"Games",
       "description":"最新版本:  5014.00\n更新时间:  2020-04-07 03:08:51 (北京时间)\n\nHey, Jackpot Partiers!\n\nIn our latest release, we’ve introduced some new and exciting updates to Tournaments!\n\nPlus, we’ve added several new slots for you to enjoy, including:\n\n-  Tree of Wealth\n\n- Tommy the Gun\n\n- Jin Ji Bao: Rising Fortunes\n\nMake sure to check them out!\n\nLastly, win HUGE rewards in our brand new Pick’em mini-game!\n\nDon’t miss out on BONUS COINS, contests, and tons of FUN! Join the JPSC Community today:\n\nhttps://www.facebook.com/JackpotPartyCasinoCommunity\n\nhttps://www.instagram.com/jackpotparty"
-    },
-    {
-      "name":"YouTube Music",
-      "url":"https://www.maiyewang.com/index-get.php?url=90tqoLdoxr2xrrLtWKevpbZyu10DfrKwWLtEzbNtyrgDXmLwPzfsKftoxvMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tp3LfCoHfzoj0uALMvizvm5C1v",
-      "num":"Music",
-      "description":"最新版本:  3.61\n更新时间:  2020-04-09 00:57:30 (北京时间)\n\nWe update our app all the time in order to make your YouTube Music experience better. We polished a few things, fixed bugs, and made some performance improvements."
-    },
-    {
-      "name":"Design Home: House Renovation",
-      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFvevpPxsQ5unbrvt3verAbxoPjMDSDezOP1mIvNvTngDvjZyXKZrHrxvxjMDODft1r2vHPNvhPLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp0iJyWjfwzjtoTjgBkzusS5ewKzhAfLKnvDLy2HwrjvhzxfMEwDKu",
-      "num":"Games",
-      "description":"最新版本:  1.48.016\n更新时间:  2020-04-06 23:01:35 (北京时间)\n\n• Don't forget that new real-world items from top brands and unique Design Challenges are added daily!\n• Technical fixes and performance improvements"
-    },
-    {
-      "name":"RAID: Shadow Legends",
-      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFLfvpntvQ5umfPNt6verAbxo5n2A1CLwUz1rIr3yZi2AgDuy6fZqAbNrTnMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qpnHKw1zLmAXgEfL0m5CKwOHMmvD2BejLsgTwv",
-      "num":"Games",
-      "description":"最新版本:  1.14.1\n更新时间:  2020-04-11 15:20:22 (北京时间)\n\nNew in version 1.14.1:\n\nFEATURES:\n- Artifact Filter. Manage Artifacts and Accessories, search by primary stat, substat, and more.\n- Arena Opponent Battle Limit. Added limit on the number of times you can fight a single person per day. (Platinum Tier only)\n\nCHANGES, FIXES, IMPROVEMENTS\n- Champion Rebalance.\n- Clan Boss: Champions killed after turn 50 cannot be revived. Added turn counter and damage counter.\n- Fixed bug with Relentless Artifacts.\n- New Inbox UI.\n- Various UI and battle engine fixes."
     },
     {
       "name":"Marvel Contest of Champions",
@@ -195,22 +171,28 @@
       "description":"最新版本:  3.10.2\n更新时间:  2020-04-10 01:39:04 (北京时间)\n\nNew in this release:\n• Fixed the issue of Falcon's Special ability causing the game to crash during combat.\n• The HUD (heads-up display) no longer randomly shows up in combat.\n• The camera in the Orb Chamber now properly highlights the rewards.\n• Fixed: The app was sometimes re-downloading previously downloaded art assets."
     },
     {
-      "name":"Cashman Casino Las Vegas Slots",
-      "url":"https://www.maiyewang.com/index-get.php?url=adm6jwm5Oxt4vLAnrtv61uEfrvtRXMmmPNuZi2CoHft6zKmAXMwyXKEgDKy0HtBIbNtyLLAXKMyOfZrHPNrYKLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=GEsnJyZ5KrjPNrYOfBAzus6z0ruDgoTjgCoHvwejuAIHwmhfMEgjtu",
+      "name":"Candy Crush Soda Saga",
+      "url":"https://www.maiyewang.com/index-get.php?url=0tuubLDwnduXmgrontre50Dvr0tRXMmmHgzxLLEXmvwRLJmJr3zYmwmkntw0TgsAvNrYKLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=aAKDvwuj0uzTwoYu1zNjZyXO0mrD2AiPvDgjtu",
       "num":"Games",
-      "description":"最新版本:  2.25.0\n更新时间:  2020-04-14 18:25:38 (北京时间)\n\nHey Mr. Cashman fans!\nGet our NEW games in our latest update!\nFor the best experience and most FUN we’ve squashed bugs and optimized your game.\nBecome a fan today using the following link to get bonuses and updates: \nhttps://www.facebook.com/cashmancasino/"
+      "description":"最新版本:  1.165.9\n更新时间:  2020-04-06 15:43:53 (北京时间)\n\nWe hope you’re enjoying Candy Crush Soda Saga! This week, we’ve got heaps of Soda and Candy for you, all wrapped up in 15 new levels! We’ve also squashed some pesky bugs and made sweet performance improvements.\n\nDownload the latest version to check it out!"
     },
     {
-      "name":"Rise of Kingdoms",
-      "url":"https://www.maiyewang.com/index-get.php?url=qp9eKt5GZvK91ze9enbPMt5ffvoPxrePfC5K3y0LZrA5wnxfMCXKMw2fZuAPhBTnMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90ZDJrxohPLB1CvymjuAAzNqtPLES1wv",
+      "name":"RAID: Shadow Legends",
+      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFLfvpntvQ5umfPNt6verAbxo5n2A1CLwUz1rIr3yZi2AgDuy6fZqAbNrTnMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qpnHKw1zLmAXgEfL0m5CKwOHMmvD2BejLsgTwv",
       "num":"Games",
-      "description":"最新版本:  1.0.32.25\n更新时间:  2020-04-13 15:16:58 (北京时间)\n\n1. New event: \"Ian's Ballads\" (Will gradually open up to all kingdoms within 1 week after the update) \nBallads of Ian the Bard have spread to all corners of the world. These are tales of epic battles that were long lost in history.\n\"Ian's Ballads\" is a multiplayer battle event. Team up with fellow mates and experience epic battles that were long forgotten in history. Defeat various powerful Chieftains and earn piles of precious rewards!\n\n2. New event: \"Peerless Scholar\" (Will gradually open up to all kingdoms within 2 weeks after the update)\n\"Peerless Scholar\": a massive trivia quiz system, coming soon. Sheath your weapons and take a well-deserved rest from battle. Use your smarts and wisdom to earn great honor and mountains of rewards.\n1) Governors can build a new structure inside their city: \"Lyceum of Wisdom\".\n2) Every month at the \"Lyceum of Wisdom\", a trivia quiz contest will be open to all Governors and lasts for one month. Governors who pass will be able to receive a ton of rewards, and Governors that make it to the very end will receive their hard-earned share from a massive pool of Gems!\n\n3. Other optimizations\n1) The area of cities has been expanded, Governors can now show off even more decorative structures.\n2) Added a new healing kingdom buff, the King can choose to activate it via Kingdom Buffs.\n3) Added a \"Quick Forge\" feature to the Blacksmith. Governors should be able to forge equipment faster.\n4) You can now specify which single Governor to block from your mail via the mailbox.\n5) Changed the way the Shadow Legion calculates results. Now as soon as an alliance event ends, the results are calculated immediately and rewards are sent out. However, during each event each Governor can only receive rewards one time.\n6) A brand new panel for binding accounts.\n7) Now when Governors immigrate, the game will determine in advance if they satisfy all the requirements to immigrate to target Kingdom.\n8) Special Immigration applications will expire if they are not processed within 3 days.\n9) Commanders that have not reached their usage requirement (a kingdom reaching number of days opened) will not be available for use in the Sunset Canyon and in the Lost Canyon.\n10) Governors can now buy even better \"The Hammer and Anvil\" Bundles.\n11) During matchmaking for the \"Ark of Osiris\", newer Kingdoms will not be matched against a kingdom with a relatively older history.\n12) Adjusted mechanics on Passes. Governors can no longer teleport a city to within a certain radius of a Pass.\n13) To further ensure balance, now advanced and powerful commanders may only be used in kingdoms that have been opened for a long period of time."
+      "description":"最新版本:  1.14.1\n更新时间:  2020-04-11 15:20:22 (北京时间)\n\nNew in version 1.14.1:\n\nFEATURES:\n- Artifact Filter. Manage Artifacts and Accessories, search by primary stat, substat, and more.\n- Arena Opponent Battle Limit. Added limit on the number of times you can fight a single person per day. (Platinum Tier only)\n\nCHANGES, FIXES, IMPROVEMENTS\n- Champion Rebalance.\n- Clan Boss: Champions killed after turn 50 cannot be revived. Added turn counter and damage counter.\n- Fixed bug with Relentless Artifacts.\n- New Inbox UI.\n- Various UI and battle engine fixes."
     },
     {
-      "name":"HBO NOW: Stream TV & Movies",
-      "url":"https://www.maiyewang.com/index-get.php?url=9efvqzNvZavEjrKtXKLAnH3yu90ASjdt6z1vHjtoxjgDzHez0bZvzXMsirMEXKhz2vZvmzNshfMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=6z1vHjtoxr1zznusxjLrjrNrxPvEsntvN9MEwbvnfLeukv0u",
-      "num":"Entertainment",
-      "description":"最新版本:  28.0.0\n更新时间:  2020-04-03 01:04:23 (北京时间)\n\nGet the latest update for bug fixes and performance improvements—Start streaming HBO series including Game of Thrones, Westworld, The Outsider, The New Pope, Avenue 5 and more."
+      "name":"YouTube Music",
+      "url":"https://www.maiyewang.com/index-get.php?url=90tqoLdoxr2xrrLtWKevpbZyu10DfrKwWLtEzbNtyrgDXmLwPzfsKftoxvMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tp3LfCoHfzoj0uALMvizvm5C1v",
+      "num":"Music",
+      "description":"最新版本:  3.61\n更新时间:  2020-04-09 00:57:30 (北京时间)\n\nWe update our app all the time in order to make your YouTube Music experience better. We polished a few things, fixed bugs, and made some performance improvements."
+    },
+    {
+      "name":"Design Home: House Renovation",
+      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFvevpPxsQ5unbrvt3verAbxoPjMDSDezOP1mIvNvTngDvjZyXKZrHrxvxjMDODft1r2vHPNvhPLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp0iJyWjfwzjtoTjgBkzusS5ewKzhAfLKnvDLy2HwrjvhzxfMEwDKu",
+      "num":"Games",
+      "description":"最新版本:  1.48.016\n更新时间:  2020-04-06 23:01:35 (北京时间)\n\n• Don't forget that new real-world items from top brands and unique Design Challenges are added daily!\n• Technical fixes and performance improvements"
     },
     {
       "name":"DoubleDown Casino Slots Games",
@@ -219,10 +201,10 @@
       "description":"最新版本:  4.5.56\n更新时间:  2020-04-14 09:41:09 (北京时间)\n\nHi DoubleDown fans!\n\nWe love to double down on fun, so check out this latest update, which includes some feature improvements as we prepare to release the latest and hottest Vegas slots, along with some minor performance tweaks.\n\nBest of luck in the casino!"
     },
     {
-      "name":"Empires & Puzzles Epic Match 3",
-      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFLLAortre5enJrvt4verAbxo51eDNjtwWy0vIrxtxf2DwDft6z1rIzdCyr2DXK3ySPewHDxmxPLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=GEbnuyQjfwz5Kq5LfCcHLuN1ewAnhCUvwmczusTfuEJXMsyf2DXCLu",
+      "name":"Cashman Casino Las Vegas Slots",
+      "url":"https://www.maiyewang.com/index-get.php?url=adm6jwm5Oxt4vLAnrtv61uEfrvtRXMmmPNuZi2CoHft6zKmAXMwyXKEgDKy0HtBIbNtyLLAXKMyOfZrHPNrYKLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=GEsnJyZ5KrjPNrYOfBAzus6z0ruDgoTjgCoHvwejuAIHwmhfMEgjtu",
       "num":"Games",
-      "description":"最新版本:  28.1.0\n更新时间:  2020-04-08 15:39:22 (北京时间)\n\nDefend your empire with new exciting features!\n \n ∙ Updated Springvale Event is here - prepare for new challenges in April!\n ∙ Various bug fixes and smaller improvements"
+      "description":"最新版本:  2.25.0\n更新时间:  2020-04-14 18:25:38 (北京时间)\n\nHey Mr. Cashman fans!\nGet our NEW games in our latest update!\nFor the best experience and most FUN we’ve squashed bugs and optimized your game.\nBecome a fan today using the following link to get bonuses and updates: \nhttps://www.facebook.com/cashmancasino/"
     },
     {
       "name":"Guns of Glory: Empires Conquer",
@@ -231,16 +213,16 @@
       "description":"最新版本:  5.5.2\n更新时间:  2020-04-15 22:56:29 (北京时间)\n\nFixed some display issues of Equipment page."
     },
     {
-      "name":"Toy Blast",
-      "url":"https://www.maiyewang.com/index-get.php?url=qprrfu2z1mqbtue1enJPxt3TgrpTgBYWemoHvwZP0vmvtohrMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=W4ewznNsfLun5CKv",
+      "name":"Rise of Kingdoms",
+      "url":"https://www.maiyewang.com/index-get.php?url=qp9eKt5GZvK91ze9enbPMt5ffvoPxrePfC5K3y0LZrA5wnxfMCXKMw2fZuAPhBTnMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90ZDJrxohPLB1CvymjuAAzNqtPLES1wv",
       "num":"Games",
-      "description":"最新版本:  7104\n更新时间:  2020-04-13 16:03:34 (北京时间)\n\nIt's time for a crafty new update!\n\n- PLAY 50 NEW LEVELS! The Old Puppeteer is working hard at his workshop, creating new masterpieces! Join him now and don't miss the opportunity to play with all these lovely wooden toys!\n\nBe sure to update to the current version of Toy Blast for the newest content. In every 2 weeks, we bring 50 NEW LEVELS! Come and join the fun!"
+      "description":"最新版本:  1.0.32.25\n更新时间:  2020-04-13 15:16:58 (北京时间)\n\n1. New event: \"Ian's Ballads\" (Will gradually open up to all kingdoms within 1 week after the update) \nBallads of Ian the Bard have spread to all corners of the world. These are tales of epic battles that were long lost in history.\n\"Ian's Ballads\" is a multiplayer battle event. Team up with fellow mates and experience epic battles that were long forgotten in history. Defeat various powerful Chieftains and earn piles of precious rewards!\n\n2. New event: \"Peerless Scholar\" (Will gradually open up to all kingdoms within 2 weeks after the update)\n\"Peerless Scholar\": a massive trivia quiz system, coming soon. Sheath your weapons and take a well-deserved rest from battle. Use your smarts and wisdom to earn great honor and mountains of rewards.\n1) Governors can build a new structure inside their city: \"Lyceum of Wisdom\".\n2) Every month at the \"Lyceum of Wisdom\", a trivia quiz contest will be open to all Governors and lasts for one month. Governors who pass will be able to receive a ton of rewards, and Governors that make it to the very end will receive their hard-earned share from a massive pool of Gems!\n\n3. Other optimizations\n1) The area of cities has been expanded, Governors can now show off even more decorative structures.\n2) Added a new healing kingdom buff, the King can choose to activate it via Kingdom Buffs.\n3) Added a \"Quick Forge\" feature to the Blacksmith. Governors should be able to forge equipment faster.\n4) You can now specify which single Governor to block from your mail via the mailbox.\n5) Changed the way the Shadow Legion calculates results. Now as soon as an alliance event ends, the results are calculated immediately and rewards are sent out. However, during each event each Governor can only receive rewards one time.\n6) A brand new panel for binding accounts.\n7) Now when Governors immigrate, the game will determine in advance if they satisfy all the requirements to immigrate to target Kingdom.\n8) Special Immigration applications will expire if they are not processed within 3 days.\n9) Commanders that have not reached their usage requirement (a kingdom reaching number of days opened) will not be available for use in the Sunset Canyon and in the Lost Canyon.\n10) Governors can now buy even better \"The Hammer and Anvil\" Bundles.\n11) During matchmaking for the \"Ark of Osiris\", newer Kingdoms will not be matched against a kingdom with a relatively older history.\n12) Adjusted mechanics on Passes. Governors can no longer teleport a city to within a certain radius of a Pass.\n13) To further ensure balance, now advanced and powerful commanders may only be used in kingdoms that have been opened for a long period of time."
     },
     {
-      "name":"Big Fish Casino: Slots & Games",
-      "url":"https://www.maiyewang.com/index-get.php?url=qprrfu2z1mqvtuu5uEfPwt00evoTgBYWKEwDLyOr2vmPNuZi2CoHft2vZvHPNrYKfDNjZyWP1vm5gBTLLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=GEwDLyOrwrj1wq5ngm5CKyujuApzxnxfMEgjtuNDMmJbNwfLKBS1wu",
-      "num":"Games",
-      "description":"最新版本:  12.2.8\n更新时间:  2020-03-24 01:03:04 (北京时间)\n\n•Minor bug fixes. \n•Don’t miss out on the upcoming Easter Treasure Rush!"
+      "name":"MeetMe - Go Live, Chat & Meet",
+      "url":"https://www.maiyewang.com/index-get.php?url=9efvqzNvZavEfr1t0eLAoL3y610ASjdtWy1vArxmdrgAOjtw0vvBKbhExXKDKDftSfZrKXMvxjMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qprHLwSftrj1wqdrgAOjtuND3uAjdBhr1z4iJuNbZqjXwmfrgBwDfv",
+      "num":"Social Networking",
+      "description":"最新版本:  14.8.0\n更新时间:  2019-12-11 09:47:49 (北京时间)\n\nUpdates to support CCPA"
     },
     {
       "name":"Kim Kardashian: Hollywood",
@@ -249,10 +231,10 @@
       "description":"最新版本:  10.10.0\n更新时间:  2020-03-24 00:53:51 (北京时间)\n\nApril Update: Build Your Brand\n\nExpand your beauty empire with this new update!\n\nFLAUNT YOUR LOOK: Explore an exciting opportunity from your brand manager RT to earn FREE CLOTHING (level 15+)\nDRESS TO WIN: Play Show Your Style events every Thurs. 3PM to Sun. 9PM EST to get exclusive new clothes (level 12+).\nKOLLECT THEM ALL: New Kollections released on April 3 and 10.\n\nThanks for playing!"
     },
     {
-      "name":"Garena Free Fire: Wonderland",
-      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKJEoHxwQ5emfrut31evnTgBYW0A1CvwZPewATwnYi2mXmLw5XwBArxvxPvEADftOvZvALNrYOLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9eKw1z0rILNvhPvD5iJvN9gvALhBTj1zvDLw5PvrjHwnxPvEgjJu",
+      "name":"Empires & Puzzles Epic Match 3",
+      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFLLAortre5enJrvt4verAbxo51eDNjtwWy0vIrxtxf2DwDft6z1rIzdCyr2DXK3ySPewHDxmxPLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=GEbnuyQjfwz5Kq5LfCcHLuN1ewAnhCUvwmczusTfuEJXMsyf2DXCLu",
       "num":"Games",
-      "description":"最新版本:  1.47.1\n更新时间:  2020-04-08 13:00:14 (北京时间)\n\n1. Clash Squad rank mode - available 04/09 15:00 SGT.\n2. Smoke Grenade - now available (Clash Squad only)\n3. New Character - Kapella\n4. New Weapon - Thompson\n5. Motorbike can now support two players.\n6. MP5, UMP, and M1887 stats adjustment.\n7. Added a setting to reduce the auto pickup delay in game.\n8. Players can no longer hide on foliages.\n9. Parachuting will now display players' backpack skin.\n10. Free Fire Wonderland event coming soon!"
+      "description":"最新版本:  28.1.0\n更新时间:  2020-04-08 15:39:22 (北京时间)\n\nDefend your empire with new exciting features!\n \n ∙ Updated Springvale Event is here - prepare for new challenges in April!\n ∙ Various bug fixes and smaller improvements"
     },
     {
       "name":"Episode - Choose Your Story",
@@ -261,16 +243,34 @@
       "description":"最新版本:  12.60\n更新时间:  2020-04-02 05:08:35 (北京时间)\n\nGet cozy and get your binge reading on with double finales! \n\nThe finale of COMING FOR THE CROWN is out. \nWhen you’re trapped in the royal castle, you’ll have to scheme and survive to save yourself. Will you make the right choices? \n\nAnd the finale of PERFECT LITTLE HOUSEWIFE!\nFind solace in a new friend when you’re both trapped in loveless marriages. Can the two of you start a new life together, or will you be pulled away from each other?"
     },
     {
+      "name":"Toy Blast",
+      "url":"https://www.maiyewang.com/index-get.php?url=qprrfu2z1mqbtue1enJPxt3TgrpTgBYWemoHvwZP0vmvtohrMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=W4ewznNsfLun5CKv",
+      "num":"Games",
+      "description":"最新版本:  7104\n更新时间:  2020-04-13 16:03:34 (北京时间)\n\nIt's time for a crafty new update!\n\n- PLAY 50 NEW LEVELS! The Old Puppeteer is working hard at his workshop, creating new masterpieces! Join him now and don't miss the opportunity to play with all these lovely wooden toys!\n\nBe sure to update to the current version of Toy Blast for the newest content. In every 2 weeks, we bring 50 NEW LEVELS! Come and join the fun!"
+    },
+    {
+      "name":"Garena Free Fire: Wonderland",
+      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKJEoHxwQ5emfrut31evnTgBYW0A1CvwZPewATwnYi2mXmLw5XwBArxvxPvEADftOvZvALNrYOLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9eKw1z0rILNvhPvD5iJvN9gvALhBTj1zvDLw5PvrjHwnxPvEgjJu",
+      "num":"Games",
+      "description":"最新版本:  1.47.1\n更新时间:  2020-04-08 13:00:14 (北京时间)\n\n1. Clash Squad rank mode - available 04/09 15:00 SGT.\n2. Smoke Grenade - now available (Clash Squad only)\n3. New Character - Kapella\n4. New Weapon - Thompson\n5. Motorbike can now support two players.\n6. MP5, UMP, and M1887 stats adjustment.\n7. Added a setting to reduce the auto pickup delay in game.\n8. Players can no longer hide on foliages.\n9. Parachuting will now display players' backpack skin.\n10. Free Fire Wonderland event coming soon!"
+    },
+    {
+      "name":"Big Fish Casino: Slots & Games",
+      "url":"https://www.maiyewang.com/index-get.php?url=qprrfu2z1mqvtuu5uEfPwt00evoTgBYWKEwDLyOr2vmPNuZi2CoHft2vZvHPNrYKfDNjZyWP1vm5gBTLLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=GEwDLyOrwrj1wq5ngm5CKyujuApzxnxfMEgjtuNDMmJbNwfLKBS1wu",
+      "num":"Games",
+      "description":"最新版本:  12.2.8\n更新时间:  2020-03-24 01:03:04 (北京时间)\n\n•Minor bug fixes. \n•Don’t miss out on the upcoming Easter Treasure Rush!"
+    },
+    {
       "name":"Amazon Music",
       "url":"https://www.maiyewang.com/index-get.php?url=0tuubLDwndu0KLAoftve90DfrLtRXMmmPgBYmwmXCft1LtBLHwmxLLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=GASjZyXetrjvxoTvgAXCvu",
       "num":"Music",
       "description":"最新版本:  9.8\n更新时间:  2020-04-15 02:12:29 (北京时间)\n\nWe’re improving your Amazon Music listening experience all the time. In this version, we fixed some bugs and made other improvements."
     },
     {
-      "name":"MeetMe - Go Live, Chat & Meet",
-      "url":"https://www.maiyewang.com/index-get.php?url=9efvqzNvZavEfr1t0eLAoL3y610ASjdtWy1vArxmdrgAOjtw0vvBKbhExXKDKDftSfZrKXMvxjMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qprHLwSftrj1wqdrgAOjtuND3uAjdBhr1z4iJuNbZqjXwmfrgBwDfv",
-      "num":"Social Networking",
-      "description":"最新版本:  14.8.0\n更新时间:  2019-12-11 09:47:49 (北京时间)\n\nUpdates to support CCPA"
+      "name":"HBO NOW: Stream TV & Movies",
+      "url":"https://www.maiyewang.com/index-get.php?url=9efvqzNvZavEjrKtXKLAnH3yu90ASjdt6z1vHjtoxjgDzHez0bZvzXMsirMEXKhz2vZvmzNshfMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=6z1vHjtoxr1zznusxjLrjrNrxPvEsntvN9MEwbvnfLeukv0u",
+      "num":"Entertainment",
+      "description":"最新版本:  28.0.0\n更新时间:  2020-04-03 01:04:23 (北京时间)\n\nGet the latest update for bug fixes and performance improvements—Start streaming HBO series including Game of Thrones, Westworld, The Outsider, The New Pope, Avenue 5 and more."
     },
     {
       "name":"Bingo Blitz™ - Bingo Games",
@@ -285,10 +285,10 @@
       "description":"最新版本:  2.11.0\n更新时间:  2020-04-07 00:10:03 (北京时间)\n\n﻿New Events: Fast & Furious, Easter \nThe legendary series is back with new fan favorites! Full of challenges and a plot-twisting narrative,the new Fast & Furious saga is one for all racers. For more information on the event, head to our blog! \n\nCelebrate Easter in The Rocket Bunny Easter Event! Get far enough and you’ll be rewarded with a five Purple Star Rocket Bunny Nissan Fairlady Z (Z33) to add to your collection. \n\nLatest Feature: Elite Customs\nThe second collection of Elite Customs cars is here! Take your garage to a brand new level by revamping your car collection with an upgraded take on customization and performance.Now you can unlock the McLaren F1 LM.\n\nGame Improvements \nImprovements have been implemented to the running of the game  \n\nExclusive in CSR2 Car: Bugatti Chiron Pur Sport \n\nNew Elite Customs Cars:\nBugatti EB110 Super Sport\nChevrolet Corvette (C3) ZR1\nHonda NSX-R\nLamborghini Countach LP 5000 Quattrovalvole\nMcLaren F1\nMercedes-Benz 300 SL Coupé\nPorsche Carrera GT\nShelby Cobra 427 S/C"
     },
     {
-      "name":"MLB Tap Sports Baseball 2020",
-      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFTgrpLxq65emfr0tWuerAbxod1uEbPwt0D3rIHMsxPLEg1ww01esKLxohnMEXm0yOjfwmLgExjMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9eut5fKAnD2DhjgAkDLw6zuBrDwtirwE5C0yuj0qJHMugL0q4vfv",
-      "num":"Games",
-      "description":"最新版本:  1.0.3\n更新时间:  2020-03-26 08:53:22 (北京时间)\n\n• Fully updated ROSTERS, STATS, and UNIFORMS for 2020!\n• New authentic MLB STADIUMS bring real MLB baseball to your phone\n• New TARGET BASH mode! Hit the targets and homeruns to earn big rewards\n• New WORLD RANKINGS – Show the world that you’re the best to play the game\n• New MVP LEADERBOARD – Individual leaderboard and rewards for club event participants\n• SIMPLIFIED ROSTER – There is now only one roster for ALL game modes, including Slugger modes\n• STREAMLINED UI – It is now easier to manage your team and get back into the game quickly\n• See skills ACTIVATE during gameplay on your HUD\n• CHAT IMPROVEMENTS, including sharing screenshots with club members\n• New PICK ‘EM collection sets and Club Points ACHIEVEMENTS"
+      "name":"TikTok - Make Your Day",
+      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFfKAnP3Au9umvPxt0e1vHz3AyL1AXK2yXKZvLrxvYegAXCftYLZrKjhBhrMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tprvgAsvus5z1mIPLqtPLCgDfvNbZqjjxohzLCSDKv",
+      "num":"Entertainment",
+      "description":"最新版本:  15.7.0\n更新时间:  2020-04-16 11:53:18 (北京时间)\n\nUse brand new effects to make your videos shine!"
     },
     {
       "name":"Summoners War",
@@ -297,16 +297,10 @@
       "description":"最新版本:  5.3.1\n更新时间:  2020-04-13 10:00:18 (北京时间)\n\nA global RPG that mesmerized users worldwide!\nWin battles with unique decks!\n\n- 6th Anniversary Event\n- New guide quest and tutorial\n- Fixed other errors\n\nGot feedback? Leave a review or visit http://customer-m.withhive.com/ask and drop us a line!"
     },
     {
-      "name":"Matchington Mansion",
-      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFLLAnDxv65umzrvt5verAbxoPjMDSjZy1z0vIrhnYigmK1MyWHMmzbJrxjMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9CMy2XMmJvNrxr1z0iJyWqwBIbhAYKfmgDfv",
+      "name":"MLB Tap Sports Baseball 2020",
+      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFTgrpLxq65emfr0tWuerAbxod1uEbPwt0D3rIHMsxPLEg1ww01esKLxohnMEXm0yOjfwmLgExjMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9eut5fKAnD2DhjgAkDLw6zuBrDwtirwE5C0yuj0qJHMugL0q4vfv",
       "num":"Games",
-      "description":"最新版本:  1.64.0\n更新时间:  2020-04-13 14:03:31 (北京时间)\n\nHit the waters to earn awesome team rewards with friends in the new Team Boat Race event! Decorate the ski resort's famed Banquet Room to have a mansion friends party and solve the mystery behind Jack's disappearance! 52 challenging new levels await!\n\n- New Team Event: “Team Boat Race!”\n- New Room: “Restaurant P4: Banquet Room!”\n- 52 New Levels!\n- Bug fixes!"
-    },
-    {
-      "name":"World Series of Poker - WSOP",
-      "url":"https://www.maiyewang.com/index-get.php?url=qp9eKt5GZvK9vqu1envPwtXSgvnntuxfMDbnJy6rgwmLNvYeMDcHftTLZvmPNvxfwEwjZy0f1rILxoYqMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9euvq5umwDgmdLuEwjty2jKrj1wohLKEwDvy5zLmvDwuhjwE5iJv",
-      "num":"Games",
-      "description":"最新版本:  7.6.0\n更新时间:  2020-04-15 16:53:43 (北京时间)\n\n● We’ve folded more bugs to improve your WSOP experience."
+      "description":"最新版本:  1.0.3\n更新时间:  2020-03-26 08:53:22 (北京时间)\n\n• Fully updated ROSTERS, STATS, and UNIFORMS for 2020!\n• New authentic MLB STADIUMS bring real MLB baseball to your phone\n• New TARGET BASH mode! Hit the targets and homeruns to earn big rewards\n• New WORLD RANKINGS – Show the world that you’re the best to play the game\n• New MVP LEADERBOARD – Individual leaderboard and rewards for club event participants\n• SIMPLIFIED ROSTER – There is now only one roster for ALL game modes, including Slugger modes\n• STREAMLINED UI – It is now easier to manage your team and get back into the game quickly\n• See skills ACTIVATE during gameplay on your HUD\n• CHAT IMPROVEMENTS, including sharing screenshots with club members\n• New PICK ‘EM collection sets and Club Points ACHIEVEMENTS"
     },
     {
       "name":"Last Shelter: Survival",
@@ -315,10 +309,22 @@
       "description":"最新版本:  1.250.175\n更新时间:  2020-04-17 10:19:16 (北京时间)\n\nfix bug"
     },
     {
+      "name":"World Series of Poker - WSOP",
+      "url":"https://www.maiyewang.com/index-get.php?url=qp9eKt5GZvK9vqu1envPwtXSgvnntuxfMDbnJy6rgwmLNvYeMDcHftTLZvmPNvxfwEwjZy0f1rILxoYqMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9euvq5umwDgmdLuEwjty2jKrj1wohLKEwDvy5zLmvDwuhjwE5iJv",
+      "num":"Games",
+      "description":"最新版本:  7.6.0\n更新时间:  2020-04-15 16:53:43 (北京时间)\n\n● We’ve folded more bugs to improve your WSOP experience."
+    },
+    {
       "name":"IMVU: 3D Avatar Creator & Chat",
       "url":"https://www.maiyewang.com/index-get.php?url=qprrfu2z1mqbtue9umrPNt1uevpTgBYWemgDuyQftAJzNuyLfBkntw0LewzbJrTrgAXmKw6bZuKjtmxfMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=amgDuyejuAkDwsZigmgDLw55urjLNrhrgAAHvuNffmnD2Buz1vXu1u",
       "num":"Social Networking",
       "description":"最新版本:  v5.7.6\n更新时间:  2020-03-27 23:03:34 (北京时间)\n\n• There's a new way to earn Credits! Host a Live Room and start earning Tips for your events.\n• IMVU’s bug patrol has been hard at work squashing bugs and making various fixes and improvements.\n• Questions? Need help? Visit our Community Center: im.vu/help769"
+    },
+    {
+      "name":"Tagged -Chill, Chat & Go Live!",
+      "url":"https://www.maiyewang.com/index-get.php?url=WaJEIftoQ5uEfr1t1CgrpfttePfC5mLwYW2rIrhoYOfDrHvwV50vmnhExf2BoDftRzLmA5MrhrMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=aAv1gzWHxrjzhzfLuBbnezOHMmrD2Ddj2CSDuyefZqjTMvYOLBgDKv",
+      "num":"Social Networking",
+      "description":"最新版本:  9.25.2\n更新时间:  2020-04-15 00:43:05 (北京时间)\n\n- Add support for Sign in with Apple\n- Safety Pledge\n- Bug fixes and performance optimizations."
     },
     {
       "name":"Lords Mobile: Kingdom Wars",
@@ -327,10 +333,16 @@
       "description":"最新版本:  2.22\n更新时间:  2020-04-01 08:13:38 (北京时间)\n\nFeast your eyes and ears on this massive Hero update!\nWe've got brand new Hero models, with better graphics and better animations, and all Heroes are now voiced!\n(Update your game and tap on your Heroes to listen to what they have to say!)\n\n# New Feudal Wonders: Baron's Frost & Baron's Glacier! (Check in-game for more details) \n# Updated rules for guild invites, guild applications, changing guild's home Kingdom, and guild leadership transfers for restricted/protected Kingdoms\n# New Settings: Toggle [Route Display]: Strong/Medium/Light; Toggle [Voices]: On/Off; Toggle [Hero Shadow Quality]: High/Low\n# Cracked down on fraudulent activities: Optimized troop deployments\n# Various UI adjustments"
     },
     {
-      "name":"TikTok - Make Your Day",
-      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFfKAnP3Au9umvPxt0e1vHz3AyL1AXK2yXKZvLrxvYegAXCftYLZrKjhBhrMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tprvgAsvus5z1mIPLqtPLCgDfvNbZqjjxohzLCSDKv",
-      "num":"Entertainment",
-      "description":"最新版本:  15.7.0\n更新时间:  2020-04-16 11:53:18 (北京时间)\n\nUse brand new effects to make your videos shine!"
+      "name":"Matchington Mansion",
+      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFLLAnDxv65umzrvt5verAbxoPjMDSjZy1z0vIrhnYigmK1MyWHMmzbJrxjMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9CMy2XMmJvNrxr1z0iJyWqwBIbhAYKfmgDfv",
+      "num":"Games",
+      "description":"最新版本:  1.64.0\n更新时间:  2020-04-13 14:03:31 (北京时间)\n\nHit the waters to earn awesome team rewards with friends in the new Team Boat Race event! Decorate the ski resort's famed Banquet Room to have a mansion friends party and solve the mystery behind Jack's disappearance! 52 challenging new levels await!\n\n- New Team Event: “Team Boat Race!”\n- New Room: “Restaurant P4: Banquet Room!”\n- 52 New Levels!\n- Bug fixes!"
+    },
+    {
+      "name":"LiveMe –Live Video Chat",
+      "url":"https://www.maiyewang.com/index-get.php?url=90tqoLdoxr2xrrKt6LLEnrZAe90DfrKwWLZqKHgAYKfD4CLwRXwBKrxvTrgC4DftSfZvAjdBhjMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90tqKHgAYe1z4CLwRXwBwDwvTrgC4bZAbT0tjXwmvPLmSDev",
+      "num":"Social Networking",
+      "description":"最新版本:  4.2.43\n更新时间:  2020-04-18 09:03:14 (北京时间)\n\n\"What's New\n- You can now purchase SUBS with coins, and enjoy exclusive member's benefits!\n- Messages can be pinned to top. Go and set up for your friends so you don't miss their messages\n- Stranger greeting feature is optimized. Go and check who greets you\""
     },
     {
       "name":"Clash Royale",
@@ -345,22 +357,16 @@
       "description":"最新版本:  1.63\n更新时间:  2020-04-08 15:20:55 (北京时间)\n\nBeginning of a new Chapter and the spring Marathon!\n\nDream River\n\nMystical beginning of Chapter 12: dark forces hide in the fog…\nMarathon\n\nCheese tasting for the winners of the Marathon."
     },
     {
-      "name":"Tagged -Chill, Chat & Go Live!",
-      "url":"https://www.maiyewang.com/index-get.php?url=WaJEIftoQ5uEfr1t1CgrpfttePfC5mLwYW2rIrhoYOfDrHvwV50vmnhExf2BoDftRzLmA5MrhrMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=aAv1gzWHxrjzhzfLuBbnezOHMmrD2Ddj2CSDuyefZqjTMvYOLBgDKv",
-      "num":"Social Networking",
-      "description":"最新版本:  9.25.2\n更新时间:  2020-04-15 00:43:05 (北京时间)\n\n- Add support for Sign in with Apple\n- Safety Pledge\n- Bug fixes and performance optimizations."
+      "name":"Heart of Vegas Slots-Casino",
+      "url":"https://www.maiyewang.com/index-get.php?url=qprrfu2z1mqvZyu10mnrLtXCMEoTgBYWKD1Cvy6zKmzrxtirMD4jZy01ewz5MvTrgDzjJy0fLBJHMvhfMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=2vZvHPNrYefDnHez2HNmvDwtyLLBw1MvNLLmIDwuUngAwD0u",
+      "num":"Games",
+      "description":"最新版本:  4.16.0\n更新时间:  2020-03-18 21:04:27 (北京时间)\n\nHello, Heart of Vegas Friends!\n\nIn this release we have added some more of the biggest games from Aristocrat's all star slots lineup.\nThe original DRAGON LINK™ and LIGHTNING LINK™ games with Lightning-fast Jackpots, Free Games, and the Hold & Spin feature are sure to keep you on the edge of your seat.\n\nGet even MORE BONUSES when you Join Heart of Vegas Communities! Join us on Facebook: https://www.facebook.com/HeartofVegas"
     },
     {
       "name":"Star Wars™: Galaxy of Heroes",
       "url":"https://www.maiyewang.com/index-get.php?url=qp9eKt5GZvK91zu5KEjPwt3vKAnvtuxfMDnHLw2PewA9wmPPLDXmvz0y0rIHgzxXKEkHvwZetAJHMuZmMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=GEwjJy5z1rtDwwYi2zRHuzOH3vzHKqP9uAt9gn6PewzHLqPngAsntv",
       "num":"Games",
       "description":"最新版本:  0.19.1\n更新时间:  2020-03-25 05:13:26 (北京时间)\n\nNow introducing the Journey Guide, Heroes fans! Plan out your journey towards your ultimate Star Wars™ collection, with a detailed guide on earning the most aspirational units on the Holotables. In this update, you can:\n\n•Map out your journey like never before using the Journey Guide\n•Browse the guide to find many powerful units, along with their strengths, synergies, and requirements to obtain them\n•The update also includes several performance improvements\n\nThanks for playing!"
-    },
-    {
-      "name":"LiveMe –Live Video Chat",
-      "url":"https://www.maiyewang.com/index-get.php?url=90tqoLdoxr2xrrKt6LLEnrZAe90DfrKwWLZqKHgAYKfD4CLwRXwBKrxvTrgC4DftSfZvAjdBhjMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90tqKHgAYe1z4CLwRXwBwDwvTrgC4bZAbT0tjXwmvPLmSDev",
-      "num":"Social Networking",
-      "description":"最新版本:  4.2.43\n更新时间:  2020-04-18 09:03:14 (北京时间)\n\n\"What's New\n- You can now purchase SUBS with coins, and enjoy exclusive member's benefits!\n- Messages can be pinned to top. Go and set up for your friends so you don't miss their messages\n- Stranger greeting feature is optimized. Go and check who greets you\""
     },
     {
       "name":"Cash Frenzy™ - Slots Casino",
@@ -375,58 +381,16 @@
       "description":"最新版本:  1.4.5\n更新时间:  2020-02-24 16:03:47 (北京时间)\n\nWhat’s New\nNew Stories and Chapters weekly updates! \nDon’t miss out on special events and Day Pass.\n\nBOSSMAN:\nChase Parker is a self-made billionaire with a mischievous side. He's also your new boss! The spark between you is forbidden. But when you make a sexy bet with the bossman, who will be the first to give in to temptation? \n\nBILLIONAIRE DADDY:\nBillionaire. Bad Boy. Boss. That's how you've always known sexy CEO, Aiden Kelly. But when a secret little daughter shows up out of the blue, you'll see a new side of this bad boy! Can you help this smoldering billionaire figure out fatherhood without losing your heart along the way?\n\nBELIEVE ME, I’M LYING:\nWith no other choice, you take a job as a substitute teacher to provide a better life for your younger brother. The catch? You had to lie about your age to get the job! But when you get caught in a love triangle between two of the baddest boys in school, will your cover be blown? \n\nAnd more…"
     },
     {
-      "name":"Dropbox - Backup, Sync, Share",
-      "url":"https://www.maiyewang.com/index-get.php?url=WaJEIftoe1KEnrut6LLEoLxtePfC5mLw5z0rHPxm5LvDSnZy0fewKjNtxLvAXmuz2P0rJzNsiPLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qpv12yOHMmvD2D5LvDSntvND3qJfdDYKfAkvus0f0qLzNshnMDkHKu",
-      "num":"Productivity",
-      "description":"最新版本:  184.4\n更新时间:  2020-04-15 02:46:31 (北京时间)\n\nWe release updates regularly, and we’re always looking for ways to make things better. If you have any feedback or run into issues, come find us in our forums. We’re happy to help!"
-    },
-    {
-      "name":"Heart of Vegas Slots-Casino",
-      "url":"https://www.maiyewang.com/index-get.php?url=qprrfu2z1mqvZyu10mnrLtXCMEoTgBYWKD1Cvy6zKmzrxtirMD4jZy01ewz5MvTrgDzjJy0fLBJHMvhfMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=2vZvHPNrYefDnHez2HNmvDwtyLLBw1MvNLLmIDwuUngAwD0u",
-      "num":"Games",
-      "description":"最新版本:  4.16.0\n更新时间:  2020-03-18 21:04:27 (北京时间)\n\nHello, Heart of Vegas Friends!\n\nIn this release we have added some more of the biggest games from Aristocrat's all star slots lineup.\nThe original DRAGON LINK™ and LIGHTNING LINK™ games with Lightning-fast Jackpots, Free Games, and the Hold & Spin feature are sure to keep you on the edge of your seat.\n\nGet even MORE BONUSES when you Join Heart of Vegas Communities! Join us on Facebook: https://www.facebook.com/HeartofVegas"
-    },
-    {
-      "name":"Jackpot Magic Slots™ & Casino",
-      "url":"https://www.maiyewang.com/index-get.php?url=qprrfu2z1mqjtsu1uErPwt3TgrnHxuxfMD40MyW5ewzPwm5ngm5CKy6ftEzbhzxLfDXmez2j0mHPMrTfMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tp3jwDSjZyO5urj1wqP9wrl1YyWKZrIrLq5LfCKDvwoj0qKzNqZeMAg12u",
-      "num":"Games",
-      "description":"最新版本:  12.2.8\n更新时间:  2020-03-24 01:07:18 (北京时间)\n\n•Minor bug fixes.\n•Unlock new treasures in the Bay City Boardwalk season!"
-    },
-    {
-      "name":"POP! Slots ™ Vegas Casino Game",
-      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKJAoPxue1enRrLtYeevnTgBYWeBXCvwUftEIvhBYmgAoDft6zKmAXMwyXKEsnJyZ5ewmDxohnMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tvxjgAKvus2vZvHPNrYe1znHvwUzvBwDwslHwAeL3yWKZrIrLqtLuu5uuv",
-      "num":"Games",
-      "description":"最新版本:  2.56.22\n更新时间:  2020-03-21 20:28:15 (北京时间)\n\nHi POP! Slots Fans!\n\nHere's a new update with fixes to improve your game experience!\n\nGood luck & happy spinning!"
-    },
-    {
       "name":"LinkedIn: Network & Job Finder",
       "url":"https://www.maiyewang.com/index-get.php?url=qprrfu2z1mqDxue1unjrKt0CMAnTgBYWuEwDKw1XwBArxsYiwCXKxy5LJmKbJvTjgD0CvyRzLmHvhBhjMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qEwDKw1XwBsDwsYi2scLMsNnxBJzhzirgB1uus2qZvtTMvYewDSDev",
       "num":"Business",
       "description":"最新版本:  9.1.176\n更新时间:  2020-04-15 01:17:33 (北京时间)\n\nWhen you’re in a conversation, speed and stability matter. The LinkedIn app is now more reliable than ever. This update contains bug fixes."
     },
     {
-      "name":"King of Avalon: Dragon Warfare",
-      "url":"https://www.maiyewang.com/index-get.php?url=0tuubLDwndu1efrpDxtu9emNrut4f1vHzxvTngAA12yOrgwmvxoYOfAkHKw0rJmInNrTrgAXKMw2ftEAvhBYeMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=aBkHvwTPewzHLqPjMDKDvw5jvrjzdnYi2Cg1gzcjuAAzNq5PvDSjZu",
-      "num":"Games",
-      "description":"最新版本:  8.2.0\n更新时间:  2020-04-15 10:49:14 (北京时间)\n\nWhat's NEW: \n1. New Dragon Emblem: WATER DRAKE!\n2. New chapters in Merlin's Trial: Chapter 23 and 24 are now available in Dragon Trials.\n3. New Event: Water Drake Trial."
-    },
-    {
-      "name":"ESPN: Live Sports & Scores",
-      "url":"https://www.maiyewang.com/index-get.php?url=90tqoLdoxr2xrr0t4TMAobZyu1KErDvy21ewALxoYKLEXK3yWO0mIDNtyXeBAHvyZftAIDNtyPLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90ewALxoYKfvcLMsN1esKLxohngvcnLwYW2ruD2BQrvuozLu",
-      "num":"Sports",
-      "description":"最新版本:  6.20\n更新时间:  2020-04-17 22:54:29 (北京时间)\n\n[+] Bug fixes and optimizations."
-    },
-    {
-      "name":"Minecraft",
-      "url":"https://www.maiyewang.com/index-get.php?url=qprrfu2z1mqPxuu1KmfrLt1mgroTgBYWemADvw550vAvhBxjMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=WO1vzLNtxPvDSDfv",
-      "num":"Games",
-      "description":"最新版本:  1.14.60\n更新时间:  2020-04-15 23:13:15 (北京时间)\n\nWhat's new in 1.14.60:\nVarious bug fixes"
-    },
-    {
-      "name":"Yahtzee® with Buddies Dice",
-      "url":"https://www.maiyewang.com/index-get.php?url=qp9eKt5GZvK9vt65eEJPMt1KfrnLxrePfC5mLwQX2rArxtyPfCsDKwXO0vm9Muyf2mXmLwSbhsK9MrxvMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=S50vHvKq5ngBSDKwRzLBrD2zhrgCKHus1T0yAXgCir2BgD1v",
-      "num":"Games",
-      "description":"最新版本:  7.1.0\n更新时间:  2020-04-17 08:49:59 (北京时间)\n\nThanks for playing Yahtzee with Buddies, the #1 dice game worldwide!  Download the latest version to discover our newest solo and multiplayer game modes, exciting new features and custom vanity dice, plus bug fixes and performance improvements to bring you a better game experience."
+      "name":"Dropbox - Backup, Sync, Share",
+      "url":"https://www.maiyewang.com/index-get.php?url=WaJEIftoe1KEnrut6LLEoLxtePfC5mLw5z0rHPxm5LvDSnZy0fewKjNtxLvAXmuz2P0rJzNsiPLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qpv12yOHMmvD2D5LvDSntvND3qJfdDYKfAkvus0f0qLzNshnMDkHKu",
+      "num":"Productivity",
+      "description":"最新版本:  184.4\n更新时间:  2020-04-15 02:46:31 (北京时间)\n\nWe release updates regularly, and we’re always looking for ways to make things better. If you have any feedback or run into issues, come find us in our forums. We’re happy to help!"
     },
     {
       "name":"Lightning Link Slots-Casino",
@@ -441,16 +405,22 @@
       "description":"最新版本:  12.90\n更新时间:  2020-04-14 09:51:35 (北京时间)\n\n- Enjoy POF with fewer bugs and improved stability"
     },
     {
-      "name":"House of Fun™ - Casino Slots",
-      "url":"https://www.maiyewang.com/index-get.php?url=WaJEIftou1KEnrKt6LLAortvePfC5K3yWKZrIPxm5jwDSjZyO50vmvNvUPfDzjJy0vLmJftohfMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=GEsnJyZ5KrjzxnxfMEgjtuNbZqjL2uVrtDw5MuNLLmIDwvYmwm5C0u",
+      "name":"King of Avalon: Dragon Warfare",
+      "url":"https://www.maiyewang.com/index-get.php?url=0tuubLDwndu1efrpDxtu9emNrut4f1vHzxvTngAA12yOrgwmvxoYOfAkHKw0rJmInNrTrgAXKMw2ftEAvhBYeMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=aBkHvwTPewzHLqPjMDKDvw5jvrjzdnYi2Cg1gzcjuAAzNq5PvDSjZu",
       "num":"Games",
-      "description":"最新版本:  3.55\n更新时间:  2020-04-07 22:49:56 (北京时间)\n\nWe’ve just added more FUN to HOUSE OF FUN with new games, amazing features, and updates to bring your HoF experience to another level! \nV 3.55\n- New slot machines: Snow & Ice\n- Play our new, exclusive challenges for a great casino experience and huge coin fortunes up for grabs \n- Bug fixes, performance improvements and more surprises to enhance your House of Fun experience \nUpdate now and keep spinning! \nLike us? Please rate us! Your feedback is important!"
+      "description":"最新版本:  8.2.0\n更新时间:  2020-04-15 10:49:14 (北京时间)\n\nWhat's NEW: \n1. New Dragon Emblem: WATER DRAKE!\n2. New chapters in Merlin's Trial: Chapter 23 and 24 are now available in Dragon Trials.\n3. New Event: Water Drake Trial."
     },
     {
-      "name":"State of Survival: Zombie War",
-      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFnMEnvtu65emjrLtWuerAbxoPngAKHftSXwBzrxoTvgD3DvwYWwBKLNvZmgDzjJy0v1rKHMuZmMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qpjHvwyj0uAbNsxjMDWzus2C3vzjdBTrwEwntvNLLmIDwvhrgAsntv",
+      "name":"POP! Slots ™ Vegas Casino Game",
+      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKJAoPxue1enRrLtYeevnTgBYWeBXCvwUftEIvhBYmgAoDft6zKmAXMwyXKEsnJyZ5ewmDxohnMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tvxjgAKvus2vZvHPNrYe1znHvwUzvBwDwslHwAeL3yWKZrIrLqtLuu5uuv",
       "num":"Games",
-      "description":"最新版本:  1.7.51\n更新时间:  2020-04-03 22:39:49 (北京时间)\n\n1. New Easter events and related items\n-New events: Lucky Easter Eggs, Paint Passion, Hidden Colors, Temperamental Artist, Easter Egg Hunt, and Bunny's Gratitude\n-New Easter HQ Skin, March Skin, Frame Skin and Decoration added\n2. Exploration Challenge optimized for Intel feature\n3. State Intel entrance added in Event Billboard\n4. Alliance member interface optimized\n-Alliance leaders and R4 members can check the online status and the total number of online members\n-Logic of Alliance members display optimized, members will be listed from high to low accordingly to Power\n5. Tapping issue of button in Radar fixed."
+      "description":"最新版本:  2.56.22\n更新时间:  2020-03-21 20:28:15 (北京时间)\n\nHi POP! Slots Fans!\n\nHere's a new update with fixes to improve your game experience!\n\nGood luck & happy spinning!"
+    },
+    {
+      "name":"Yahtzee® with Buddies Dice",
+      "url":"https://www.maiyewang.com/index-get.php?url=qp9eKt5GZvK9vt65eEJPMt1KfrnLxrePfC5mLwQX2rArxtyPfCsDKwXO0vm9Muyf2mXmLwSbhsK9MrxvMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=S50vHvKq5ngBSDKwRzLBrD2zhrgCKHus1T0yAXgCir2BgD1v",
+      "num":"Games",
+      "description":"最新版本:  7.1.0\n更新时间:  2020-04-17 08:49:59 (北京时间)\n\nThanks for playing Yahtzee with Buddies, the #1 dice game worldwide!  Download the latest version to discover our newest solo and multiplayer game modes, exciting new features and custom vanity dice, plus bug fixes and performance improvements to bring you a better game experience."
     },
     {
       "name":"Hero Wars - Fantasy World",
@@ -459,10 +429,22 @@
       "description":"最新版本:  1.68.5\n更新时间:  2020-04-01 21:42:47 (北京时间)\n\nThe Dominion is celebrating Easter! Let the Egg Hunt begin!\n\nFestivities in Danger!\n- Hordes of the Undead threaten the Dominion! Drive them away and save Easter!\n- Complete tasks of this Special Event to fight dreadful Bosses!\n- Martha and Markus opened their Shops to help you!\n\nMarkus Is Back!\n- The support hero Markus becomes stronger! Feel the might of the Order!\n\nWe are counting on you, Brave Hero!"
     },
     {
-      "name":"Solitaire - Grand Harvest",
-      "url":"https://www.maiyewang.com/index-get.php?url=9efvqzNvZafEzPwt00KEnPxsQ1eErDvy2f1mJXMwUngAODftRvZvzLhzxXeBkHvyOjfwHnxoYmMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90tqKPNvTrwEgD0uNfvBIHMsZi1zWmusSPewHHMuyf2C5itv",
+      "name":"Minecraft",
+      "url":"https://www.maiyewang.com/index-get.php?url=qprrfu2z1mqPxuu1KmfrLt1mgroTgBYWemADvw550vAvhBxjMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=WO1vzLNtxPvDSDfv",
       "num":"Games",
-      "description":"最新版本:  1.61.0\n更新时间:  2020-04-15 17:28:14 (北京时间)\n\n- 75 amazing new levels!\n- The Lucky Wheel is now available in the Masters League!\n- Various improvements and bug fixes.\n- Happy harvesting!"
+      "description":"最新版本:  1.14.60\n更新时间:  2020-04-15 23:13:15 (北京时间)\n\nWhat's new in 1.14.60:\nVarious bug fixes"
+    },
+    {
+      "name":"State of Survival: Zombie War",
+      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFnMEnvtu65emjrLtWuerAbxoPngAKHftSXwBzrxoTvgD3DvwYWwBKLNvZmgDzjJy0v1rKHMuZmMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qpjHvwyj0uAbNsxjMDWzus2C3vzjdBTrwEwntvNLLmIDwvhrgAsntv",
+      "num":"Games",
+      "description":"最新版本:  1.7.51\n更新时间:  2020-04-03 22:39:49 (北京时间)\n\n1. New Easter events and related items\n-New events: Lucky Easter Eggs, Paint Passion, Hidden Colors, Temperamental Artist, Easter Egg Hunt, and Bunny's Gratitude\n-New Easter HQ Skin, March Skin, Frame Skin and Decoration added\n2. Exploration Challenge optimized for Intel feature\n3. State Intel entrance added in Event Billboard\n4. Alliance member interface optimized\n-Alliance leaders and R4 members can check the online status and the total number of online members\n-Logic of Alliance members display optimized, members will be listed from high to low accordingly to Power\n5. Tapping issue of button in Radar fixed."
+    },
+    {
+      "name":"House of Fun™ - Casino Slots",
+      "url":"https://www.maiyewang.com/index-get.php?url=WaJEIftou1KEnrKt6LLAortvePfC5K3yWKZrIPxm5jwDSjZyO50vmvNvUPfDzjJy0vLmJftohfMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=GEsnJyZ5KrjzxnxfMEgjtuNbZqjL2uVrtDw5MuNLLmIDwvYmwm5C0u",
+      "num":"Games",
+      "description":"最新版本:  3.55\n更新时间:  2020-04-07 22:49:56 (北京时间)\n\nWe’ve just added more FUN to HOUSE OF FUN with new games, amazing features, and updates to bring your HoF experience to another level! \nV 3.55\n- New slot machines: Snow & Ice\n- Play our new, exclusive challenges for a great casino experience and huge coin fortunes up for grabs \n- Bug fixes, performance improvements and more surprises to enhance your House of Fun experience \nUpdate now and keep spinning! \nLike us? Please rate us! Your feedback is important!"
     },
     {
       "name":"DoubleU Casino: Vegas Slots",
@@ -477,22 +459,10 @@
       "description":"最新版本:  1.6.2\n更新时间:  2020-04-17 17:07:58 (北京时间)\n\nIntroducing our biggest update since launch! The all new DIY feature gives you the opportunity to design custom furniture pieces and place them in your renovation projects!\nNew levels! New makeovers!"
     },
     {
-      "name":"Choices: Stories You Play",
-      "url":"https://www.maiyewang.com/index-get.php?url=WaJEIftou9emrrut41evnntqu10ASjdt1y0rIDxmtrMDSHft6z1vHLxohrMEXK3yS50vHzhAYKLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90tuLHgEhv1zvnJyAjuEJXgBTnMDsntvN9MEJXMtxfMDOjtu",
+      "name":"Solitaire - Grand Harvest",
+      "url":"https://www.maiyewang.com/index-get.php?url=9efvqzNvZafEzPwt00KEnPxsQ1eErDvy2f1mJXMwUngAODftRvZvzLhzxXeBkHvyOjfwHnxoYmMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90tqKPNvTrwEgD0uNfvBIHMsZi1zWmusSPewHHMuyf2C5itv",
       "num":"Games",
-      "description":"最新版本:  2.6.9\n更新时间:  2020-03-10 04:35:44 (北京时间)\n\nPREMIERING THIS UPDATE\nWITNESS: A BODYGUARD ROMANCE: After witnessing a murder, you're sent to Nantucket with a U.S. Marshal sworn to protect you at all costs... Will you survive the summer without risking your life or your heart?\n\nDISTANT SHORES: When you're swept back to the 18th century, you embark on a swashbuckling adventure led by a sexy pirate captain. But will you ever make it home?\n\nNEW CHAPTERS EACH WEEK\nOPEN HEART: It's a whole new year at Edenbrook Hospital! Are you ready to impress Dr. Ramsey's diagnostics team and meet your very own intern?\n\nBABY BUMP: You've just moved to a small town, when you get some unexpected news...\n\nBLADES OF LIGHT AND SHADOW: Create your character and rally your party in this truly epic adventure! \n\nBLOODBOUND III: You awaken cold, trapped, alone... and forever changed.\n\nTHE ROYAL HEIR, BOOK 2:  It's the night of the Last Apple Ball... and you've just gone into labor!\n\nHIGH SCHOOL STORY: CLASS ACT, BOOK 3: The spring musical is your ticket to the school trip of a lifetime... if you can land a part!"
-    },
-    {
-      "name":"Wordscapes",
-      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFLfvoHxs65emJrut5verAbxo5ngBcHvwQ5esALxoYqMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9C3ySjewzPMtiPvE5iJv",
-      "num":"Games",
-      "description":"最新版本:  1.7.0\n更新时间:  2020-04-01 20:45:19 (北京时间)\n\n◆ New feature: Teams! Join a Team to chat with other players and compete against other Teams in Weekend Team Tournaments!\n◆ Bug fixes and improvements"
-    },
-    {
-      "name":"Township",
-      "url":"https://www.maiyewang.com/index-get.php?url=qp9eKt5GZvK9vv650DRr0tYCMEnjtuxfMDbHvyV5KBIntohrMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=9eewH9MtUj2m5CKv",
-      "num":"Games",
-      "description":"最新版本:  7.4.1\n更新时间:  2020-04-07 20:01:48 (北京时间)\n\nSpring holidays and a new office for the mayor\nINTRODUCING HAMMER TIME\n* The mayor's office needs to be renovated! Let's get down to business on April 23.\n* Guide a van to a furniture warehouse to win tickets.\n* Use these tickets to restore your office at the Town Hall.\n* Choose the best design out of three options.\n* Get valuable rewards as you renovate the office.\n* Finish renovating the office to keep it after the event is over.\nEVENTS AND TOURNAMENTS\n* Help Susie look for bunnies in the Easter Park and win amazing prizes! The event starts on April 11.\n* Mayors' tournaments: Mine Time starts on April 18, Advanced Agriculture on May 1.\n* Catch a wave in the Pirate Treasure regatta season and get ready for a trip to the Age of Knights starting on April 28.\n* Professor Verne is back with new experiments on May 6. Don't miss new skins for your plane and airport, as well as other unique rewards!\n* The Color Splash event will open again on May 7. Beat levels to earn prizes!\nALSO\n* Don't miss the Ore Galore special offer on April 18 and Happy Times on May 2!\n* Meet the new town resident: fearless actor Donnie Kepp!\n* Enjoy 2 new town expansions."
+      "description":"最新版本:  1.61.0\n更新时间:  2020-04-15 17:28:14 (北京时间)\n\n- 75 amazing new levels!\n- The Lucky Wheel is now available in the Masters League!\n- Various improvements and bug fixes.\n- Happy harvesting!"
     },
     {
       "name":"8 Ball Pool™",
@@ -501,16 +471,34 @@
       "description":"最新版本:  4.8.4\n更新时间:  2020-04-02 01:16:36 (北京时间)\n\nIt is time for a new 8 Ball Pool update!\nWe’ve worked on a number of quality of life improvements and new features, such as a Fine Tune Ruler you can turn on to precisely aim your shots, and faster Lucky Shot and Box animations.\nAlongside that we’ve also solved a number o pesky bugs! \nDownload the latest update now to get your hands on new content! Time to hit the tables!\nBug fixing, general improvements and new functionalities."
     },
     {
+      "name":"Choices: Stories You Play",
+      "url":"https://www.maiyewang.com/index-get.php?url=WaJEIftou9emrrut41evnntqu10ASjdt1y0rIDxmtrMDSHft6z1vHLxohrMEXK3yS50vHzhAYKLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90tuLHgEhv1zvnJyAjuEJXgBTnMDsntvN9MEJXMtxfMDOjtu",
+      "num":"Games",
+      "description":"最新版本:  2.6.9\n更新时间:  2020-03-10 04:35:44 (北京时间)\n\nPREMIERING THIS UPDATE\nWITNESS: A BODYGUARD ROMANCE: After witnessing a murder, you're sent to Nantucket with a U.S. Marshal sworn to protect you at all costs... Will you survive the summer without risking your life or your heart?\n\nDISTANT SHORES: When you're swept back to the 18th century, you embark on a swashbuckling adventure led by a sexy pirate captain. But will you ever make it home?\n\nNEW CHAPTERS EACH WEEK\nOPEN HEART: It's a whole new year at Edenbrook Hospital! Are you ready to impress Dr. Ramsey's diagnostics team and meet your very own intern?\n\nBABY BUMP: You've just moved to a small town, when you get some unexpected news...\n\nBLADES OF LIGHT AND SHADOW: Create your character and rally your party in this truly epic adventure! \n\nBLOODBOUND III: You awaken cold, trapped, alone... and forever changed.\n\nTHE ROYAL HEIR, BOOK 2:  It's the night of the Last Apple Ball... and you've just gone into labor!\n\nHIGH SCHOOL STORY: CLASS ACT, BOOK 3: The spring musical is your ticket to the school trip of a lifetime... if you can land a part!"
+    },
+    {
+      "name":"Jackpot Magic Slots™ & Casino",
+      "url":"https://www.maiyewang.com/index-get.php?url=qprrfu2z1mqjtsu1uErPwt3TgrnHxuxfMD40MyW5ewzPwm5ngm5CKy6ftEzbhzxLfDXmez2j0mHPMrTfMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tp3jwDSjZyO5urj1wqP9wrl1YyWKZrIrLq5LfCKDvwoj0qKzNqZeMAg12u",
+      "num":"Games",
+      "description":"最新版本:  12.2.8\n更新时间:  2020-03-24 01:07:18 (北京时间)\n\n•Minor bug fixes.\n•Unlock new treasures in the Bay City Boardwalk season!"
+    },
+    {
+      "name":"Wordscapes",
+      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFLfvoHxs65emJrut5verAbxo5ngBcHvwQ5esALxoYqMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9C3ySjewzPMtiPvE5iJv",
+      "num":"Games",
+      "description":"最新版本:  1.7.0\n更新时间:  2020-04-01 20:45:19 (北京时间)\n\n◆ New feature: Teams! Join a Team to chat with other players and compete against other Teams in Weekend Team Tournaments!\n◆ Bug fixes and improvements"
+    },
+    {
+      "name":"Mafia City: War of Underworld",
+      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFDgvpP3AQ5umvPxt5verAbxodP1CknJyZOewATwnxrgDzjJy0LewzntmtvgmSjtw0v0vH1MrxjMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qprDKy5LJmKLNvhPvDwzusTLZrjLNrYy1zVrvzWWMmrDwrxfwBgDfv",
+      "num":"Games",
+      "description":"最新版本:  1.3.926\n更新时间:  2020-04-11 16:09:26 (北京时间)\n\n【New Content】\n1. Wealth Batlle Event: included a [City Personal Rankings] where players ranked at the top will receive awesome Rewards and [The Massacrist] Title!\n2. Valuable Crate Event: included the [Lv. 6 Storehouse]. \n3. Investment Center:  added new Properties to the [Crew Capabilities] section.\n4. New Leader Appearance: added the [Mr. Rabbit Avatar] that can be obtained via the Mr. Rabbit's Secret Agenda event.\n5. VIP Privileges: added the [Auto-Play] feature that will automatically flip the 1st card in the Lucky Poker game after landing on it (Available at SVIP 5).\n\n【More Content】\n1. New Decorations:\n(1) [Papa Panda Forest Lodge] turf decoration.\n(2) [Centaur Archer] Ops decoration.\n2. New Godfather Monument Achievements:\n(1) Turf Decoration: [Jungle Ruins].\n(2) Crime Ops: [Fusion Samurais].\n(3) Name Tag, Avatar, and Chat Bubble: [New Year].\n(4) Turf Effect: [Deadly Rhythm].\n(5) Columns: [Legend of Legends] and [Mystical Fortunes].\n3. Leader Information: included a ne Rank-Up Crew section that unlocks at Mansion Lv. 15.\n4. New Sounds and Effects.\n\n【Optimization & Adjustments】\n1. Some interfaces and descriptions have been adjusted and improved.\n2. City Tasks Optimization:\n(1) Adjusted the unlocking of the [Yacht] feature to correspond with the completion of the [City of Elites] Task.\n(2) Adjusted some of the Task’s objective progresses.\n3. Decoration Preset Optimization: changing frequency of set decorations can now be edited.\n4. Emoticon Usage optimization: deleting an Emoji will now completely clear an entire emoji character.\n5. Emblem Filter Optimization: when multiple conditions have been selected, the screening results will only show those that meet the chosen criteria(s)."
+    },
+    {
       "name":"Lily’s Garden: Design & Relax",
       "url":"https://www.maiyewang.com/index-get.php?url=qp9eKt5GZvK9vwe5emnr0tZmMEnbtrePfC5muzOH3vALxmPjMBSjZySj1vmvNvhPvEgjJw01ewLnhBhjMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tpbvgA4DLwtjuAkDgnYOfCoHLwfjuApvNvhPvEgjJuN1ewTf0sLv2CSDev",
       "num":"Games",
       "description":"最新版本:  1.59.0\n更新时间:  2020-04-18 00:50:49 (北京时间)\n\nLily is back! Update now to play the new levels!\n\n- Bug fixes and performance improvements"
-    },
-    {
-      "name":"Solitaire TriPeaks Card Game",
-      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKJEoH3Au1uEvPwt1CgrAbxotPfDgjJw0fvBJHMtxXKE0DvwSjewHLNuyXeBkHvyOjfwHnxoYmMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9eLw0zKmsDwuTngAovus6r3vzXMqwfwEszusSPewHHMuyf2C5itv",
-      "num":"Games",
-      "description":"最新版本:  6.7.0\n更新时间:  2020-03-18 01:53:48 (北京时间)\n\n• Look out for brand new *daily* events!\n• Aye, with St. Paddy’s around the corner, keep yer eyes out for the “Lofty Leprechaun” event!\n• And with Easter soon following - look for the Easter “Eggs”travaganza event as well!\n• YEEHAW! Put on your cowboy hat! You’ll be savin’ more Mini-Tikis! in our next Seasonal Event - with a western twist!\n• Aaaaah…paradise calls, as will a brand new island!\n• Bug fixes: we make ‘em, you find ‘em, we smash ‘em! If you find one, let us know so we can look into it!"
     },
     {
       "name":"The Seven Deadly Sins",
@@ -525,10 +513,16 @@
       "description":"最新版本:  1.4\n更新时间:  2020-03-19 01:05:41 (北京时间)\n\n• Bug fixes and improvements"
     },
     {
-      "name":"Mafia City: War of Underworld",
-      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFDgvpP3AQ5umvPxt5verAbxodP1CknJyZOewATwnxrgDzjJy0LewzntmtvgmSjtw0v0vH1MrxjMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qprDKy5LJmKLNvhPvDwzusTLZrjLNrYy1zVrvzWWMmrDwrxfwBgDfv",
+      "name":"AFK Arena",
+      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKJAnPxuu5uErrLtZ0evnTgBYWeA1CLw5z0vmjNwxLLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=OvZvALNrfLetAvvu",
       "num":"Games",
-      "description":"最新版本:  1.3.926\n更新时间:  2020-04-11 16:09:26 (北京时间)\n\n【New Content】\n1. Wealth Batlle Event: included a [City Personal Rankings] where players ranked at the top will receive awesome Rewards and [The Massacrist] Title!\n2. Valuable Crate Event: included the [Lv. 6 Storehouse]. \n3. Investment Center:  added new Properties to the [Crew Capabilities] section.\n4. New Leader Appearance: added the [Mr. Rabbit Avatar] that can be obtained via the Mr. Rabbit's Secret Agenda event.\n5. VIP Privileges: added the [Auto-Play] feature that will automatically flip the 1st card in the Lucky Poker game after landing on it (Available at SVIP 5).\n\n【More Content】\n1. New Decorations:\n(1) [Papa Panda Forest Lodge] turf decoration.\n(2) [Centaur Archer] Ops decoration.\n2. New Godfather Monument Achievements:\n(1) Turf Decoration: [Jungle Ruins].\n(2) Crime Ops: [Fusion Samurais].\n(3) Name Tag, Avatar, and Chat Bubble: [New Year].\n(4) Turf Effect: [Deadly Rhythm].\n(5) Columns: [Legend of Legends] and [Mystical Fortunes].\n3. Leader Information: included a ne Rank-Up Crew section that unlocks at Mansion Lv. 15.\n4. New Sounds and Effects.\n\n【Optimization & Adjustments】\n1. Some interfaces and descriptions have been adjusted and improved.\n2. City Tasks Optimization:\n(1) Adjusted the unlocking of the [Yacht] feature to correspond with the completion of the [City of Elites] Task.\n(2) Adjusted some of the Task’s objective progresses.\n3. Decoration Preset Optimization: changing frequency of set decorations can now be edited.\n4. Emoticon Usage optimization: deleting an Emoji will now completely clear an entire emoji character.\n5. Emblem Filter Optimization: when multiple conditions have been selected, the screening results will only show those that meet the chosen criteria(s)."
+      "description":"最新版本:  1.36.04\n更新时间:  2020-04-09 14:49:48 (北京时间)\n\n1. The Licensed SNK hero -Wandering Swordman Ukyo Tachibana has joined the Dimensional faction!\n2. Our new and exciting events are awaiting you!"
+    },
+    {
+      "name":"Township",
+      "url":"https://www.maiyewang.com/index-get.php?url=qp9eKt5GZvK9vv650DRr0tYCMEnjtuxfMDbHvyV5KBIntohrMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=9eewH9MtUj2m5CKv",
+      "num":"Games",
+      "description":"最新版本:  7.4.1\n更新时间:  2020-04-07 20:01:48 (北京时间)\n\nSpring holidays and a new office for the mayor\nINTRODUCING HAMMER TIME\n* The mayor's office needs to be renovated! Let's get down to business on April 23.\n* Guide a van to a furniture warehouse to win tickets.\n* Use these tickets to restore your office at the Town Hall.\n* Choose the best design out of three options.\n* Get valuable rewards as you renovate the office.\n* Finish renovating the office to keep it after the event is over.\nEVENTS AND TOURNAMENTS\n* Help Susie look for bunnies in the Easter Park and win amazing prizes! The event starts on April 11.\n* Mayors' tournaments: Mine Time starts on April 18, Advanced Agriculture on May 1.\n* Catch a wave in the Pirate Treasure regatta season and get ready for a trip to the Age of Knights starting on April 28.\n* Professor Verne is back with new experiments on May 6. Don't miss new skins for your plane and airport, as well as other unique rewards!\n* The Color Splash event will open again on May 7. Beat levels to earn prizes!\nALSO\n* Don't miss the Ore Galore special offer on April 18 and Happy Times on May 2!\n* Meet the new town resident: fearless actor Donnie Kepp!\n* Enjoy 2 new town expansions."
     },
     {
       "name":"Facebook",
@@ -537,46 +531,10 @@
       "description":"最新版本:  266.0\n更新时间:  2020-04-17 00:09:05 (北京时间)\n\nWe update the app regularly so we can make it better for you. Get the latest version for all of the available Facebook features. This version includes several bug fixes and performance improvements."
     },
     {
-      "name":"AFK Arena",
-      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKJAnPxuu5uErrLtZ0evnTgBYWeA1CLw5z0vmjNwxLLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=OvZvALNrfLetAvvu",
-      "num":"Games",
-      "description":"最新版本:  1.36.04\n更新时间:  2020-04-09 14:49:48 (北京时间)\n\n1. The Licensed SNK hero -Wandering Swordman Ukyo Tachibana has joined the Dimensional faction!\n2. Our new and exciting events are awaiting you!"
-    },
-    {
-      "name":"Best Fiends - Puzzle Adventure",
-      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKdrpHxw61eEbr0tYCgrAbxotPvEwHez1zvBKTMrxXeB41wz2yfsJrxtiPvDwDvyTfZqKPNvTLLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=aBkHfzWuZvAjJuxf1zvDKy2ahwKfLqtX0znHKw1z1vHDKqdrMEw1wu",
-      "num":"Games",
-      "description":"最新版本:  7.9.0\n更新时间:  2020-04-02 23:55:29 (北京时间)\n\nTHE EPIC EASTER EGG HUNT IS ON!\n-Join the hunt and collect Chocolate Eggs across 30 Challenges!\n-Complete 30 Challenges and earn the delicious-looking Chocolate Rascal!\n\nIT’S TIME TO HIT THE OPEN ROAD!\n-Drive cross-country with Trucker Dougie to deliver his shipment of Meteormites!\n-Finish all the tasks and Trucker Dougie will join your team forever! Honk, honk!\n\nDON’T BE LATE TO THE TEA PARTY!\n-Help Hatter Bam find all the items he needs in order to host his tea party!\n-Find every hidden item to win fiend-tastic prizes, including FREE GOLD!\n\nNOW 30 NEW LEVELS A WEEK!\n-Explore the all new Royal Ponds with 10 NEW levels every Saturday, Sunday, and NOW FRIDAY, too!"
-    },
-    {
-      "name":"STARZ",
-      "url":"https://www.maiyewang.com/index-get.php?url=90tqoLdoxr2xzr1t3vKAnLxqu5umrDvy29MBJHMuZmMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0ZBSvLqsftv",
-      "num":"Entertainment",
-      "description":"最新版本:  4.3.1\n更新时间:  2020-04-16 03:34:25 (北京时间)\n\nBug fixes and feature enhancements."
-    },
-    {
-      "name":"Smule - The Social Singing App",
-      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKdrnHxv61unRr1t3vfrAbxodn2DgDftUvZvH5wnxfMEXmKyOXMmzzNtyXeBODez0v1rIftmYmMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=WDcHvuNnwBIbhzTjgCozusZz0vHPwoYu1zvDuyvj0umDwvhjwmXitv",
-      "num":"Music",
-      "description":"最新版本:  8.3.9\n更新时间:  2020-04-17 00:56:59 (北京时间)\n\nLots of under-the-hood improvements and bug fixes."
-    },
-    {
       "name":"Huuuge Casino Slots Vegas 777",
       "url":"https://www.maiyewang.com/index-get.php?url=0tuubLDwndu61evoLxw61enjrut4f1vHz3y650mWK3yOr2vAjtm5ngm5CKy6ftEIvhBYmgAoDftSr2vKfJvifMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qpJPNtZeuEJHgzxP1vcL3yWKZrIrLq5jwDSjZyO5urjXgzxrwmwH0u",
       "num":"Games",
       "description":"最新版本:  5.2.1801\n更新时间:  2020-03-27 17:36:45 (北京时间)\n\nHey, Spinners!\nWe've got a new update for Huuuge Casino. Read the below to see what changes you can expect!\nAs always, we're constantly working to improve the game experience for you. We've added minor tweaks and other bug fixes so you can feel even right at home while spinning!\nSee you at the Casino! Enjoy spinning and win big!\nLet's play together and #StayHuuuge!"
-    },
-    {
-      "name":"TIDAL Music",
-      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFvLEoLxte5unnrvt1e1vHzxtxfMEwHLy0D3vzTgBhrMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qpnDvy6zfwuD2DvfvrSvKv",
-      "num":"Music",
-      "description":"最新版本:  2.9.1\n更新时间:  2020-03-27 23:08:06 (北京时间)\n\nMinor bugfixes."
-    },
-    {
-      "name":"Final Fantasy XV: A New Empire",
-      "url":"https://www.maiyewang.com/index-get.php?url=0tuubLDwndu41KAnbZAu9KmNrvt4f1vHzxvTngCcHLySftEKXwnxXeAXKgz0eZuLPNrhrwDg1Mw0D3vzvhBTPLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=aBkHvy3fZvsD2yyP1tcnvuN9MAwLLqtvMEgDez1zuBsD2DxLvDS1Mu",
-      "num":"Games",
-      "description":"最新版本:  5.0.12.179\n更新时间:  2019-11-22 03:04:27 (北京时间)\n\nStep into Final Fantasy XV: A New Empire and experience the magic! Storm Eos with all of your favorite heroes, villains, and companions! Hunt Monsters, protect your Empire, build your forces, and Rule the Realm! LOG IN NOW to see the LATEST UPDATES!\n\n* Battle against other Guilds & Realms, or fight for control of the Crystal!\n* Slay more powerful monsters for amazing Loot!\n* Unlock unique, specialized Troops!\n* Participate in awesome NEW Events!\n* Earn improved Titles!\n* And More!"
     },
     {
       "name":"my KONAMI - Real Vegas Slots",
@@ -585,10 +543,28 @@
       "description":"最新版本:  1.46.0\n更新时间:  2020-04-17 02:09:07 (北京时间)\n\nHi myKONAMI Fans! It's time for another update!\n\nSince \"In Is the New Out\", we've tried to make your playtime even more enjoyable by adding more fun improvements and squashing bugs! We also have two new KONAMI inspired slots for you to enjoy!\n\nWe hope you are staying safe and heathy!"
     },
     {
-      "name":"Crunchyroll",
-      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFffvobttu1unRPwt6f1vHz3DhjMDkHvzV5uBIfJsZKLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp3DKy2PewL9MtTjwmkntu",
+      "name":"Best Fiends - Puzzle Adventure",
+      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKdrpHxw61eEbr0tYCgrAbxotPvEwHez1zvBKTMrxXeB41wz2yfsJrxtiPvDwDvyTfZqKPNvTLLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=aBkHfzWuZvAjJuxf1zvDKy2ahwKfLqtX0znHKw1z1vHDKqdrMEw1wu",
+      "num":"Games",
+      "description":"最新版本:  7.9.0\n更新时间:  2020-04-02 23:55:29 (北京时间)\n\nTHE EPIC EASTER EGG HUNT IS ON!\n-Join the hunt and collect Chocolate Eggs across 30 Challenges!\n-Complete 30 Challenges and earn the delicious-looking Chocolate Rascal!\n\nIT’S TIME TO HIT THE OPEN ROAD!\n-Drive cross-country with Trucker Dougie to deliver his shipment of Meteormites!\n-Finish all the tasks and Trucker Dougie will join your team forever! Honk, honk!\n\nDON’T BE LATE TO THE TEA PARTY!\n-Help Hatter Bam find all the items he needs in order to host his tea party!\n-Find every hidden item to win fiend-tastic prizes, including FREE GOLD!\n\nNOW 30 NEW LEVELS A WEEK!\n-Explore the all new Royal Ponds with 10 NEW levels every Saturday, Sunday, and NOW FRIDAY, too!"
+    },
+    {
+      "name":"Solitaire TriPeaks Card Game",
+      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKJEoH3Au1uEvPwt1CgrAbxotPfDgjJw0fvBJHMtxXKE0DvwSjewHLNuyXeBkHvyOjfwHnxoYmMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9eLw0zKmsDwuTngAovus6r3vzXMqwfwEszusSPewHHMuyf2C5itv",
+      "num":"Games",
+      "description":"最新版本:  6.7.0\n更新时间:  2020-03-18 01:53:48 (北京时间)\n\n• Look out for brand new *daily* events!\n• Aye, with St. Paddy’s around the corner, keep yer eyes out for the “Lofty Leprechaun” event!\n• And with Easter soon following - look for the Easter “Eggs”travaganza event as well!\n• YEEHAW! Put on your cowboy hat! You’ll be savin’ more Mini-Tikis! in our next Seasonal Event - with a western twist!\n• Aaaaah…paradise calls, as will a brand new island!\n• Bug fixes: we make ‘em, you find ‘em, we smash ‘em! If you find one, let us know so we can look into it!"
+    },
+    {
+      "name":"TIDAL Music",
+      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFvLEoLxte5unnrvt1e1vHzxtxfMEwHLy0D3vzTgBhrMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qpnDvy6zfwuD2DvfvrSvKv",
+      "num":"Music",
+      "description":"最新版本:  2.9.1\n更新时间:  2020-03-27 23:08:06 (北京时间)\n\nMinor bugfixes."
+    },
+    {
+      "name":"STARZ",
+      "url":"https://www.maiyewang.com/index-get.php?url=90tqoLdoxr2xzr1t3vKAnLxqu5umrDvy29MBJHMuZmMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0ZBSvLqsftv",
       "num":"Entertainment",
-      "description":"最新版本:  3.6.1\n更新时间:  2020-01-04 03:20:11 (北京时间)\n\nBug fixes"
+      "description":"最新版本:  4.3.1\n更新时间:  2020-04-16 03:34:25 (北京时间)\n\nBug fixes and feature enhancements."
     },
     {
       "name":"Caesars® Casino: Vegas Slots",
@@ -597,10 +573,34 @@
       "description":"最新版本:  3.51\n更新时间:  2020-04-18 02:06:18 (北京时间)\n\nAt Caesars the Reel fun is being able to Play Apart Together!\nDownload the latest version to benefit from all the new improvements and bug fixes\nStay safe!"
     },
     {
-      "name":"Star Trek Fleet Command",
-      "url":"https://www.maiyewang.com/index-get.php?url=9efvqzNvZafmzPwtWeLEontse5eErDvy2fvBIHwmxjMDoDftWy1vAnNwxXKCw12yWetAJHMuZmMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tuTjgAXCLy25urjbJvxP1CAvusYzvBJvLqPngAsntv",
+      "name":"Smule - The Social Singing App",
+      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKdrnHxv61unRr1t3vfrAbxodn2DgDftUvZvH5wnxfMEXmKyOXMmzzNtyXeBODez0v1rIftmYmMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=WDcHvuNnwBIbhzTjgCozusZz0vHPwoYu1zvDuyvj0umDwvhjwmXitv",
+      "num":"Music",
+      "description":"最新版本:  8.3.9\n更新时间:  2020-04-17 00:56:59 (北京时间)\n\nLots of under-the-hood improvements and bug fixes."
+    },
+    {
+      "name":"Final Fantasy XV: A New Empire",
+      "url":"https://www.maiyewang.com/index-get.php?url=0tuubLDwndu41KAnbZAu9KmNrvt4f1vHzxvTngCcHLySftEKXwnxXeAXKgz0eZuLPNrhrwDg1Mw0D3vzvhBTPLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=aBkHvy3fZvsD2yyP1tcnvuN9MAwLLqtvMEgDez1zuBsD2DxLvDS1Mu",
       "num":"Games",
-      "description":"最新版本:  9.5.0\n更新时间:  2020-04-07 22:37:36 (北京时间)\n\n- Event scrolling is now much easier and better to use! All events are grouped in a way that is easier to scroll through and understand.\n- All buttons have been improved."
+      "description":"最新版本:  5.0.12.179\n更新时间:  2019-11-22 03:04:27 (北京时间)\n\nStep into Final Fantasy XV: A New Empire and experience the magic! Storm Eos with all of your favorite heroes, villains, and companions! Hunt Monsters, protect your Empire, build your forces, and Rule the Realm! LOG IN NOW to see the LATEST UPDATES!\n\n* Battle against other Guilds & Realms, or fight for control of the Crystal!\n* Slay more powerful monsters for amazing Loot!\n* Unlock unique, specialized Troops!\n* Participate in awesome NEW Events!\n* Earn improved Titles!\n* And More!"
+    },
+    {
+      "name":"Harry Potter: Hogwarts Mystery",
+      "url":"https://www.maiyewang.com/index-get.php?url=0tuubLDwnduYuKEojtvQ1KEnPxt4f1vHz3AUngBsnZy1eZvmPNuUngAKnJw2H2vmLNvhrgm5C0y0TMBJLNrhfMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qnkHLwW4ewL5Kq5ngmkHvwZqMmILKqP9uEwDezWKZrvD2AUnwEgD0u",
+      "num":"Games",
+      "description":"最新版本:  2.6.1\n更新时间:  2020-04-16 22:21:43 (北京时间)\n\n- Calling all Curse Breakers! Bill Weasley has returned to Hogwarts and needs your help!\n- Team up with Bill, Charlie and your friends to complete a special mission for Gringotts Bank!\n- The Quidditch Season continues! Are you on your way to becoming a top Beater?"
+    },
+    {
+      "name":"ESPN: Live Sports & Scores",
+      "url":"https://www.maiyewang.com/index-get.php?url=90tqoLdoxr2xrr0t4TMAobZyu1KErDvy21ewALxoYKLEXK3yWO0mIDNtyXeBAHvyZftAIDNtyPLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90ewALxoYKfvcLMsN1esKLxohngvcnLwYW2ruD2BQrvuozLu",
+      "num":"Sports",
+      "description":"最新版本:  6.20\n更新时间:  2020-04-17 22:54:29 (北京时间)\n\n[+] Bug fixes and optimizations."
+    },
+    {
+      "name":"Zynga Poker - Texas Holdem",
+      "url":"https://www.maiyewang.com/index-get.php?url=9efvqzNvZavmfPxt5fevpbtv610ASjdt0z1rAnxohfgDnHvw0y1rKrxsyPLC5C0y0vKmAvhBUvMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=9aZvATgEYiwscL3yOHgwAvLqtX0zjHLwYLZrvDwrYOvDS52v",
+      "num":"Games",
+      "description":"最新版本:  21.91\n更新时间:  2020-04-16 03:30:13 (北京时间)\n\n﻿More Rewards, More Challenges, More FREE CHIPS!  Play in all new challenges to earn tons and tons of free chips!"
     }
   ]
 }
