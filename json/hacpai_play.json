@@ -1,7 +1,11 @@
 {
   "title":"黑客派-好玩",
-  "time":"2020-04-26 11:10:03",
+  "time":"2020-04-26 11:20:02",
   "data":[
+    {
+      "name":"发布 1.0.0 版本：Golang 用于 Gin 和 net/http 的 gzip 中间件",
+      "url":"https://www.maiyewang.com/index-get.php?url=0tpb50Dvr1t4ngvpjZz65envrvt2v1rIPgBhrwEgjdt0LJmzv3AxL1DoDvwVLtEmzttingmsHuy&group=hacpai_play&title=9K1n1Tgv3WgCZSuDRr0qJbhCZO1zr9wBUr0qJbJuifMDrHLw1j0qQn1vpLuDSjJuNrZB1TMAlXMBeLNw1z0rIzhzR1goT8KCJf2tPPuzpL0D0mut1verjruAIvJuTKvn"
+    },
     {
       "name":"你听过多少种版本的《笑傲江湖》？",
       "url":"https://www.maiyewang.com/index-get.php?url=0tp310mjrKtYmMEojZz65envrvt2v1rIPgBhrwEgjdt0LJmzv3AxL1DoDvwVLtEmzttingmsHuy&group=hacpai_play&title=Gz5DZnmnen0CvBYvJzhjxn5Tuw1ivE2uZsdrdnffxn1mxEWvtsTrtnovMn1i1qIvtytfwni1ct2m3qAvZzYWun"
@@ -193,10 +197,6 @@
     {
       "name":"20200306 TGIF",
       "url":"https://www.maiyewang.com/index-get.php?url=0tpr9emJrut5vfrpftu61envrvt2v1rIPgBhrwEgjdt0LJmzv3AxL1DoDvwVLtEmzttingmsHuy&group=hacpai_play&title=0tpNjLsKvKvNLfrnPxqe1uEbPwt"
-    },
-    {
-      "name":"技术讨论为核心功能的网站程序发布了第一个版本",
-      "url":"https://www.maiyewang.com/index-get.php?url=0tp35uEzr0t4ngrpLxu61envrvt2v1rIPgBhrwEgjdt0LJmzv3AxL1DoDvwVLtEmzttingmsHuy&group=hacpai_play&title=WC5bxnj1gn1exAmvtqPXunZLNn1CuCmvdrPjwns1sw1avCIvdtPztnAvNn1iLm3utrXvtn58us2ywCzvdrTiwn0muC1ytAmvJn2SKnVzZs2yxEWvtqX9wn"
     },
     {
       "name":"开发者福利：免费获取 JetBrains 全家桶",
