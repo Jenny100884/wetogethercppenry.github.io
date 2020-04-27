@@ -1,6 +1,6 @@
 {
   "title":"AppStore付费排行榜(国区)",
-  "time":"2020-04-27 16:50:04",
+  "time":"2020-04-27 17:00:02",
   "data":[
     {
       "name":"Agent A - 伪装游戏",
@@ -264,7 +264,7 @@
       "name":"零下记忆：离玥传-Zero Memory",
       "url":"https://www.maiyewang.com/index-get.php?url=90tqoLdoxr2xnr0t6fLEoLxre5emfrKwWLZuLLxoxjgBXCft2PewAztmd1KqwLxudz1qozKvt5KqwnLu0uvEozKvPf1qwLMtczvEozKvtXKmNrLshPuvkftvvP0DjvLsgzuvkrtvvP0qOrLs0KuvkbtvvPKmjvLsdXgvkvtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=1O0mIrNvxr1z402ySbNvmDwEmvdB2qtn3eMn1ewE3CZrTiwn3zZs2WuAmvJm1PLn",
       "num":"游戏",
-      "description":"最新版本:  2.1.3\n更新时间:  2020-04-09 10:30:35 (北京时间)\n\n修复 辩驳追问选了答案隐藏了选项的情况下超时失败重玩导致顶部的答案标识不对\n修复 自动播放状态下遇到睁眼效果还没显示完 内容在播放下去\n修复 设置主角名字或者设置存档名字时候拼音输入法被限制长度\n修复 存档截图没显示黑白屏状态，文字位置异常\n优化 属性和图鉴主角的名字，没设置名字前显示\"我\",设置名字之后显示设置的名字\n\n优化 自动播放状态下配音播放完毕才显示下一条内容\n优化 黑白屏的情况下再次点击马上显示全部文字\n优化 回到主界面时候的资源回收\n优化 部分UI和效果\n优化 豪普推理：玩家如果选了三个选项，左上角会有个提示说选多\n优化  精神过低导致无限重读的问题"
+      "description":"最新版本:  2.1.5\n更新时间:  2020-04-27 09:43:26 (北京时间)\n\n1、修复配音和BGM音量问题；\n2、优化各种小体验；"
     },
     {
       "name":"华尔街见闻（专业版）-全球财经新闻精选",
