@@ -1,12 +1,12 @@
 {
   "title":"AppStore免费排行榜(美区)",
-  "time":"2020-04-30 13:30:02",
+  "time":"2020-04-30 13:40:03",
   "data":[
     {
       "name":"ZOOM Cloud Meetings",
       "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKJEoDxtu50DvPMtWufrAbxo5nMB1CvyWy1vArxmdPvm5CKyQfZuIzxoTvMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9C3yUvZvHbJvxPLtcnKwXKZrIrKqtrfu5S2v",
       "num":"Business",
-      "description":"最新版本:  5.0.0\n更新时间:  2020-04-29 20:49:27 (北京时间)\n\nChanges to Existing Features:\n- Private chat is only enabled for contacts. To chat privately outside of your Zoom account or organization, participants must be manually added to contacts. \n- Meeting host must designate a new host from the attendee list when leaving a meeting. New host will have access to advanced security features.\n- Clickable links have been re-enabled in meeting chat\n- Copied URL will not include password if the web setting Embed password in meeting link for one-click join is disabled\n- Enable the setting Blur snapshot on iOS task switcher\n\nNew and Enhanced Features:\nAES 256-bit GCM encryption. Zoom is upgrading to the AES 256-bit GCM encryption standard, which offers increased protection of your meeting data in transit and resistance against tampering. This provides confidentiality and integrity assurances on your Zoom Meeting, Zoom Video Webinar, and Zoom Phone data. This version of the Zoom client will support GCM encryption when it is automatically enabled for all accounts on May 30. \n\nNew and Enhanced Meeting Features:\n- Report a participant during a meeting using report functionality in the “Participant” toolbar\n- Show the connected data center in the meeting information menu under “Zoom”\n- Select data center regions when scheduling a meeting in meeting options\n\nNew and Enhanced Chat Features:\n- Indication of an external user to prevent the sharing of private information with external users\n\nNew and Enhanced Phone Features:\n- Enhanced encryption for Zoom Phone. Zoom Phone SIP signaling communications from client to server occur over TLS v1.2 with AES-256 bit encryption. Zoom Phone call media is transported and protected by SRTP with AES-256 bit encryption for latest Zoom clients, and with AES-128 bit encryption for SIP devices.\n\nResolved Issues:\n- Minor bug fixes"
+      "description":"最新版本:  4.6.12\n更新时间:  2020-04-21 10:55:41 (北京时间)\n\n- Bug fixes"
     },
     {
       "name":"TikTok - Make Your Day",
@@ -21,16 +21,16 @@
       "description":"最新版本:  1.0.24\n更新时间:  2020-04-01 03:30:51 (北京时间)\n\n- Game performance improved in MYSTERY levels."
     },
     {
-      "name":"ASMR Slicing",
-      "url":"https://www.maiyewang.com/index-get.php?url=adm6jwm5qKtXKerpftue5unrrvtRXMmm5wnxfMASDKy6ftAJrNtyLLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=GB1CvyQX2rIrLqPvLtozvu",
-      "num":"Games",
-      "description":"最新版本:  1.2.1\n更新时间:  2020-04-29 17:20:49 (北京时间)\n\nBugs fixes for undisturbed hours of fun"
-    },
-    {
       "name":"YouTube: Watch, Listen, Stream",
       "url":"https://www.maiyewang.com/index-get.php?url=qprrfu2z1mqbtwQ50mbrutWefvoTgBYWeDgDLw5j1mJrhnxPfmoHvyZfZqHPMuyL1mXmLwPzfsKftoxvMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=aDgDLw5j1mvD2DPjgBsnZyWHxrjn3zYKfmgjJvN9gvALMvizvm5C1v",
       "num":"Photo & Video",
       "description":"最新版本:  15.17\n更新时间:  2020-04-27 07:03:35 (北京时间)\n\nBug fixes, stability improvements, repairs to time-space continuum, etc. etc."
+    },
+    {
+      "name":"ASMR Slicing",
+      "url":"https://www.maiyewang.com/index-get.php?url=adm6jwm5qKtXKerpftue5unrrvtRXMmm5wnxfMASDKy6ftAJrNtyLLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=GB1CvyQX2rIrLqPvLtozvu",
+      "num":"Games",
+      "description":"最新版本:  1.2.1\n更新时间:  2020-04-29 17:20:49 (北京时间)\n\nBugs fixes for undisturbed hours of fun"
     },
     {
       "name":"Instagram",
@@ -105,16 +105,16 @@
       "description":"最新版本:  3.2.3\n更新时间:  2020-04-29 01:54:16 (北京时间)\n\nMinor updates and performance improvements"
     },
     {
-      "name":"Words With Friends 2 Word Game",
-      "url":"https://www.maiyewang.com/index-get.php?url=adm6jwm5ONtY0erojZyQ5unfrvtRXMmmXwmxLLBXmKw5LJmKrxsuXKEs1MySXwBJ1wmdfgmSjdz01esALxoYqMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=aBXCvwij0qALxoYy1zjrus6jvBIXgBTn2rcnuyWWMmwDwtiPvE5iJv",
-      "num":"Games",
-      "description":"最新版本:  14.42.5\n更新时间:  2020-04-27 22:10:27 (北京时间)\n\n﻿Words With Friends has joined with mobile games across the industry to promote #PlayApartTogether - a campaign supporting #PhysicalDistancing through gameplay encouraging World Health Organization guidelines. \n\nYou can 'Play A Part' simply by enjoying your favorite game and connecting with friends and family through fun word play.\n\nNEW MINI GAME - Word Wheel\nA word search meets crosswords mini puzzler to challenge and relax your mind. Don't believe us? Take it for a spin."
-    },
-    {
       "name":"Houseparty",
       "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFTMAontre90mvPMt3verAbxotvgmkHvw3zLmJftohfMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9evzWOewzDNvYmwm5C0u",
       "num":"Social Networking",
       "description":"最新版本:  1.41.1\n更新时间:  2020-04-19 01:38:00 (北京时间)\n\nHello. Bonjour. Hola. Ciao. Welcome to the (translated) Houseparty."
+    },
+    {
+      "name":"Words With Friends 2 Word Game",
+      "url":"https://www.maiyewang.com/index-get.php?url=adm6jwm5ONtY0erojZyQ5unfrvtRXMmmXwmxLLBXmKw5LJmKrxsuXKEs1MySXwBJ1wmdfgmSjdz01esALxoYqMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=aBXCvwij0qALxoYy1zjrus6jvBIXgBTn2rcnuyWWMmwDwtiPvE5iJv",
+      "num":"Games",
+      "description":"最新版本:  14.42.5\n更新时间:  2020-04-27 22:10:27 (北京时间)\n\n﻿Words With Friends has joined with mobile games across the industry to promote #PlayApartTogether - a campaign supporting #PhysicalDistancing through gameplay encouraging World Health Organization guidelines. \n\nYou can 'Play A Part' simply by enjoying your favorite game and connecting with friends and family through fun word play.\n\nNEW MINI GAME - Word Wheel\nA word search meets crosswords mini puzzler to challenge and relax your mind. Don't believe us? Take it for a spin."
     },
     {
       "name":"Bake it",
@@ -135,16 +135,16 @@
       "description":"最新版本:  3.5.80\n更新时间:  2020-04-27 16:04:34 (北京时间)\n\nThanks for playing Coin Master!\n\nIn this version, we’ve implemented updates to improve your overall experience.\n\nEnjoy a world of fun, thrills, and huge rewards right at your fingertips. Be sure your game is up to date so you can truly experience all there is to offer. \n\nInvite your friends to play Coin Master & get your FREE REWARDS! We also recommend joining our community on Facebook, Twitter, and Instagram for more fun & excitement.\n\nEnjoying Coin Master? Leave a review :)"
     },
     {
-      "name":"Wish - Shopping Made Fun",
-      "url":"https://www.maiyewang.com/index-get.php?url=adm6jwm5qLt10evnLxwe1KEvrKwWLtAIfJwxXeBsDvw0ftEAvhBhn2D5Cuy6fZqHPhBYqMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=uNvUj1zvDKwOftrj5wnxf2DcnJyV5KrjrxqdfMESjJv",
-      "num":"Shopping",
-      "description":"最新版本:  4.27.0\n更新时间:  2020-04-09 00:29:39 (北京时间)\n\nThank you for using Wish!\nNew in this version\n- Redesigned product details screen\n- Bug fixes and performances improvement on the main product feed"
-    },
-    {
       "name":"Touchdown Glory 2020",
       "url":"https://www.maiyewang.com/index-get.php?url=0tuubLDwnduXeernftte1enbrLt4f1vHzxqQ10Djrft1O0mInhzxXuDKnJyRHMmzftohrMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qpbPwt3LerjvJsZi2CKvus1r2mITgAYKvm5CKv",
       "num":"Games",
       "description":"最新版本:  1.0.6\n更新时间:  2020-04-29 05:30:10 (北京时间)\n\n-No Ads\n-New Formations\n-Performance Upgrade"
+    },
+    {
+      "name":"Wish - Shopping Made Fun",
+      "url":"https://www.maiyewang.com/index-get.php?url=adm6jwm5qLt10evnLxwe1KEvrKwWLtAIfJwxXeBsDvw0ftEAvhBhn2D5Cuy6fZqHPhBYqMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=uNvUj1zvDKwOftrj5wnxf2DcnJyV5KrjrxqdfMESjJv",
+      "num":"Shopping",
+      "description":"最新版本:  4.27.0\n更新时间:  2020-04-09 00:29:39 (北京时间)\n\nThank you for using Wish!\nNew in this version\n- Redesigned product details screen\n- Bug fixes and performances improvement on the main product feed"
     },
     {
       "name":"PayPal: Mobile Cash",
@@ -159,10 +159,10 @@
       "description":"最新版本:  8.5.55\n更新时间:  2020-04-24 20:50:49 (北京时间)\n\nWe’re always making changes and improvements to Spotify. To make sure you don’t miss a thing, just keep your Updates turned on.\n\nBug fixes and improvements in this version include:\n- Fixed stability issues"
     },
     {
-      "name":"Twitter",
-      "url":"https://www.maiyewang.com/index-get.php?url=WaJEIftou10mjPxt3TMEnPxtePfC5K2ySjfsKbhzirMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90ZzJXMuirgCKHKv",
-      "num":"News",
-      "description":"最新版本:  8.17.1\n更新时间:  2020-04-18 04:42:52 (北京时间)\n\nWe made improvements and squashed bugs so Twitter is even better for you."
+      "name":"Venmo",
+      "url":"https://www.maiyewang.com/index-get.php?url=90tqoLdoxr2xNPwtWmMAnntru5KErDvy2HZvIvNvTrMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0doxjwDw1Mv",
+      "num":"Finance",
+      "description":"最新版本:  7.50.0\n更新时间:  2020-04-29 00:56:50 (北京时间)\n\nWe worked on various improvements and bug fixes"
     },
     {
       "name":"Discord",
@@ -171,16 +171,22 @@
       "description":"最新版本:  19.0\n更新时间:  2020-04-28 01:26:00 (北京时间)\n\nWe’ve been hard at work making Discord better for you. For this version we’ve made a bunch of bug fixes and performance enhancements to make sure everything’s running as smooth as possible."
     },
     {
-      "name":"Venmo",
-      "url":"https://www.maiyewang.com/index-get.php?url=90tqoLdoxr2xNPwtWmMAnntru5KErDvy2HZvIvNvTrMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0doxjwDw1Mv",
-      "num":"Finance",
-      "description":"最新版本:  7.50.0\n更新时间:  2020-04-29 00:56:50 (北京时间)\n\nWe worked on various improvements and bug fixes"
+      "name":"Twitter",
+      "url":"https://www.maiyewang.com/index-get.php?url=WaJEIftou10mjPxt3TMEnPxtePfC5K2ySjfsKbhzirMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90ZzJXMuirgCKHKv",
+      "num":"News",
+      "description":"最新版本:  8.17.1\n更新时间:  2020-04-18 04:42:52 (北京时间)\n\nWe made improvements and squashed bugs so Twitter is even better for you."
     },
     {
       "name":"Call of Duty®: Mobile",
       "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFffvnLxse9uEJr0t5verAbxotP1CS1ww2fZvmvJuyr2AXKMw2fZqInNrYKLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tprP1CS1ww2ftrjzdnXDxnsHfzfjuAAzNqdj2Cgjtu",
       "num":"Games",
       "description":"最新版本:  1.0.12\n更新时间:  2020-04-29 11:45:09 (北京时间)\n\nWelcome to Season 6: ONCE UPON A TIME IN RUST. This is where legends are made. All new characters, weapons, premium and free Battle Pass with 50 tiers of rewards and more. Take on enemies in the new Rust map or 1v1 Duels in the new Saloon map. Play all new modes including Capture the Flag and Kill Confirmed. Season 6, only available on Call Of Duty Mobile. Download Now and Play Free."
+    },
+    {
+      "name":"Google Duo",
+      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFvKEofZzu1unzr1t3verAbxo5jwmsDftSHNmAzxoYOLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9CNyXivrjXgEYOLD5iJu",
+      "num":"Social Networking",
+      "description":"最新版本:  85.0\n更新时间:  2020-04-24 05:56:03 (北京时间)\n\n• Make group video calls with up to 12 people\n• Send video and voice messages, photos and notes to a group\n• Quickly react to video messages with emojis\n• Create personalized notes when you can't call or record a message"
     },
     {
       "name":"Hide 'N Seek!",
@@ -195,28 +201,10 @@
       "description":"最新版本:  8.15\n更新时间:  2020-04-28 07:20:33 (北京时间)\n\nEvery week, we polish up the Pinterest app. This update includes:\n- Bug fixes\n- Performance improvements\n\nTell us if you like this latest version at https://help.pinterest.com/contact"
     },
     {
-      "name":"Google Duo",
-      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFvKEofZzu1unzr1t3verAbxo5jwmsDftSHNmAzxoYOLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9CNyXivrjXgEYOLD5iJu",
-      "num":"Social Networking",
-      "description":"最新版本:  85.0\n更新时间:  2020-04-24 05:56:03 (北京时间)\n\n• Make group video calls with up to 12 people\n• Send video and voice messages, photos and notes to a group\n• Quickly react to video messages with emojis\n• Create personalized notes when you can't call or record a message"
-    },
-    {
       "name":"WhatsApp Messenger",
       "url":"https://www.maiyewang.com/index-get.php?url=qprrfu2z1mqnZAu9KEnPMt3vKEnTgBYWuEwjJw1zLmJPNvxjgDbH0yO5esKHgAYqMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=5zLmAvNvYmMEwDfvNfesJjKtirgAOjJv",
       "num":"Social Networking",
       "description":"最新版本:  2.20.50\n更新时间:  2020-04-28 01:56:58 (北京时间)\n\n* Group video and voice calls now support up to 8 participants. All participants need to be on the latest version of WhatsApp.\n* Visual improvements for iOS 13 users including updated message action menu."
-    },
-    {
-      "name":"Wayfair – Shop All Things Home",
-      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKdrpD3y65KmJPMt6DgrAbxotPfD5Cuy010mAvhBhfgmXmKyZz0vmDxohfMEXK2yWzuBAvJrYqMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tvxjMDOvus6rwBIbhAhz1z3DKycj0qJzhAYu1znP0zPruAJbNrTPvngjJv",
-      "num":"Shopping",
-      "description":"最新版本:  5.41.2\n更新时间:  2020-04-21 19:02:46 (北京时间)\n\nThank you for updating the Wayfair app! This version has more performance improvements and bug fixes than ever before!"
-    },
-    {
-      "name":"Google Chrome",
-      "url":"https://www.maiyewang.com/index-get.php?url=adm6jwm5Oxt5DMAorZzu5KEvrKwWLZuArxoTn2BoDftSHNmAzxoYOLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tprPfD502yV5urjXgEYOLD5iJu",
-      "num":"Utilities",
-      "description":"最新版本:  81.0.4044.124\n更新时间:  2020-04-22 07:04:51 (北京时间)\n\nThanks for choosing Chrome! This version includes:\n•Fixes for crashes related to bookmarks and security \n•Chrome updated its Terms of Service.  \n•Search suggestions will also include suggestions from the middle of words. "
     },
     {
       "name":"Google Classroom",
@@ -225,10 +213,22 @@
       "description":"最新版本:  2.2020.14404\n更新时间:  2020-04-09 22:13:04 (北京时间)\n\n* We've expanded our supported languages \n* Plus, we've made additional bug fixes and performance improvements"
     },
     {
+      "name":"Google Chrome",
+      "url":"https://www.maiyewang.com/index-get.php?url=adm6jwm5Oxt5DMAorZzu5KEvrKwWLZuArxoTn2BoDftSHNmAzxoYOLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tprPfD502yV5urjXgEYOLD5iJu",
+      "num":"Utilities",
+      "description":"最新版本:  81.0.4044.124\n更新时间:  2020-04-22 07:04:51 (北京时间)\n\nThanks for choosing Chrome! This version includes:\n•Fixes for crashes related to bookmarks and security \n•Chrome updated its Terms of Service.  \n•Search suggestions will also include suggestions from the middle of words. "
+    },
+    {
       "name":"Disney+",
       "url":"https://www.maiyewang.com/index-get.php?url=WaJEIfto61uERrLtZeKAobtuu10ASjdt1yvBIPhBhPLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90ZDlvJvTjMESDKu",
       "num":"Entertainment",
       "description":"最新版本:  1.5.1\n更新时间:  2020-04-27 23:01:47 (北京时间)\n\nWhat's new:\n• We added an extra layer of security for you. Now when you reset your email or password, you can also choose to log out of your account across all devices.\n• Data caps got you down? Now, you can choose video playback quality on your home network to help save data."
+    },
+    {
+      "name":"Wayfair – Shop All Things Home",
+      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKdrpD3y65KmJPMt6DgrAbxotPfD5Cuy010mAvhBhfgmXmKyZz0vmDxohfMEXK2yWzuBAvJrYqMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tvxjMDOvus6rwBIbhAhz1z3DKycj0qJzhAYu1znP0zPruAJbNrTPvngjJv",
+      "num":"Shopping",
+      "description":"最新版本:  5.41.2\n更新时间:  2020-04-21 19:02:46 (北京时间)\n\nThank you for updating the Wayfair app! This version has more performance improvements and bug fixes than ever before!"
     },
     {
       "name":"Fishdom",
@@ -243,16 +243,16 @@
       "description":"最新版本:  8.4\n更新时间:  2020-04-22 19:19:33 (北京时间)\n\nBrowse, rent, or buy new release movies, popular TV shows, and more — now within the app (US, UK, Germany). In addition, now clear your search history in the Settings menu."
     },
     {
-      "name":"Walmart - shopping & grocery",
-      "url":"https://www.maiyewang.com/index-get.php?url=9efvqzNvZa1mjPwtZ0evnrtt610ASjdt1OewAPwoTnMBXKNw1X2rJDxohfMEXmez5z0vInNrYqMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9evz5zLmzzNsZO1zznusUvZvHDNqZi2BoHus0f0qKLNrxj2CgjJv",
-      "num":"Shopping",
-      "description":"最新版本:  20.16\n更新时间:  2020-04-24 03:34:23 (北京时间)\n\nGet the new Walmart app. Now that we’ve moved Grocery into the Walmart App, everything's in one place. Order your weekly groceries & plenty more—choose curbside pickup or delivery to your door. And shop millions of items online."
-    },
-    {
       "name":"Roblox",
       "url":"https://www.maiyewang.com/index-get.php?url=9efvqzNvZavEvrvtYefvpHxte50ASjdt0KZrILwoTnMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qtohjwA50wv",
       "num":"Games",
       "description":"最新版本:  2.428.401006\n更新时间:  2020-04-17 07:11:39 (北京时间)\n\nTo make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability."
+    },
+    {
+      "name":"Walmart - shopping & grocery",
+      "url":"https://www.maiyewang.com/index-get.php?url=9efvqzNvZa1mjPwtZ0evnrtt610ASjdt1OewAPwoTnMBXKNw1X2rJDxohfMEXmez5z0vInNrYqMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9evz5zLmzzNsZO1zznusUvZvHDNqZi2BoHus0f0qKLNrxj2CgjJv",
+      "num":"Shopping",
+      "description":"最新版本:  20.16\n更新时间:  2020-04-24 03:34:23 (北京时间)\n\nGet the new Walmart app. Now that we’ve moved Grocery into the Walmart App, everything's in one place. Order your weekly groceries & plenty more—choose curbside pickup or delivery to your door. And shop millions of items online."
     },
     {
       "name":"Microsoft Teams",
@@ -267,6 +267,12 @@
       "description":"最新版本:  2.0.0\n更新时间:  2020-04-28 11:09:47 (北京时间)\n\nShop has Arrived. Meet your new shopping assistant making everything about online shopping better.\n\nTRACK BETTER\nGet real-time notifications for all your deliveries.\n\nPAY BETTER\nFill carts, not forms, and checkout lightning fast every time you use Shop Pay. Available at all your favorite independent online shops.\n\nSHOP BETTER\nFollow your favorite shops for recommendations you'll love."
     },
     {
+      "name":"PREQUEL: 3D Photo & D3D Camera",
+      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKdvpntsQ5umJrLt51evnTgBYWeAkHLw0zKmzrxuY00AXKNyWKZrHDxmdPLEWmKySzfwJXMsinMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=aAkHLw0zKmrDwuW0urcLMsNHZrKzhAhv1zrbttN9gruzKvwvLrkzuv",
+      "num":"Photo & Video",
+      "description":"最新版本:  1.17.20\n更新时间:  2020-04-27 17:04:38 (北京时间)\n\nHi! We hope you're doing well!\n\nIn this version:\n• New D3D effects collection: BLING\n• New HYPNO effects collection: out of this world\n• New PLASTIC effects collection: glossy and bossy\n• New MORNING filters collection: all colors of the dawn\n• New SEOUL filters collections: no such thing as too much neon\n\nThank you for your support and feedback! It inspires us to work on making Prequel even better.\n\nStay safe"
+    },
+    {
       "name":"intoLive - Live Wallpapers",
       "url":"https://www.maiyewang.com/index-get.php?url=WaJEIftoQ1umbr1tXCgvnjtqu10ASjdt6PewADNrhn2C4DvwZeZuAjdBhjgDv1gzWHNmIbtnxfMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90KBJXMqyL1D4DKyOrMrjXMwyfwtcnftNvvBKbhEWigm1Cvy",
       "num":"Photo & Video",
@@ -279,22 +285,10 @@
       "description":"最新版本:  105.0\n更新时间:  2020-04-28 04:55:38 (北京时间)\n\n• Bug fixes and performance improvements.\n \nWe fixed user-reported issues and added new features to provide a better search experience."
     },
     {
-      "name":"PREQUEL: 3D Photo & D3D Camera",
-      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKdvpntsQ5umJrLt51evnTgBYWeAkHLw0zKmzrxuY00AXKNyWKZrHDxmdPLEWmKySzfwJXMsinMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=aAkHLw0zKmrDwuW0urcLMsNHZrKzhAhv1zrbttN9gruzKvwvLrkzuv",
-      "num":"Photo & Video",
-      "description":"最新版本:  1.17.20\n更新时间:  2020-04-27 17:04:38 (北京时间)\n\nHi! We hope you're doing well!\n\nIn this version:\n• New D3D effects collection: BLING\n• New HYPNO effects collection: out of this world\n• New PLASTIC effects collection: glossy and bossy\n• New MORNING filters collection: all colors of the dawn\n• New SEOUL filters collections: no such thing as too much neon\n\nThank you for your support and feedback! It inspires us to work on making Prequel even better.\n\nStay safe"
-    },
-    {
       "name":"SHEIN-Fashion Shopping Online",
       "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFffrpH3y65umNPNt0e1vHzxvTjgC41My2ftEAvhBhn2D5Cuy6ftAIzhBhfMEg1Mw0rZvHXgAYmMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qpv1MyWHxBIbLq5PvDSD0y3LZrHrLqPjMDSDuy6zuBsrhnvnLrObtv",
       "num":"Shopping",
       "description":"最新版本:  7.0.4\n更新时间:  2020-04-18 21:50:06 (北京时间)\n\nSome bug fixes."
-    },
-    {
-      "name":"Fortnite",
-      "url":"https://www.maiyewang.com/index-get.php?url=qprrfu2z1mqPxve90mvPxt4LLAnHxuxfMDvDezWvZrKLxoTPLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=9u1rKbxnhrwE50Mu",
-      "num":"Games",
-      "description":"最新版本:  12.50\n更新时间:  2020-04-29 13:47:44 (北京时间)\n\nThe top secret Fortnite Chapter 2 - Season 2 has been activated. Make sure you download the latest update to stay on top of all the new gadgets, Spy Games modes, and more!\n\nHaven't tried Fortnite before? The best time to start is… well, now!"
     },
     {
       "name":"Google Drive",
@@ -303,10 +297,10 @@
       "description":"最新版本:  4.2020.16202\n更新时间:  2020-04-20 22:13:57 (北京时间)\n\n* Bug fixes and performance improvements"
     },
     {
-      "name":"Twitch: Live Game Streaming",
-      "url":"https://www.maiyewang.com/index-get.php?url=qp9eKt5GZvK9vwu9KEJPNt4fKAobtuxfMDJ1MyWfZvzXMsirMEXmLw0zKmArxvTrgC4DftV50rKbhzirMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=UvZvHrNrxPvEsntvNv1vIHgzfLeBAHvynjuAp9MthrgCKHKv",
-      "num":"Photo & Video",
-      "description":"最新版本:  9.0\n更新时间:  2020-04-28 03:15:24 (北京时间)\n\nBug fixes, stability fixes, and app optimizations"
+      "name":"Fortnite",
+      "url":"https://www.maiyewang.com/index-get.php?url=qprrfu2z1mqPxve90mvPxt4LLAnHxuxfMDvDezWvZrKLxoTPLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=9u1rKbxnhrwE50Mu",
+      "num":"Games",
+      "description":"最新版本:  12.50\n更新时间:  2020-04-29 13:47:44 (北京时间)\n\nThe top secret Fortnite Chapter 2 - Season 2 has been activated. Make sure you download the latest update to stay on top of all the new gadgets, Spy Games modes, and more!\n\nHaven't tried Fortnite before? The best time to start is… well, now!"
     },
     {
       "name":"Perfect Makeup 3D",
@@ -315,16 +309,10 @@
       "description":"最新版本:  1.1.1\n更新时间:  2020-04-25 18:32:15 (北京时间)\n\nNew levels added"
     },
     {
-      "name":"Norton Secure VPN & Proxy VPN",
-      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKdvortsu9eEvrLt1eevnTgBYWuDc5gz0TgsLzNsingD0C0yYeZuALNvZKfBoHft1LZrKLxoTjMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp0uuvxj0uLrtoTnwucLMsNrtrvDLqtPvEwntwS5KrjvxohrwE50gv",
-      "num":"Productivity",
-      "description":"最新版本:  3.3.9\n更新时间:  2020-03-31 07:01:02 (北京时间)\n\nWe're constantly working on improving Norton Secure VPN and appreciate all of your feedback.\n\nAny suggestions? Let us know what you think by leaving a review!"
-    },
-    {
-      "name":"Calm",
-      "url":"https://www.maiyewang.com/index-get.php?url=adm6jwm5qut4DgrnD3zu10mvrKwWLZuInNrYKLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tprj2Cgjtu",
-      "num":"Health & Fitness",
-      "description":"最新版本:  4.24.2\n更新时间:  2020-04-22 02:51:42 (北京时间)\n\nThanks for using Calm! This update contains multiple bug fixes and performance improvements.\n\nBe sure to listen to our newest Sleep Stories including “The Golden Arrow,” narrated by Calm Community favorite Erik Braa, where you’ll take a trip on trains and ferries all the way from London to Paris. Or journey through a selection of Calm Classics with one of our beloved narrators in the “Best of Alan Sklar - Anthology.” And don’t forget to listen to world-renowned actor Matthew McConaughey’s dreamy story about the mysteries of the universe in “Wonder.”\n\nRelax deeply and fall asleep peacefully with six new music tracks from Liquid Mind by composer Chuck Wild.\n\nCheck out our popular meditation program by Jeff Warren, known for his dynamic and accessible style of teaching, titled “How to Meditate.” It’s a simple 30-day program for everyone.\n\nAs always, you can expect an original Daily Calm every day, new Sleep Stories every week, and new meditation programs.\n\nWhile you’re waiting for the update to install, try this simple practice: Relax your body and get comfortable, then turn your attention to the breath. Keeping the rhythm of your breathing natural, just observe your breath as it flows in and out. Notice how it moves in and out of the body with curiosity. Breathe each breath as though for the very first time."
+      "name":"Twitch: Live Game Streaming",
+      "url":"https://www.maiyewang.com/index-get.php?url=qp9eKt5GZvK9vwu9KEJPNt4fKAobtuxfMDJ1MyWfZvzXMsirMEXmLw0zKmArxvTrgC4DftV50rKbhzirMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=UvZvHrNrxPvEsntvNv1vIHgzfLeBAHvynjuAp9MthrgCKHKv",
+      "num":"Photo & Video",
+      "description":"最新版本:  9.0\n更新时间:  2020-04-28 03:15:24 (北京时间)\n\nBug fixes, stability fixes, and app optimizations"
     },
     {
       "name":"Google Docs: Sync, Edit, Share",
@@ -339,16 +327,22 @@
       "description":"最新版本:  14.5.1\n更新时间:  2020-04-15 03:33:49 (北京时间)\n\nNew additions in our latest update for you to #stayINspired. Here’s what’s in store:\n• Shadow – a new feature that allows you to add shadow backdrops when adding new objects (stickers, photos, texts) and using Fit.\n• Video Editor – 50 new music tracks across multiple categories.\n• BRL – a new filter in the FLTR category for a subtle layer of smooth brilliance."
     },
     {
+      "name":"Norton Secure VPN & Proxy VPN",
+      "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKdvortsu9eEvrLt1eevnTgBYWuDc5gz0TgsLzNsingD0C0yYeZuALNvZKfBoHft1LZrKLxoTjMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp0uuvxj0uLrtoTnwucLMsNrtrvDLqtPvEwntwS5KrjvxohrwE50gv",
+      "num":"Productivity",
+      "description":"最新版本:  3.3.9\n更新时间:  2020-03-31 07:01:02 (北京时间)\n\nWe're constantly working on improving Norton Secure VPN and appreciate all of your feedback.\n\nAny suggestions? Let us know what you think by leaving a review!"
+    },
+    {
       "name":"Nike",
       "url":"https://www.maiyewang.com/index-get.php?url=90tqoLdoxr2xzrLtXSgvobtvu90DfrKwWLZuAjhBTjMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tprPLCS1gv",
       "num":"Shopping",
       "description":"最新版本:  2.108.0\n更新时间:  2020-04-23 02:19:57 (北京时间)\n\n• Addressed various bugs and performance issues to improve the overall experience."
     },
     {
-      "name":"Yee - Social at a distance",
-      "url":"https://www.maiyewang.com/index-get.php?url=WaJEIftoQ5eEJrLt5fevoDxvu10ASjdtS5uBIHMuZmgCsDftOfZqKHwmdjgASjtw25ewmXMvxvMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=9uLmzvNrhrMESDKwNv0rjbJrhL0CgDvyQLJmvDgmdLeBwD1v",
-      "num":"Social Networking",
-      "description":"最新版本:  1.0.0\n更新时间:  2020-04-14 12:21:26 (北京时间)\n\n"
+      "name":"Calm",
+      "url":"https://www.maiyewang.com/index-get.php?url=adm6jwm5qut4DgrnD3zu10mvrKwWLZuInNrYKLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tprj2Cgjtu",
+      "num":"Health & Fitness",
+      "description":"最新版本:  4.24.2\n更新时间:  2020-04-22 02:51:42 (北京时间)\n\nThanks for using Calm! This update contains multiple bug fixes and performance improvements.\n\nBe sure to listen to our newest Sleep Stories including “The Golden Arrow,” narrated by Calm Community favorite Erik Braa, where you’ll take a trip on trains and ferries all the way from London to Paris. Or journey through a selection of Calm Classics with one of our beloved narrators in the “Best of Alan Sklar - Anthology.” And don’t forget to listen to world-renowned actor Matthew McConaughey’s dreamy story about the mysteries of the universe in “Wonder.”\n\nRelax deeply and fall asleep peacefully with six new music tracks from Liquid Mind by composer Chuck Wild.\n\nCheck out our popular meditation program by Jeff Warren, known for his dynamic and accessible style of teaching, titled “How to Meditate.” It’s a simple 30-day program for everyone.\n\nAs always, you can expect an original Daily Calm every day, new Sleep Stories every week, and new meditation programs.\n\nWhile you’re waiting for the update to install, try this simple practice: Relax your body and get comfortable, then turn your attention to the breath. Keeping the rhythm of your breathing natural, just observe your breath as it flows in and out. Notice how it moves in and out of the body with curiosity. Breathe each breath as though for the very first time."
     },
     {
       "name":"eBay",
@@ -375,18 +369,6 @@
       "description":"最新版本:  4.24.2\n更新时间:  2020-04-17 06:12:01 (北京时间)\n\nThanks for your feedback, we've squished some bugs to make Airtime better than ever. And while we were at it, we've improved sound quality across the whole experience, and made it even easier to search for content. We love hearing your feedback, so be sure to let us know how we're doing! See you soon on Airtime. Distance, made social."
     },
     {
-      "name":"Omegle",
-      "url":"https://www.maiyewang.com/index-get.php?url=WaJEIftou10mNrut3Tgvnftqu10ASjdtSHNmAXwmYiMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=WgEYOfBXidv",
-      "num":"Social Networking",
-      "description":"最新版本:  2.0.4\n更新时间:  2020-04-14 01:43:46 (北京时间)\n\n-New Subscription service with bonus features\n-Chat connection improvements\n-Bug fixes"
-    },
-    {
-      "name":"Wink - make new snap friends",
-      "url":"https://www.maiyewang.com/index-get.php?url=qprrfu2z1mqftt61eENPMt5DgroHxuxfMDnHKw1z1vHLNwxX0Dg1My6ftEKXwnxXeB0Dvw0ftEHvhBYqMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9C3yRvZvAbNsUP1zbHvw15esjnJvTj2zvjtyOfZrjrxq5fwDSjJv",
-      "num":"Social Networking",
-      "description":"最新版本:  1.2.1\n更新时间:  2020-04-23 06:49:53 (北京时间)\n\nGems! We all want more gems! Now you can earn gems by following @winkapp on Snapchat. Let’s be friends! Speaking of friends...we changed things around so it’s easier than ever to see your friends who are online. Besides that, we’ve fixed a bunch of bugs and made things smoother for you all. Thanks for using Wink to make new friends :)"
-    },
-    {
       "name":"Save The Girl!",
       "url":"https://www.maiyewang.com/index-get.php?url=90tqoLdoxr2xnPwt5ffrpPxqu9emfrKwWLZqILhBYOfDvDuyWeZuAjJrYmMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0trdjwESjJuNv1rHvLqtPLmgjtv",
       "num":"Games",
@@ -399,22 +381,34 @@
       "description":"最新版本:  5.42\n更新时间:  2020-04-22 01:19:39 (北京时间)\n\nThanks for using Google Maps! This release brings bug fixes that improve our product to help you discover new places and navigate to them."
     },
     {
-      "name":"Brain Test: Tricky Puzzles",
-      "url":"https://www.maiyewang.com/index-get.php?url=qp9eKt5GZvK9vvu9emrrvt5LfrpbtrePfC5K3ySHxBLzJvingDRntyQXwBJbtmdrMEwDez0rZvHHMsULLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90ewAnhCUvwmczus1qNmzbNsiz1zVrez6z1rwDgnxfgAk5wu",
-      "num":"Games",
-      "description":"最新版本:  2.4.2\n更新时间:  2020-04-17 14:01:25 (北京时间)\n\nNew levels added. Have fun!"
-    },
-    {
       "name":"Game of Games the Game",
       "url":"https://www.maiyewang.com/index-get.php?url=90tqoLdoxr2xjr1t51KAoP3A61emfrKwWLZuArNrYOfDvDuyWetEJXwmxLLBXKMw2fZuArNrYOLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tprPfDgjJuNv1rHbJq5ngBXCvwijuAAzNqtPfDgjJu",
       "num":"Games",
       "description":"最新版本:  1.4.634\n更新时间:  2020-04-23 22:12:57 (北京时间)\n\nThe update you’ve been waiting for is here! Introducing a sneak peek at our brand new game, Hot Hands! Plus, general bug fixes and enhancements."
     },
     {
-      "name":"OfferUp - Buy. Sell. Simple.",
-      "url":"https://www.maiyewang.com/index-get.php?url=90tqoLdoxr2xjrLt4LfvpvZzQ5emrDvy2v1rIDxmxfMEXmKyZzLmJr3AyrwAXm0yXOewA1MwYiMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9CgtSH3rJrhBYu1z0mKyZzLmvDgntvwmkvus0f0qJzLsyPvBAjdv",
-      "num":"Shopping",
-      "description":"最新版本:  3.56\n更新时间:  2020-04-10 05:00:38 (北京时间)\n\nThanks for using OfferUp! We've made updates to many of our existing features to make the app faster and more fun to use than ever before.\nWhat's new?\n- Minor bug fixes."
+      "name":"Yee - Social at a distance",
+      "url":"https://www.maiyewang.com/index-get.php?url=WaJEIftoQ5eEJrLt5fevoDxvu10ASjdtS5uBIHMuZmgCsDftOfZqKHwmdjgASjtw25ewmXMvxvMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=9uLmzvNrhrMESDKwNv0rjbJrhL0CgDvyQLJmvDgmdLeBwD1v",
+      "num":"Social Networking",
+      "description":"最新版本:  1.0.0\n更新时间:  2020-04-14 12:21:26 (北京时间)\n\n"
+    },
+    {
+      "name":"Brain Test: Tricky Puzzles",
+      "url":"https://www.maiyewang.com/index-get.php?url=qp9eKt5GZvK9vvu9emrrvt5LfrpbtrePfC5K3ySHxBLzJvingDRntyQXwBJbtmdrMEwDez0rZvHHMsULLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90ewAnhCUvwmczus1qNmzbNsiz1zVrez6z1rwDgnxfgAk5wu",
+      "num":"Games",
+      "description":"最新版本:  2.4.2\n更新时间:  2020-04-17 14:01:25 (北京时间)\n\nNew levels added. Have fun!"
+    },
+    {
+      "name":"Wink - make new snap friends",
+      "url":"https://www.maiyewang.com/index-get.php?url=qprrfu2z1mqftt61eENPMt5DgroHxuxfMDnHKw1z1vHLNwxX0Dg1My6ftEKXwnxXeB0Dvw0ftEHvhBYqMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9C3yRvZvAbNsUP1zbHvw15esjnJvTj2zvjtyOfZrjrxq5fwDSjJv",
+      "num":"Social Networking",
+      "description":"最新版本:  1.2.1\n更新时间:  2020-04-23 06:49:53 (北京时间)\n\nGems! We all want more gems! Now you can earn gems by following @winkapp on Snapchat. Let’s be friends! Speaking of friends...we changed things around so it’s easier than ever to see your friends who are online. Besides that, we’ve fixed a bunch of bugs and made things smoother for you all. Thanks for using Wink to make new friends :)"
+    },
+    {
+      "name":"Omegle",
+      "url":"https://www.maiyewang.com/index-get.php?url=WaJEIftou10mNrut3Tgvnftqu10ASjdtSHNmAXwmYiMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=WgEYOfBXidv",
+      "num":"Social Networking",
+      "description":"最新版本:  2.0.4\n更新时间:  2020-04-14 01:43:46 (北京时间)\n\n-New Subscription service with bonus features\n-Chat connection improvements\n-Bug fixes"
     },
     {
       "name":"Google Photos",
@@ -423,10 +417,10 @@
       "description":"最新版本:  4.49\n更新时间:  2020-04-16 06:12:51 (北京时间)\n\nGoogle Photos is now compatible with Dark Mode. Simply switch to Dark Mode in your devices settings to apply to Google Photos."
     },
     {
-      "name":"Idle Streamer!",
-      "url":"https://www.maiyewang.com/index-get.php?url=90tqoLdoxr2xvPxtYufvnnZAu9emfrKwWLtAJXwmxLfBkHez6fZuAnNuxfMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0trPngBXCvwSPesKrLqtP1CsD1u",
-      "num":"Games",
-      "description":"最新版本:  1.15\n更新时间:  2020-04-28 23:45:10 (北京时间)\n\n- added new event\n- bug fixes\n- performance optimization"
+      "name":"OfferUp - Buy. Sell. Simple.",
+      "url":"https://www.maiyewang.com/index-get.php?url=90tqoLdoxr2xjrLt4LfvpvZzQ5emrDvy2v1rIDxmxfMEXmKyZzLmJr3AyrwAXm0yXOewA1MwYiMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9CgtSH3rJrhBYu1z0mKyZzLmvDgntvwmkvus0f0qJzLsyPvBAjdv",
+      "num":"Shopping",
+      "description":"最新版本:  3.56\n更新时间:  2020-04-10 05:00:38 (北京时间)\n\nThanks for using OfferUp! We've made updates to many of our existing features to make the app faster and more fun to use than ever before.\nWhat's new?\n- Minor bug fixes."
     },
     {
       "name":"YOLO: Anonymous Q&A",
@@ -441,16 +435,16 @@
       "description":"最新版本:  2020.4.3\n更新时间:  2020-04-09 01:22:38 (北京时间)\n\nSeveral small improvements and bug fixes."
     },
     {
+      "name":"Idle Streamer!",
+      "url":"https://www.maiyewang.com/index-get.php?url=90tqoLdoxr2xvPxtYufvnnZAu9emfrKwWLtAJXwmxLfBkHez6fZuAnNuxfMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0trPngBXCvwSPesKrLqtP1CsD1u",
+      "num":"Games",
+      "description":"最新版本:  1.15\n更新时间:  2020-04-28 23:45:10 (北京时间)\n\n- added new event\n- bug fixes\n- performance optimization"
+    },
+    {
       "name":"Robinhood: Invest. Save. Earn.",
       "url":"https://www.maiyewang.com/index-get.php?url=qp9eKt5GZvK9vve9eEnrut3DMEnvtuxfMD002yOz1vmXMwyLLEXmez6zvBKvhBxX0A5iJyVvZvHLwoTnMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qD002yOzvrjvxvTrgAozus1f1mJXMwUjMscL2tRLJmI9wnxfwA50wv",
       "num":"Finance",
       "description":"最新版本:  8.25.0\n更新时间:  2020-04-28 07:35:44 (北京时间)\n\nHere's what's under the hood in our latest update:\n- Bug fixes and improvements"
-    },
-    {
-      "name":"Tinder",
-      "url":"https://www.maiyewang.com/index-get.php?url=9efvqzNvZafErrut5fKEontuu50ASjdt5z1rAvhBhrMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=KNvhPvDSDKv",
-      "num":"Lifestyle",
-      "description":"最新版本:  11.14.0\n更新时间:  2020-04-27 23:52:40 (北京时间)\n\nPesky bugs have been exterminated. Continue as you were."
     },
     {
       "name":"Microsoft Outlook",
@@ -465,6 +459,18 @@
       "description":"最新版本:  2004.1\n更新时间:  2020-04-15 07:45:29 (北京时间)\n\nBug fixes and feature improvements to reduce crashes and improve your overall listening experience."
     },
     {
+      "name":"Tinder",
+      "url":"https://www.maiyewang.com/index-get.php?url=9efvqzNvZafErrut5fKEontuu50ASjdt5z1rAvhBhrMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=KNvhPvDSDKv",
+      "num":"Lifestyle",
+      "description":"最新版本:  11.14.0\n更新时间:  2020-04-27 23:52:40 (北京时间)\n\nPesky bugs have been exterminated. Continue as you were."
+    },
+    {
+      "name":"Uber Eats: Order Food Delivery",
+      "url":"https://www.maiyewang.com/index-get.php?url=0tuubLDwnduZmMAnvtvu9envrut4f1vHz3AUngBAHvyZz1rArxuYiMDADft5z1rALxoxXKEsHvwSftAJXMsxrMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qnkHLwYW2rIXMufL0A5iJyhjuAJXMuTngucL2t6jfwzzKqPngBkDLv",
+      "num":"Food & Drink",
+      "description":"最新版本:  1.238.10006\n更新时间:  2020-04-28 06:14:32 (北京时间)\n\nWe update the Uber Eats app as often as possible to make it faster and more reliable for you. Here are a couple of the enhancements you'll find in the latest update:\n\n- Performance improvements\n- Localization updates\n\nLove the app? Rate us! Your feedback keeps the Uber Eats engine running.\nHave a question? Tap Help in the Uber Eats app or visit help.uber.com."
+    },
+    {
       "name":"SoundCloud - Music & Audio",
       "url":"https://www.maiyewang.com/index-get.php?url=adm6jwm5qvtXuKEnfttQ5KEnrKwWLtEIbNuxrgAXKxwW5ewKrxmdPvm5CKyQjvBIftoYmMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=9GZvHTMvyf1zznusQXMmJftmfLeDbnKwXKZrIrKuTjwm5itv",
       "num":"Music",
@@ -477,16 +483,16 @@
       "description":"最新版本:  0.8\n更新时间:  2020-04-23 08:23:39 (北京时间)\n\n- Performance improvements.\n\nThanks for playing Hypermarket 3D!"
     },
     {
+      "name":"Photomath",
+      "url":"https://www.maiyewang.com/index-get.php?url=qprrfu2z1mqjts650mNrut1uevpTgBYW0BsHvw0LZrKzhAhnMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=VjfwzrxohrMDODuv",
+      "num":"Education",
+      "description":"最新版本:  6.11.0\n更新时间:  2020-04-24 14:22:41 (北京时间)\n\nBug fixes and overall performance enhancements"
+    },
+    {
       "name":"Reddit",
       "url":"https://www.maiyewang.com/index-get.php?url=WaJEIftoe9uENPMt4Lerojtqu10ASjdtWW2rATMvTnMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=adBhP1Aw1wv",
       "num":"News",
       "description":"最新版本:  2020.15.0\n更新时间:  2020-04-28 02:53:37 (北京时间)\n\n• Improved messaging if you are unable to start an RPAN broadcast\n• Minor fixes and improvements—In an effort to be more transparent, we’ll admit that we only put this here in case we forgot something"
-    },
-    {
-      "name":"Uber Eats: Order Food Delivery",
-      "url":"https://www.maiyewang.com/index-get.php?url=0tuubLDwnduZmMAnvtvu9envrut4f1vHz3AUngBAHvyZz1rArxuYiMDADft5z1rALxoxXKEsHvwSftAJXMsxrMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qnkHLwYW2rIXMufL0A5iJyhjuAJXMuTngucL2t6jfwzzKqPngBkDLv",
-      "num":"Food & Drink",
-      "description":"最新版本:  1.238.10006\n更新时间:  2020-04-28 06:14:32 (北京时间)\n\nWe update the Uber Eats app as often as possible to make it faster and more reliable for you. Here are a couple of the enhancements you'll find in the latest update:\n\n- Performance improvements\n- Localization updates\n\nLove the app? Rate us! Your feedback keeps the Uber Eats engine running.\nHave a question? Tap Help in the Uber Eats app or visit help.uber.com."
     },
     {
       "name":"UNO!™",
@@ -501,18 +507,6 @@
       "description":"最新版本:  1.5\n更新时间:  2020-04-10 23:33:44 (北京时间)\n\nWe are ready to make your game experience even greater. Bugs are fixed and game performance is optimized. Enjoy.\n\nOur team reads all reviews and always tries to make the game better. Please leave us some feedback if you love what we do and feel free to suggest any improvements."
     },
     {
-      "name":"Photomath",
-      "url":"https://www.maiyewang.com/index-get.php?url=qprrfu2z1mqjts650mNrut1uevpTgBYW0BsHvw0LZrKzhAhnMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=VjfwzrxohrMDODuv",
-      "num":"Education",
-      "description":"最新版本:  6.11.0\n更新时间:  2020-04-24 14:22:41 (北京时间)\n\nBug fixes and overall performance enhancements"
-    },
-    {
-      "name":"Magic Tiles 3: Piano Game",
-      "url":"https://www.maiyewang.com/index-get.php?url=WaJEIftoe50mfPMtWeLEnbtuu10ASjdtSfZvz5wm5jwDgDvy3ftEnrxtyP1CSDez010vH5MrxjMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90tuArNrYi1z40MyOX2rvD2B610znHLwZX2rwDwtxfMBgDfv",
-      "num":"Games",
-      "description":"最新版本:  7.049.003\n更新时间:  2020-04-22 05:27:22 (北京时间)\n\n- 1000 new HOT SONGs released!\n- Free revive for VIP!\n- Fix minor bugs."
-    },
-    {
       "name":"Car Restoration 3D",
       "url":"https://www.maiyewang.com/index-get.php?url=amWONyXKdvpntwu1emjrut3vfvnTgBYW0Aorft1LZvHbJrTnMDsnZySPewmLNrYKLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=f5erjvxoxfgmg12y2j1mJXMsgLuEgjtu",
       "num":"Games",
@@ -525,10 +519,10 @@
       "description":"最新版本:  7.80\n更新时间:  2020-04-28 00:31:26 (北京时间)\n\nIntroducing Contact-free delivery, a new feature created for your safety and your driver’s. Opt in at checkout and your driver will call/text when they arrive and drop off your order."
     },
     {
-      "name":"Hoop Stack",
-      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFTMAnftse1umrr1tWuerAbxo5fMAgDez6fZqJzxohfMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9CxyQz0rKrLqdnMD5C0u",
+      "name":"Magic Tiles 3: Piano Game",
+      "url":"https://www.maiyewang.com/index-get.php?url=WaJEIftoe50mfPMtWeLEnbtuu10ASjdtSfZvz5wm5jwDgDvy3ftEnrxtyP1CSDez010vH5MrxjMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90tuArNrYi1z40MyOX2rvD2B610znHLwZX2rwDwtxfMBgDfv",
       "num":"Games",
-      "description":"最新版本:  0.6.3\n更新时间:  2020-04-23 00:47:40 (北京时间)\n\n-Bug fixes and performance improvements."
+      "description":"最新版本:  7.049.003\n更新时间:  2020-04-22 05:27:22 (北京时间)\n\n- 1000 new HOT SONGs released!\n- Free revive for VIP!\n- Fix minor bugs."
     },
     {
       "name":"Pot Master 3D",
@@ -543,10 +537,10 @@
       "description":"最新版本:  1.6.3\n更新时间:  2020-04-25 05:41:14 (北京时间)\n\nHey Pranksters! Enjoy the newest Epic version of the Game, this time with:\n- Improved levels\n- Minor bug fixes\nWe hope you will enjoy the game as much as we do!"
     },
     {
-      "name":"Gardenscapes",
-      "url":"https://www.maiyewang.com/index-get.php?url=adm6jwm5q1t4fevofZzu50DfrvtRXMmmPNvhngAojZy1z1rALNrYOLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=GEwD0yO5KmJvNvhPvEgjJu",
+      "name":"Hoop Stack",
+      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFTMAnftse1umrr1tWuerAbxo5fMAgDez6fZqJzxohfMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9CxyQz0rKrLqdnMD5C0u",
       "num":"Games",
-      "description":"最新版本:  4.3.0\n更新时间:  2020-04-06 20:24:52 (北京时间)\n\nMajor spring update!\n- Easter Excitement: decorate the garden for Easter and get a unique mansion redesign.\n- Collect Easter eggs in levels to win great prizes in the Easter Adventure event in mid-April.\n- Help Robbie Wood get the lake house ready for Melinda's arrival at the end of April.\n\nA new chapter in the storyline\n- Find Calvadori's old seaplane and create an open-air museum.\n- Meet a new pet — Roger the mischievous parrot.\n\nAlso featuring\n- A new match-3 element: make matches next to Trays to fill glasses with Lemonade and move them on the field.\n- You can now win stars in the Dog Training event.\n- Don't miss the Happy Coupon offer: get twice as many coins for purchasing any kit in the Garden Shop."
+      "description":"最新版本:  0.6.3\n更新时间:  2020-04-23 00:47:40 (北京时间)\n\n-Bug fixes and performance improvements."
     },
     {
       "name":"BofA Prepaid Mobile",
@@ -555,10 +549,10 @@
       "description":"最新版本:  4.5.7\n更新时间:  2019-12-20 04:19:00 (北京时间)\n\nNew Navigation and Spanish enabled"
     },
     {
-      "name":"Fitness Coach",
-      "url":"https://www.maiyewang.com/index-get.php?url=90tqoLdoxr2xJr1tZCMEnjts65emfrKwWLZqHPMrYiMAXK3y6zvBIbdBTPLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tpbfMAgjJyejuEJPNvTjgmS1Mu",
-      "num":"Health & Fitness",
-      "description":"最新版本:  1.4.12\n更新时间:  2020-04-25 23:02:33 (北京时间)\n\nImprove onboarding"
+      "name":"Gardenscapes",
+      "url":"https://www.maiyewang.com/index-get.php?url=adm6jwm5q1t4fevofZzu50DfrvtRXMmmPNvhngAojZy1z1rALNrYOLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=GEwD0yO5KmJvNvhPvEgjJu",
+      "num":"Games",
+      "description":"最新版本:  4.3.0\n更新时间:  2020-04-06 20:24:52 (北京时间)\n\nMajor spring update!\n- Easter Excitement: decorate the garden for Easter and get a unique mansion redesign.\n- Collect Easter eggs in levels to win great prizes in the Easter Adventure event in mid-April.\n- Help Robbie Wood get the lake house ready for Melinda's arrival at the end of April.\n\nA new chapter in the storyline\n- Find Calvadori's old seaplane and create an open-air museum.\n- Meet a new pet — Roger the mischievous parrot.\n\nAlso featuring\n- A new match-3 element: make matches next to Trays to fill glasses with Lemonade and move them on the field.\n- You can now win stars in the Dog Training event.\n- Don't miss the Happy Coupon offer: get twice as many coins for purchasing any kit in the Garden Shop."
     },
     {
       "name":"Hangouts",
@@ -567,22 +561,28 @@
       "description":"最新版本:  33.0.0\n更新时间:  2020-04-09 00:57:37 (北京时间)\n\n*Video Quality may now decrease if the server load increases.\n*Removed dependencies on UIWebView APIs.\n*Miscellaneous bug fixes."
     },
     {
-      "name":"Lucky Pusher-Win Big Rewards",
-      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFveroHxre50DrrutXuerAbxo5n2AkHvwZyvBJr3yxfwAXKMyWrgwmLNvhfMEwH0y0T2mHPMvijMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9C3yRPewznJvTv1zJDvydjuAIbhzwXuEwDuy6zfsvD2AZeMAwHev",
-      "num":"Games",
-      "description":"最新版本:  1.1.6\n更新时间:  2020-04-14 10:35:04 (北京时间)\n\nBug fixes & Performance improvements"
-    },
-    {
       "name":"Dirt Bike Unchained",
       "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFnMEoD3y65eEfrLtWuerAbxodPfB1CvyOHMmzvNvyXeB0DvyPfZqKLhBhPLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9eKwSvZvHHgAYKvDwzusSr3vHnKqdrwESDKu",
       "num":"Games",
       "description":"最新版本:  1.4.2\n更新时间:  2020-04-27 19:24:36 (北京时间)\n\nGlobal release of Dirt Bike Unchained! Have fun and see you at the tracks!"
     },
     {
-      "name":"Fonts",
-      "url":"https://www.maiyewang.com/index-get.php?url=9efvqzNvZafmfPMt4Lfrnbtve5eErDvy21esKvxoTPLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0ttirwD50Mu",
-      "num":"Utilities",
-      "description":"最新版本:  7.1.2\n更新时间:  2020-04-09 21:45:21 (北京时间)\n\nBug fixes and improvements"
+      "name":"Instacart",
+      "url":"https://www.maiyewang.com/index-get.php?url=qprrfu2z1mqjtvQ1unRrLtXefvoTgBYWemkHvwQz0rKPxnxfMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=WOewzPMrhrME1C1u",
+      "num":"Food & Drink",
+      "description":"最新版本:  7.25.0\n更新时间:  2020-04-29 04:49:10 (北京时间)\n\nDelivering fresh groceries on your schedule means our app is always evolving. With this update, we've fixed a few underlying issues to give you the most seamless experience possible. Happy shopping!"
+    },
+    {
+      "name":"Fitness Coach",
+      "url":"https://www.maiyewang.com/index-get.php?url=90tqoLdoxr2xJr1tZCMEnjts65emfrKwWLZqHPMrYiMAXK3y6zvBIbdBTPLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tpbfMAgjJyejuEJPNvTjgmS1Mu",
+      "num":"Health & Fitness",
+      "description":"最新版本:  1.4.12\n更新时间:  2020-04-25 23:02:33 (北京时间)\n\nImprove onboarding"
+    },
+    {
+      "name":"Lucky Pusher-Win Big Rewards",
+      "url":"https://www.maiyewang.com/index-get.php?url=0tpb5uo4CfzFveroHxre50DrrutXuerAbxo5n2AkHvwZyvBJr3yxfwAXKMyWrgwmLNvhfMEwH0y0T2mHPMvijMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9C3yRPewznJvTv1zJDvydjuAIbhzwXuEwDuy6zfsvD2AZeMAwHev",
+      "num":"Games",
+      "description":"最新版本:  1.1.6\n更新时间:  2020-04-14 10:35:04 (北京时间)\n\nBug fixes & Performance improvements"
     },
     {
       "name":"Lip Art 3D",
@@ -591,10 +591,10 @@
       "description":"最新版本:  1.1.1\n更新时间:  2020-04-24 00:45:53 (北京时间)\n\n- More enjoyable game experience.\n- Bug fixes and optimized performance.\n\nHave fun playing!"
     },
     {
-      "name":"Instacart",
-      "url":"https://www.maiyewang.com/index-get.php?url=qprrfu2z1mqjtvQ1unRrLtXefvoTgBYWemkHvwQz0rKPxnxfMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=WOewzPMrhrME1C1u",
-      "num":"Food & Drink",
-      "description":"最新版本:  7.25.0\n更新时间:  2020-04-29 04:49:10 (北京时间)\n\nDelivering fresh groceries on your schedule means our app is always evolving. With this update, we've fixed a few underlying issues to give you the most seamless experience possible. Happy shopping!"
+      "name":"Fonts",
+      "url":"https://www.maiyewang.com/index-get.php?url=9efvqzNvZafmfPMt4Lfrnbtve5eErDvy21esKvxoTPLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0ttirwD50Mu",
+      "num":"Utilities",
+      "description":"最新版本:  7.1.2\n更新时间:  2020-04-09 21:45:21 (北京时间)\n\nBug fixes and improvements"
     },
     {
       "name":"Idle Life Sim - Simulator Game",
