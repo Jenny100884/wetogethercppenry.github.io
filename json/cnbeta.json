@@ -1,7 +1,11 @@
 {
-  "time":"2020-05-01 10:40:03",
+  "time":"2020-05-01 10:50:03",
   "title":"cnBeta",
   "data":[
+    {
+      "name":"微软开源基于Rust的新软件 可在Kubernetes上运行WebAssembly",
+      "url":"https://www.maiyewang.com/index-get.php?url=qpWCezVvZupD3z610mRPhtV50vAbto5ngB4jtwWjLBJHwotjMDo1gtOjfwALwnYKvDJndzZKtEmzttingmsHuy&group=cnbeta&title=9SgsILwmxPLEoHvuPzLmw10rlztuTWKnlLgt1ONvhrgB102ySP0vKXeAl5gBFzJASruA0DZuTixoP90Cxf2tOfwzprMEw5wvpfht1ytlAvtuXjxnbLNy1yNmmztD2iwn"
+    },
     {
       "name":"美卫生专家：无法真正统计出新冠病毒患者的准确人数",
       "url":"https://www.maiyewang.com/index-get.php?url=qpWCezVvtEoD3z610mRPhtV50vAbto5ngB4jtwWjLBJHwotjMDo1gtOjfwALwnYKvDJndzZKtEmzttingmsHuy&group=cnbeta&title=3DfC1ytCmvtDhztnhvww1uuC1uJrdLKnQT0B1mvlXvJrLvtnNfww1CxyWvJnLLvnOzZs2ywD3uJAYexnMLxn1y1tYvZzLbxnHL3n3iJnHvdvPXunMnvn1iNmzvZt2Ctn"
@@ -237,10 +241,6 @@
     {
       "name":"微博回应用户被\"劫持\"：集中在PC端 建议优先使用客户端",
       "url":"https://www.maiyewang.com/index-get.php?url=qpWCezVvZunvtw610mRPhtV50vAbto5ngB4jtwWjLBJHwotjMDo1gtOjfwALwnYKvDJndzZKtEmzttingmsHuy&group=cnbeta&title=qp4ytCUzgtP1gtXjhBQTeBU9Ly2TMAzHgBQPKDRDtCY9MC3uhBeLNCYvwlrffAl5gBZSuDRjgnTbNCkzNDmn1znfwlXT0v1LKClTKnZK2B182u1utvXjwnLvNw1eMmzvtD2iwn"
-    },
-    {
-      "name":"美国FDA可能给瑞德西韦紧急使用授权：正与吉利德谈判",
-      "url":"https://www.maiyewang.com/index-get.php?url=qpWCezVvZuprtw610mRPhtV50vAbto5ngB4jtwWjLBJHwotjMDo1gtOjfwALwnYKvDJndzZKtEmzttingmsHuy&group=cnbeta&title=RLww1K0qmzZm2iwnWLww1O0qAvZtPXunQjtC1ewE3CdrYaxnjzZB182u1uZxYWunSn0B142u3utBTOLnFD1s2mJnIvtzhvtnAv3n1KZtjzJDTKvncj1AsLtDAvZt2Ctn"
     }
   ]
 }
